@@ -1,0 +1,938 @@
+[
+  {
+    "id": "1st-001",
+    "name": "Card No.001",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_001.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-002",
+    "name": "Card No.002",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_002.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-003",
+    "name": "Card No.003",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_003.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-004",
+    "name": "Card No.004",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_004.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-005",
+    "name": "Card No.005",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_005.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-006",
+    "name": "Card No.006",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_006.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-007",
+    "name": "Card No.007",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_007.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-008",
+    "name": "Card No.008",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_008.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-009",
+    "name": "Card No.009",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_009.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-010",
+    "name": "Card No.010",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_010.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-011",
+    "name": "Card No.011",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_011.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-012",
+    "name": "Card No.012",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_012.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-013",
+    "name": "Card No.013",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_013.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-014",
+    "name": "Card No.014",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_014.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-015",
+    "name": "Card No.015",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_015.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-016",
+    "name": "Card No.016",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_016.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-017",
+    "name": "Card No.017",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_017.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-018",
+    "name": "Card No.018",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_018.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-019",
+    "name": "Card No.019",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_019.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-020",
+    "name": "Card No.020",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_020.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-021",
+    "name": "Card No.021",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_021.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-022",
+    "name": "Card No.022",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_022.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-023",
+    "name": "Card No.023",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_023.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-024",
+    "name": "Card No.024",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_024.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-025",
+    "name": "Card No.025",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_025.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-026",
+    "name": "Card No.026",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_026.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-027",
+    "name": "Card No.027",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_027.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-028",
+    "name": "Card No.028",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_028.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-029",
+    "name": "Card No.029",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_029.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-030",
+    "name": "Card No.030",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_030.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-031",
+    "name": "Card No.031",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_031.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-032",
+    "name": "Card No.032",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_032.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-033",
+    "name": "Card No.033",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_033.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-034",
+    "name": "Card No.034",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_034.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-035",
+    "name": "Card No.035",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_035.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-036",
+    "name": "Card No.036",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_036.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-037",
+    "name": "Card No.037",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_037.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-038",
+    "name": "Card No.038",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_038.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-039",
+    "name": "Card No.039",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_039.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-040",
+    "name": "Card No.040",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_040.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-041",
+    "name": "Card No.041",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_041.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-042",
+    "name": "Card No.042",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_042.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-043",
+    "name": "Card No.043",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_043.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-044",
+    "name": "Card No.044",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_044.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-045",
+    "name": "Card No.045",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_045.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-046",
+    "name": "Card No.046",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_046.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-047",
+    "name": "Card No.047",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_047.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-048",
+    "name": "Card No.048",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_048.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-049",
+    "name": "Card No.049",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_049.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-050",
+    "name": "Card No.050",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_050.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-051",
+    "name": "Card No.051",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_051.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-052",
+    "name": "Card No.052",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_052.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-053",
+    "name": "Card No.053",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_053.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-054",
+    "name": "Card No.054",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_054.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-055",
+    "name": "Card No.055",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_055.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-056",
+    "name": "Card No.056",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_056.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-057",
+    "name": "Card No.057",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_057.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-058",
+    "name": "Card No.058",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_058.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-059",
+    "name": "Card No.059",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_059.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-060",
+    "name": "Card No.060",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_060.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-061",
+    "name": "Card No.061",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_061.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-062",
+    "name": "Card No.062",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_062.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-063",
+    "name": "Card No.063",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_063.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-064",
+    "name": "Card No.064",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_064.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-065",
+    "name": "Card No.065",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_065.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-066",
+    "name": "Card No.066",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_066.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-067",
+    "name": "Card No.067",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_067.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-068",
+    "name": "Card No.068",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_068.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-069",
+    "name": "Card No.069",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_069.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-070",
+    "name": "Card No.070",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_070.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-071",
+    "name": "Card No.071",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_071.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-072",
+    "name": "Card No.072",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_072.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-073",
+    "name": "Card No.073",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_073.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-074",
+    "name": "Card No.074",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_074.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-075",
+    "name": "Card No.075",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_075.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-076",
+    "name": "Card No.076",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_076.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-077",
+    "name": "Card No.077",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_077.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-078",
+    "name": "Card No.078",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_078.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-079",
+    "name": "Card No.079",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_079.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-080",
+    "name": "Card No.080",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_080.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-081",
+    "name": "Card No.081",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_081.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-082",
+    "name": "Card No.082",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_082.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-083",
+    "name": "Card No.083",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_083.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-084",
+    "name": "Card No.084",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_084.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-085",
+    "name": "Card No.085",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_085.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-086",
+    "name": "Card No.086",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_086.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-087",
+    "name": "Card No.087",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_087.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-088",
+    "name": "Card No.088",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_088.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-089",
+    "name": "Card No.089",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_089.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-090",
+    "name": "Card No.090",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_090.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-091",
+    "name": "Card No.091",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_091.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-092",
+    "name": "Card No.092",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_092.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-093",
+    "name": "Card No.093",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_093.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-094",
+    "name": "Card No.094",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_094.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-095",
+    "name": "Card No.095",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_095.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-096",
+    "name": "Card No.096",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_096.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-097",
+    "name": "Card No.097",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_097.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-098",
+    "name": "Card No.098",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_098.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-099",
+    "name": "Card No.099",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_099.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-100",
+    "name": "Card No.100",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_100.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-101",
+    "name": "Card No.101",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_101.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-102",
+    "name": "Card No.102",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_102.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-103",
+    "name": "Card No.103",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_103.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  },
+  {
+    "id": "1st-104",
+    "name": "Card No.104",
+    "season": 1,
+    "imagePath": "/images/cards/CardList_1st/ZUTOMAYO_CARD_THE_BATTLE_BEGINS_1_104.jpg",
+    "attribute": "Unknown",
+    "type": "Character",
+    "effect": "テキストは未解析です"
+  }
+]

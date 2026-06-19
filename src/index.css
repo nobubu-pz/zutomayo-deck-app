@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+@theme {
+  --color-zutomayo-dark: #1a1625;
+  --color-zutomayo-darker: #13101b;
+  --color-zutomayo-light: #d4d0de;
+  --color-zutomayo-accent: #7b5ea7; /* Muted Purple */
+  --color-zutomayo-accent-hover: #634989;
+  --color-zutomayo-secondary: #558b6e; /* Muted Green */
+  --color-zutomayo-surface: rgba(40, 35, 55, 0.6);
+  --color-zutomayo-border: rgba(255, 255, 255, 0.08);
+}
+
+@layer base {
+  body {
+    background-color: var(--color-zutomayo-dark);
+    color: var(--color-zutomayo-light);
+    font-family: 'Inter', system-ui, sans-serif;
+    background-image: 
+      radial-gradient(circle at 15% 50%, rgba(123, 94, 167, 0.06), transparent 30%),
+      radial-gradient(circle at 85% 30%, rgba(85, 139, 110, 0.06), transparent 30%);
+    background-attachment: fixed;
+  }
+}
+
+@layer utilities {
+  .glass-panel {
+    background-color: var(--color-zutomayo-surface);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid var(--color-zutomayo-border);
+    border-radius: 0.75rem;
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.2);
+  }
+  
+  .text-glow {
+    text-shadow: 0 0 10px rgba(123, 94, 167, 0.3);
+  }
+}
