@@ -1,9 +1,18 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Save, Trash2, X } from 'lucide-react';
 
-export function DeckBuilderSidebar({ deck, setDeck, onSave }) {
-  const [deckName, setDeckName] = useState(deck.name || 'New Deck');
-  const MAX_CARDS = 40; // Example limit
+export function DeckBuilderSidebar({ deck, setDeck, onSave, shakeTrigger }) {
+  const MAX_CARDS = 20; // 20枚ぴったりにするルール
+
+  const [isShaking, setIsShaking] = useState(false);
+
+  useEffect(() => {
+    if (shakeTrigger > 0) {
+      setIsShaking(true);
+      const timer = setTimeout(() => setIsShaking(false), 400); // アニメーション時間経過後に戻す
+      return () => clearTimeout(timer);
+    }
+  }, [shakeTrigger]);
 
   const handleRemoveCard = (index) => {
     const newCards = [...deck.cards];
@@ -12,17 +21,27 @@ export function DeckBuilderSidebar({ deck, setDeck, onSave }) {
   };
 
   const handleSave = () => {
-    if (!deckName.trim()) {
-      alert('デッキ名を入力してください');
-      return;
+    const defaultName = deck.name || 'ZUTOMAYO Deck';
+    let promptMsg = '保存するデッキの名前を入力してください';
+    
+    if (deck.cards.length !== MAX_CARDS) {
+      promptMsg += `\n\n※注意: デッキが${MAX_CARDS}枚ではありません（現在${deck.cards.length}枚）。\n公式ルールでは使用できない「下書き」状態となります。`;
     }
-    onSave({ ...deck, name: deckName });
+    
+    const inputName = window.prompt(promptMsg, defaultName);
+    
+    // キャンセルされた場合は何もしない
+    if (inputName === null) return;
+    
+    // 空白で確定された場合はデフォルト名を使用
+    const finalName = inputName.trim() || defaultName;
+    onSave({ ...deck, name: finalName });
   };
 
   return (
     <div className="w-full h-full glass-panel flex flex-col">
       <div className="px-3 py-2 border-b border-zutomayo-border flex justify-between items-center bg-black/20">
-        <div className={`font-bold text-sm ${deck.cards.length > MAX_CARDS ? 'text-red-400' : 'text-white'}`}>
+        <div className={`font-bold text-sm transition-all duration-200 ${deck.cards.length !== MAX_CARDS ? 'text-red-400' : 'text-green-400'} ${isShaking ? 'animate-shake' : ''}`}>
           {deck.cards.length} / {MAX_CARDS} 枚
         </div>
         <button 

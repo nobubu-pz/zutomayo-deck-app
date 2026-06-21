@@ -1,11 +1,12 @@
-import React from 'react';
+import { Trash2, Edit2, Eye, Plus, X } from 'lucide-react';
+import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useDeckStorage } from '../hooks/useDeckStorage';
-import { Trash2, Edit2, Play, Plus } from 'lucide-react';
 
 export function DeckList() {
   const { decks, deleteDeck } = useDeckStorage();
   const navigate = useNavigate();
+  const [viewingDeck, setViewingDeck] = useState(null);
 
   const handleDelete = (id) => {
     if (window.confirm('このデッキを削除してもよろしいですか？')) {
@@ -17,14 +18,14 @@ export function DeckList() {
     <div className="max-w-7xl mx-auto px-4 py-8 sm:px-6 lg:px-8">
       <div className="mb-8 flex justify-between items-center">
         <div>
-          <h1 className="text-3xl font-bold text-white text-glow mb-2">My Decks</h1>
-          <p className="text-zutomayo-light">ローカルストレージに保存されたデッキ一覧です。</p>
+          <h1 className="text-3xl font-bold text-white text-glow">My Decks</h1>
         </div>
         <button 
           onClick={() => navigate('/deck/builder')}
-          className="flex items-center gap-2 px-6 py-3 bg-zutomayo-accent text-white font-bold rounded-lg hover:bg-zutomayo-accent-hover hover:shadow-[0_0_15px_rgba(123,94,167,0.5)] transition-all"
+          className="flex items-center justify-center p-3 bg-zutomayo-accent text-white rounded-full hover:bg-zutomayo-accent-hover hover:shadow-[0_0_15px_rgba(123,94,167,0.5)] transition-all"
+          title="新規デッキ作成"
         >
-          <Plus size={20} /> 新規デッキ作成
+          <Plus size={24} strokeWidth={3} />
         </button>
       </div>
 
@@ -70,8 +71,11 @@ export function DeckList() {
               </div>
 
               <div className="mt-auto flex gap-2">
-                <button className="flex-1 flex items-center justify-center gap-2 bg-white/5 hover:bg-white/10 text-white py-2 rounded transition-colors text-sm">
-                  <Play size={16} /> 遊ぶ
+                <button 
+                  onClick={() => setViewingDeck(deck)}
+                  className="flex-1 flex items-center justify-center gap-2 bg-white/5 hover:bg-white/10 text-white py-2 rounded transition-colors text-sm"
+                >
+                  <Eye size={16} /> デッキの確認
                 </button>
                 <button 
                   onClick={() => navigate(`/deck/builder?id=${deck.id}`)}
@@ -90,6 +94,49 @@ export function DeckList() {
               </div>
             </div>
           ))}
+        </div>
+      )}
+
+      {/* Deck View Modal */}
+      {viewingDeck && (
+        <div 
+          className="fixed inset-0 z-50 flex items-center justify-center p-4 sm:p-6 bg-black/80 backdrop-blur-sm" 
+          onClick={() => setViewingDeck(null)}
+        >
+          <div 
+            className="bg-zutomayo-dark/95 border border-white/10 rounded-2xl w-full max-w-5xl max-h-full flex flex-col shadow-2xl" 
+            onClick={e => e.stopPropagation()}
+          >
+            {/* Modal Header */}
+            <div className="flex justify-between items-center p-4 sm:p-6 border-b border-white/10 shrink-0">
+              <div>
+                <h2 className="text-2xl font-bold text-white text-glow mb-1">{viewingDeck.name}</h2>
+                <p className="text-sm text-zutomayo-light">{viewingDeck.cards.length} 枚のカード</p>
+              </div>
+              <button 
+                onClick={() => setViewingDeck(null)} 
+                className="p-2 text-zutomayo-light hover:text-white bg-white/5 hover:bg-white/10 rounded-full transition-colors"
+                title="閉じる"
+              >
+                <X size={24} />
+              </button>
+            </div>
+            
+            {/* Modal Content - Card Grid */}
+            <div className="p-4 sm:p-6 overflow-y-auto flex-1">
+              <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-6 gap-3 sm:gap-4">
+                {viewingDeck.cards.map((card, idx) => (
+                  <div key={`${card.id}-${idx}`} className="relative group">
+                    <img 
+                      src={card.imagePath} 
+                      alt={card.name} 
+                      className="w-full h-auto rounded-lg shadow-md border border-white/10 group-hover:border-zutomayo-accent transition-colors" 
+                    />
+                  </div>
+                ))}
+              </div>
+            </div>
+          </div>
         </div>
       )}
     </div>
