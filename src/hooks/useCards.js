@@ -6,10 +6,10 @@ export function useCards() {
   
   // フィルター用ステート
   const [searchQuery, setSearchQuery] = useState('');
-  const [attributeFilter, setAttributeFilter] = useState('All');
-  const [rarityFilter, setRarityFilter] = useState('All');
-  const [typeFilter, setTypeFilter] = useState('All');
-  const [seasonFilter, setSeasonFilter] = useState('All');
+  const [attributeFilter, setAttributeFilter] = useState([]);
+  const [rarityFilter, setRarityFilter] = useState([]);
+  const [typeFilter, setTypeFilter] = useState([]);
+  const [seasonFilter, setSeasonFilter] = useState([]);
 
   useEffect(() => {
     // データをロード（将来的にはAPIからのフェッチ等に変更可能）
@@ -24,11 +24,11 @@ export function useCards() {
                           (card.name && card.name.toLowerCase().includes(q)) || 
                           (card.songTitle && card.songTitle.toLowerCase().includes(q));
                           
-      // 2. プルダウンフィルター
-      const matchAttribute = attributeFilter === 'All' || card.attribute === attributeFilter;
-      const matchRarity = rarityFilter === 'All' || card.rarity === rarityFilter;
-      const matchType = typeFilter === 'All' || card.type === typeFilter;
-      const matchSeason = seasonFilter === 'All' || card.season === seasonFilter;
+      // 2. 複数選択対応フィルター
+      const matchAttribute = attributeFilter.length === 0 || attributeFilter.includes(card.attribute);
+      const matchRarity = rarityFilter.length === 0 || rarityFilter.includes(card.rarity);
+      const matchType = typeFilter.length === 0 || typeFilter.includes(card.type);
+      const matchSeason = seasonFilter.length === 0 || seasonFilter.includes(card.season);
       
       // 未解析データ(Unknown)などの除外は特に行わない（全て検索可能にする）
       
@@ -46,13 +46,11 @@ export function useCards() {
     });
   }, [filteredCards]);
 
-  // プルダウン用のユニークな選択肢を自動抽出
-  const uniqueAttributes = useMemo(() => ['All', ...new Set(cards.map(c => c.attribute).filter(Boolean))], [cards]);
-  const uniqueRarities = useMemo(() => ['All', ...new Set(cards.map(c => c.rarity).filter(Boolean))], [cards]);
-  
-  // Basic Search用: Typeは指定の3つのみ、または全種？ ひとまず全種抽出しておいてUI側で制限する
-  const uniqueTypes = useMemo(() => ['All', ...new Set(cards.map(c => c.type).filter(Boolean))], [cards]);
-  const uniqueSeasons = useMemo(() => ['All', ...new Set(cards.map(c => c.season).filter(Boolean))], [cards]);
+  // UI用のユニークな選択肢を自動抽出
+  const uniqueAttributes = useMemo(() => [...new Set(cards.map(c => c.attribute).filter(Boolean))], [cards]);
+  const uniqueRarities = useMemo(() => [...new Set(cards.map(c => c.rarity).filter(Boolean))], [cards]);
+  const uniqueTypes = useMemo(() => [...new Set(cards.map(c => c.type).filter(Boolean))], [cards]);
+  const uniqueSeasons = useMemo(() => [...new Set(cards.map(c => c.season).filter(Boolean))], [cards]);
 
   return {
     cards: sortedCards,

@@ -32,8 +32,8 @@ export function DeckBuilder() {
   const [shakeTrigger, setShakeTrigger] = useState(0);
 
   // フィルターがデフォルト以外に設定されているかどうかのチェック
-  const hasDetailedFilters = rarityFilter !== 'All' || seasonFilter !== 'All';
-  const hasAnyFilter = searchQuery !== '' || attributeFilter !== 'All' || typeFilter !== 'All' || hasDetailedFilters;
+  const hasDetailedFilters = rarityFilter.length > 0 || seasonFilter.length > 0;
+  const hasAnyFilter = searchQuery !== '' || attributeFilter.length > 0 || typeFilter.length > 0 || hasDetailedFilters;
 
   const handleNext = () => {
     if (!selectedCard) return;

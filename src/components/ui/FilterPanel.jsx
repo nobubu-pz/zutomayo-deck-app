@@ -9,32 +9,49 @@ export function FilterPanel({
 }) {
   if (!isOpen) return null;
 
-  const FilterSelect = ({ label, value, onChange, options }) => (
-    <div className="flex flex-col gap-1">
-      <label className="text-xs text-zutomayo-light/80 font-semibold uppercase tracking-wider">{label}</label>
-      <select
-        value={value}
-        onChange={(e) => onChange(e.target.value)}
-        className="bg-black/40 border border-zutomayo-border rounded-lg p-2 text-white outline-none focus:border-zutomayo-accent focus:ring-1 focus:ring-zutomayo-accent transition-all appearance-none cursor-pointer"
-      >
-        {options.map(opt => (
-          <option key={opt} value={opt} className="bg-zutomayo-dark text-white">
-            {opt === 'All' ? 'すべて' : opt}
-          </option>
-        ))}
-      </select>
+  const toggleFilter = (currentList, setList, item) => {
+    if (currentList.includes(item)) {
+      setList(currentList.filter(i => i !== item));
+    } else {
+      setList([...currentList, item]);
+    }
+  };
+
+  const FilterGroup = ({ label, options, currentList, setList }) => (
+    <div className="flex flex-col gap-3">
+      <div className="flex items-center gap-2">
+        <label className="text-xs text-zutomayo-light/80 font-bold uppercase tracking-wider">{label}</label>
+      </div>
+      <div className="flex flex-wrap gap-2">
+        {options.map(opt => {
+          const isSelected = currentList.includes(opt);
+          return (
+            <button
+              key={opt}
+              onClick={() => toggleFilter(currentList, setList, opt)}
+              className={`px-3 py-1.5 rounded-full text-xs font-bold border transition-all ${
+                isSelected 
+                  ? 'bg-white border-white text-black shadow-[0_0_10px_rgba(255,255,255,0.5)]' 
+                  : 'bg-black/40 border-zutomayo-border text-zutomayo-light hover:border-white/40 hover:text-white'
+              }`}
+            >
+              {opt}
+            </button>
+          );
+        })}
+      </div>
     </div>
   );
 
   const resetFilters = () => {
-    setRarityFilter('All');
-    setSeasonFilter('All');
+    setRarityFilter([]);
+    setSeasonFilter([]);
   };
 
   return (
     <div className="bg-black/60 backdrop-blur-xl border-y border-white/10 p-4 lg:p-6 shadow-lg animate-in slide-in-from-top-2 duration-300 relative z-20">
       <div className="max-w-6xl mx-auto">
-        <div className="flex justify-between items-center mb-4">
+        <div className="flex justify-between items-center mb-6">
           <div className="flex items-center gap-2 text-white">
             <Filter size={18} className="text-zutomayo-accent" />
             <h3 className="font-bold text-lg">詳細フィルター</h3>
@@ -55,18 +72,18 @@ export function FilterPanel({
           </div>
         </div>
 
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-          <FilterSelect 
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+          <FilterGroup 
             label="Season (弾)" 
-            value={seasonFilter} 
-            onChange={setSeasonFilter} 
-            options={uniqueSeasons} 
+            options={uniqueSeasons}
+            currentList={seasonFilter} 
+            setList={setSeasonFilter} 
           />
-          <FilterSelect 
+          <FilterGroup 
             label="Rarity (レアリティ)" 
-            value={rarityFilter} 
-            onChange={setRarityFilter} 
-            options={uniqueRarities} 
+            options={uniqueRarities}
+            currentList={rarityFilter} 
+            setList={setRarityFilter} 
           />
         </div>
       </div>

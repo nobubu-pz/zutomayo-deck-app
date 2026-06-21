@@ -4,36 +4,52 @@ export function BasicFilterBar({
   attributeFilter, setAttributeFilter,
   typeFilter, setTypeFilter
 }) {
-  const basicTypes = ['All', 'Character', 'Enchant', 'Area Enchant'];
-  const basicAttributes = ['All', '闇', '炎', '電気', '風', 'カオス'];
+  const basicTypes = ['Character', 'Enchant', 'Area Enchant'];
+  const basicAttributes = ['闇', '炎', '電気', '風', 'カオス'];
+
+  const toggleFilter = (currentList, setList, item) => {
+    if (currentList.includes(item)) {
+      setList(currentList.filter(i => i !== item));
+    } else {
+      setList([...currentList, item]);
+    }
+  };
+
+  const FilterGroup = ({ label, options, currentList, setList }) => (
+    <div className="flex flex-col gap-2">
+      <div className="flex items-center gap-2">
+        <span className="text-xs text-zutomayo-light font-bold uppercase tracking-wider">{label}</span>
+        {currentList.length > 0 && (
+          <button onClick={() => setList([])} className="text-[10px] text-zutomayo-light hover:text-white underline decoration-white/30 px-1 py-0.5 rounded transition-colors">
+            クリア
+          </button>
+        )}
+      </div>
+      <div className="flex flex-wrap gap-2">
+        {options.map(opt => {
+          const isSelected = currentList.includes(opt);
+          return (
+            <button
+              key={opt}
+              onClick={() => toggleFilter(currentList, setList, opt)}
+              className={`px-3 py-1 rounded-full text-xs font-bold border transition-all ${
+                isSelected 
+                  ? 'bg-zutomayo-accent border-zutomayo-accent text-white shadow-[0_0_10px_rgba(123,94,167,0.5)]' 
+                  : 'bg-black/40 border-zutomayo-border text-zutomayo-light hover:border-white/40 hover:text-white'
+              }`}
+            >
+              {opt}
+            </button>
+          );
+        })}
+      </div>
+    </div>
+  );
 
   return (
-    <div className="flex gap-2 sm:gap-4 flex-wrap">
-      <select
-        value={attributeFilter}
-        onChange={(e) => setAttributeFilter(e.target.value)}
-        className="bg-black/40 border border-zutomayo-border rounded-lg py-1.5 px-3 text-sm text-white outline-none focus:border-zutomayo-accent focus:ring-1 focus:ring-zutomayo-accent transition-all appearance-none cursor-pointer flex-1 min-w-[120px]"
-        title="属性"
-      >
-        {basicAttributes.map(opt => (
-          <option key={opt} value={opt} className="bg-zutomayo-dark">
-            {opt === 'All' ? '全属性' : opt}
-          </option>
-        ))}
-      </select>
-
-      <select
-        value={typeFilter}
-        onChange={(e) => setTypeFilter(e.target.value)}
-        className="bg-black/40 border border-zutomayo-border rounded-lg py-1.5 px-3 text-sm text-white outline-none focus:border-zutomayo-accent focus:ring-1 focus:ring-zutomayo-accent transition-all appearance-none cursor-pointer flex-1 min-w-[120px]"
-        title="種類"
-      >
-        {basicTypes.map(opt => (
-          <option key={opt} value={opt} className="bg-zutomayo-dark">
-            {opt === 'All' ? '全種類' : opt}
-          </option>
-        ))}
-      </select>
+    <div className="flex flex-col sm:flex-row gap-6">
+      <FilterGroup label="属性 (Attribute)" options={basicAttributes} currentList={attributeFilter} setList={setAttributeFilter} />
+      <FilterGroup label="種類 (Type)" options={basicTypes} currentList={typeFilter} setList={setTypeFilter} />
     </div>
   );
 }
