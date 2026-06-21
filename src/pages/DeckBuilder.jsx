@@ -96,7 +96,6 @@ export function DeckBuilder() {
 
   const handleSaveDeck = (deckToSave) => {
     saveDeck(deckToSave);
-    alert('デッキを保存しました！');
     navigate('/decks'); // 編集後は一覧に戻る
   };
 

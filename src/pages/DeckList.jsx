@@ -2,15 +2,18 @@ import { Trash2, Edit2, Eye, Plus, X } from 'lucide-react';
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useDeckStorage } from '../hooks/useDeckStorage';
+import { ConfirmModal } from '../components/ui/ConfirmModal';
 
 export function DeckList() {
   const { decks, deleteDeck } = useDeckStorage();
   const navigate = useNavigate();
   const [viewingDeck, setViewingDeck] = useState(null);
+  const [deckToDelete, setDeckToDelete] = useState(null);
 
-  const handleDelete = (id) => {
-    if (window.confirm('このデッキを削除してもよろしいですか？')) {
-      deleteDeck(id);
+  const handleDelete = () => {
+    if (deckToDelete) {
+      deleteDeck(deckToDelete);
+      setDeckToDelete(null);
     }
   };
 
@@ -85,7 +88,7 @@ export function DeckList() {
                   <Edit2 size={16} />
                 </button>
                 <button 
-                  onClick={() => handleDelete(deck.id)}
+                  onClick={() => setDeckToDelete(deck.id)}
                   className="flex items-center justify-center px-3 bg-red-500/10 hover:bg-red-500/20 text-red-400 rounded transition-colors"
                   title="デッキを削除"
                 >
@@ -139,6 +142,15 @@ export function DeckList() {
           </div>
         </div>
       )}
+
+      <ConfirmModal
+        isOpen={!!deckToDelete}
+        onClose={() => setDeckToDelete(null)}
+        onConfirm={handleDelete}
+        title="デッキの削除"
+        message="本当にこのデッキを削除しますか？\n削除したデッキは元に戻せません。"
+        confirmText="削除する"
+      />
     </div>
   );
 }

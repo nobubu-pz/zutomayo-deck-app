@@ -1,10 +1,12 @@
 import React, { useState, useEffect } from 'react';
 import { Save, Trash2, X } from 'lucide-react';
+import { PromptModal } from './ui/PromptModal';
 
 export function DeckBuilderSidebar({ deck, setDeck, onSave, shakeTrigger }) {
   const MAX_CARDS = 20; // 20枚ぴったりにするルール
 
   const [isShaking, setIsShaking] = useState(false);
+  const [isPromptOpen, setIsPromptOpen] = useState(false);
 
   useEffect(() => {
     if (shakeTrigger > 0) {
@@ -20,21 +22,12 @@ export function DeckBuilderSidebar({ deck, setDeck, onSave, shakeTrigger }) {
     setDeck({ ...deck, cards: newCards });
   };
 
-  const handleSave = () => {
-    const defaultName = deck.name || 'ZUTOMAYO Deck';
-    let promptMsg = '保存するデッキの名前を入力してください';
-    
-    if (deck.cards.length !== MAX_CARDS) {
-      promptMsg += `\n\n※注意: デッキが${MAX_CARDS}枚ではありません（現在${deck.cards.length}枚）。\n公式ルールでは使用できない「下書き」状態となります。`;
-    }
-    
-    const inputName = window.prompt(promptMsg, defaultName);
-    
-    // キャンセルされた場合は何もしない
-    if (inputName === null) return;
-    
-    // 空白で確定された場合はデフォルト名を使用
-    const finalName = inputName.trim() || defaultName;
+  const openSavePrompt = () => {
+    setIsPromptOpen(true);
+  };
+
+  const handleConfirmSave = (finalName) => {
+    setIsPromptOpen(false);
     onSave({ ...deck, name: finalName });
   };
 
@@ -45,7 +38,7 @@ export function DeckBuilderSidebar({ deck, setDeck, onSave, shakeTrigger }) {
           {deck.cards.length} / {MAX_CARDS} 枚
         </div>
         <button 
-          onClick={handleSave}
+          onClick={openSavePrompt}
           disabled={deck.cards.length === 0}
           className="flex items-center gap-1 bg-zutomayo-accent hover:bg-zutomayo-accent-hover disabled:opacity-50 disabled:cursor-not-allowed text-white px-3 py-1 rounded text-xs font-bold transition-all shadow-sm"
         >
@@ -83,6 +76,19 @@ export function DeckBuilderSidebar({ deck, setDeck, onSave, shakeTrigger }) {
           <Trash2 size={14} /> クリア
         </button>
       </div>
+
+      <PromptModal
+        isOpen={isPromptOpen}
+        onClose={() => setIsPromptOpen(false)}
+        onSave={handleConfirmSave}
+        defaultValue={deck.name || 'ZUTOMAYO Deck'}
+        title="デッキの保存"
+        warningMsg={
+          deck.cards.length !== MAX_CARDS
+            ? `※注意: デッキが${MAX_CARDS}枚ではありません（現在${deck.cards.length}枚）。\n公式ルールでは使用できない「下書き」状態となります。`
+            : null
+        }
+      />
     </div>
   );
 }
