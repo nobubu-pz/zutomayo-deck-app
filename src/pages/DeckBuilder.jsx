@@ -49,12 +49,20 @@ export function DeckBuilder() {
 
   useEffect(() => {
     if (deckId) {
-      const existing = getDeck(deckId);
-      if (existing) {
-        setCurrentDeck(existing);
+      const storedDecks = localStorage.getItem('zutomayo_decks');
+      if (storedDecks) {
+        try {
+          const parsedDecks = JSON.parse(storedDecks);
+          const existing = parsedDecks.find(d => d.id === deckId);
+          if (existing) {
+            setCurrentDeck(existing);
+          }
+        } catch (e) {
+          console.error(e);
+        }
       }
     }
-  }, [deckId, getDeck]);
+  }, [deckId]);
 
   const handleAddToDeck = (card) => {
     if (currentDeck.cards.length >= 30) {
