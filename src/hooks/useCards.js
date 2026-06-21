@@ -59,7 +59,10 @@ export function useCards() {
       
       return matchSearch && matchAttribute && matchRarity && matchType && matchSeason && matchNight && matchDay && matchSendToPower;
     });
-  }, [cards, searchQuery, attributeFilter, rarityFilter, typeFilter, seasonFilter]);
+  }, [
+    cards, searchQuery, attributeFilter, rarityFilter, typeFilter, seasonFilter,
+    nightMin, nightMax, dayMin, dayMax, sendToPowerFilter
+  ]);
 
   const sortedCards = useMemo(() => {
     return [...filteredCards].sort((a, b) => {
