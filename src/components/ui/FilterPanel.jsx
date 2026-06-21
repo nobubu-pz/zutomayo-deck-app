@@ -6,6 +6,11 @@ export function FilterPanel({
   onClose,
   rarityFilter, setRarityFilter, uniqueRarities,
   seasonFilter, setSeasonFilter, uniqueSeasons,
+  nightMin, setNightMin,
+  nightMax, setNightMax,
+  dayMin, setDayMin,
+  dayMax, setDayMax,
+  sendToPowerFilter, setSendToPowerFilter,
 }) {
   if (!isOpen) return null;
 
@@ -46,6 +51,11 @@ export function FilterPanel({
   const resetFilters = () => {
     setRarityFilter([]);
     setSeasonFilter([]);
+    setSendToPowerFilter([]);
+    setNightMin('');
+    setNightMax('');
+    setDayMin('');
+    setDayMax('');
   };
 
   return (
@@ -72,7 +82,7 @@ export function FilterPanel({
           </div>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           <FilterGroup 
             label="Season (弾)" 
             options={uniqueSeasons}
@@ -85,6 +95,53 @@ export function FilterPanel({
             currentList={rarityFilter} 
             setList={setRarityFilter} 
           />
+          <FilterGroup 
+            label="Send To Power" 
+            options={['0', '1', '2', '3+']}
+            currentList={sendToPowerFilter} 
+            setList={setSendToPowerFilter} 
+          />
+          <div className="flex flex-col gap-3">
+            <label className="text-xs text-zutomayo-light/80 font-bold uppercase tracking-wider">攻撃力 (Power)</label>
+            <div className="flex flex-col gap-2">
+              <div className="flex items-center gap-2">
+                <span className="text-xs font-bold text-zutomayo-light w-10">Night</span>
+                <input 
+                  type="number" 
+                  value={nightMin} 
+                  onChange={e => setNightMin(e.target.value)} 
+                  className="w-16 bg-black/40 border border-zutomayo-border rounded-lg text-white text-center py-1 outline-none focus:border-zutomayo-accent" 
+                  placeholder="Min" 
+                />
+                <span className="text-zutomayo-light/50">~</span>
+                <input 
+                  type="number" 
+                  value={nightMax} 
+                  onChange={e => setNightMax(e.target.value)} 
+                  className="w-16 bg-black/40 border border-zutomayo-border rounded-lg text-white text-center py-1 outline-none focus:border-zutomayo-accent" 
+                  placeholder="Max" 
+                />
+              </div>
+              <div className="flex items-center gap-2 mt-1">
+                <span className="text-xs font-bold text-zutomayo-light w-10">Day</span>
+                <input 
+                  type="number" 
+                  value={dayMin} 
+                  onChange={e => setDayMin(e.target.value)} 
+                  className="w-16 bg-black/40 border border-zutomayo-border rounded-lg text-white text-center py-1 outline-none focus:border-zutomayo-accent" 
+                  placeholder="Min" 
+                />
+                <span className="text-zutomayo-light/50">~</span>
+                <input 
+                  type="number" 
+                  value={dayMax} 
+                  onChange={e => setDayMax(e.target.value)} 
+                  className="w-16 bg-black/40 border border-zutomayo-border rounded-lg text-white text-center py-1 outline-none focus:border-zutomayo-accent" 
+                  placeholder="Max" 
+                />
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>

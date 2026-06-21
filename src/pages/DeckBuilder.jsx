@@ -21,6 +21,11 @@ export function DeckBuilder() {
     rarityFilter, setRarityFilter, uniqueRarities,
     typeFilter, setTypeFilter, uniqueTypes,
     seasonFilter, setSeasonFilter, uniqueSeasons,
+    nightMin, setNightMin,
+    nightMax, setNightMax,
+    dayMin, setDayMin,
+    dayMax, setDayMax,
+    sendToPowerFilter, setSendToPowerFilter,
   } = useCards();
   const { saveDeck, getDeck } = useDeckStorage();
   
@@ -32,7 +37,7 @@ export function DeckBuilder() {
   const [shakeTrigger, setShakeTrigger] = useState(0);
 
   // フィルターがデフォルト以外に設定されているかどうかのチェック
-  const hasDetailedFilters = rarityFilter.length > 0 || seasonFilter.length > 0;
+  const hasDetailedFilters = rarityFilter.length > 0 || seasonFilter.length > 0 || nightMin !== '' || nightMax !== '' || dayMin !== '' || dayMax !== '' || sendToPowerFilter.length > 0;
   const hasAnyFilter = searchQuery !== '' || attributeFilter.length > 0 || typeFilter.length > 0 || hasDetailedFilters;
 
   const handleNext = () => {
@@ -183,6 +188,11 @@ export function DeckBuilder() {
           onClose={() => setIsFilterOpen(false)}
           rarityFilter={rarityFilter} setRarityFilter={setRarityFilter} uniqueRarities={uniqueRarities}
           seasonFilter={seasonFilter} setSeasonFilter={setSeasonFilter} uniqueSeasons={uniqueSeasons}
+          nightMin={nightMin} setNightMin={setNightMin}
+          nightMax={nightMax} setNightMax={setNightMax}
+          dayMin={dayMin} setDayMin={setDayMin}
+          dayMax={dayMax} setDayMax={setDayMax}
+          sendToPowerFilter={sendToPowerFilter} setSendToPowerFilter={setSendToPowerFilter}
         />
 
         {/* Card Grid */}
