@@ -80,6 +80,7 @@ export const AuthProvider = ({ children }) => {
   const value = {
     user,
     profile,
+    fetchProfile,
     signIn,
     signUp,
     signInWithGoogle,

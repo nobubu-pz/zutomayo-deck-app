@@ -1,13 +1,22 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { useAuth } from '../contexts/AuthContext';
 import { useNavigate } from 'react-router-dom';
-import { LogOut, Copy, Check, Users } from 'lucide-react';
-import { useState } from 'react';
+import { LogOut, Copy, Check, Users, Edit2, X } from 'lucide-react';
+import { supabase } from '../lib/supabase';
 
 export function Profile() {
-  const { user, profile, signOut } = useAuth();
+  const { user, profile, fetchProfile, signOut } = useAuth();
   const navigate = useNavigate();
   const [copied, setCopied] = useState(false);
+  const [isEditing, setIsEditing] = useState(false);
+  const [editName, setEditName] = useState('');
+  const [isSaving, setIsSaving] = useState(false);
+
+  useEffect(() => {
+    if (profile) {
+      setEditName(profile.display_name || '');
+    }
+  }, [profile]);
 
   // If not logged in, redirect to login
   if (!user) {
@@ -20,6 +29,30 @@ export function Profile() {
       navigator.clipboard.writeText(profile.friend_code);
       setCopied(true);
       setTimeout(() => setCopied(false), 2000);
+    }
+  };
+
+  const handleSaveName = async () => {
+    if (!editName.trim() || editName === profile.display_name) {
+      setIsEditing(false);
+      return;
+    }
+    
+    setIsSaving(true);
+    try {
+      const { error } = await supabase
+        .from('profiles')
+        .update({ display_name: editName.trim() })
+        .eq('id', user.id);
+        
+      if (error) throw error;
+      
+      await fetchProfile(user.id);
+      setIsEditing(false);
+    } catch (err) {
+      console.error('Failed to update name:', err.message);
+    } finally {
+      setIsSaving(false);
     }
   };
 
@@ -43,9 +76,50 @@ export function Profile() {
             </span>
           </div>
           
-          <h2 className="text-2xl font-bold text-white mb-1">
-            {profile?.display_name || 'Player'}
-          </h2>
+          {isEditing ? (
+            <div className="flex items-center gap-2 mb-1 w-full max-w-[200px]">
+              <input 
+                type="text" 
+                value={editName}
+                onChange={(e) => setEditName(e.target.value)}
+                className="w-full bg-black/40 border border-zutomayo-accent rounded px-2 py-1 text-white text-center focus:outline-none"
+                autoFocus
+              />
+              <button 
+                onClick={handleSaveName}
+                disabled={isSaving}
+                className="p-1.5 bg-green-500/20 text-green-400 rounded hover:bg-green-500/40 disabled:opacity-50 transition-colors"
+                title="Save"
+              >
+                <Check size={16} />
+              </button>
+              <button 
+                onClick={() => {
+                  setIsEditing(false);
+                  setEditName(profile?.display_name || '');
+                }}
+                disabled={isSaving}
+                className="p-1.5 bg-red-500/20 text-red-400 rounded hover:bg-red-500/40 disabled:opacity-50 transition-colors"
+                title="Cancel"
+              >
+                <X size={16} />
+              </button>
+            </div>
+          ) : (
+            <div className="flex items-center gap-2 mb-1 group relative">
+              <h2 className="text-2xl font-bold text-white">
+                {profile?.display_name || 'Player'}
+              </h2>
+              <button 
+                onClick={() => setIsEditing(true)}
+                className="p-1.5 text-zutomayo-light opacity-0 group-hover:opacity-100 transition-opacity hover:text-white"
+                title="Edit Name"
+              >
+                <Edit2 size={16} />
+              </button>
+            </div>
+          )}
+          
           <p className="text-zutomayo-light mb-6">{user.email}</p>
 
           <div className="w-full bg-black/40 border border-white/10 rounded-lg p-4 mb-6">
