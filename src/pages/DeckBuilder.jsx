@@ -42,13 +42,13 @@ export function DeckBuilder() {
 
   const handleNext = () => {
     if (!selectedCard) return;
-    const currentIndex = cards.findIndex(c => c.id === selectedCard.id);
+    const currentIndex = cards.findIndex(c => c.uid === selectedCard.uid);
     if (currentIndex < cards.length - 1) setSelectedCard(cards[currentIndex + 1]);
   };
 
   const handlePrev = () => {
     if (!selectedCard) return;
-    const currentIndex = cards.findIndex(c => c.id === selectedCard.id);
+    const currentIndex = cards.findIndex(c => c.uid === selectedCard.uid);
     if (currentIndex > 0) setSelectedCard(cards[currentIndex - 1]);
   };
 
@@ -75,7 +75,7 @@ export function DeckBuilder() {
       return;
     }
     
-    const sameCardCount = currentDeck.cards.filter(c => c.id === card.id).length;
+    const sameCardCount = currentDeck.cards.filter(c => c.uid === card.uid).length;
     if (sameCardCount >= 2) {
       setShakeTrigger(prev => prev + 1);
       return;
@@ -91,7 +91,7 @@ export function DeckBuilder() {
     setCurrentDeck(prev => {
       const newCards = [...prev.cards];
       // 後ろから検索して最初に見つかった同じカードを削除
-      const index = newCards.findLastIndex(c => c.id === card.id);
+      const index = newCards.findLastIndex(c => c.uid === card.uid);
       if (index !== -1) {
         newCards.splice(index, 1);
       }
@@ -230,9 +230,9 @@ export function DeckBuilder() {
                 </div>
 
                 {/* Deck Count Indicator */}
-                {currentDeck.cards.filter(c => c.id === card.id).length > 0 && (
+                {currentDeck.cards.filter(c => c.uid === card.uid).length > 0 && (
                   <div className="absolute top-2 left-2 bg-black/80 text-zutomayo-light text-xs font-bold px-2 py-1 rounded-full border border-zutomayo-accent/50 z-10">
-                    x{currentDeck.cards.filter(c => c.id === card.id).length}
+                    x{currentDeck.cards.filter(c => c.uid === card.uid).length}
                   </div>
                 )}
               </div>

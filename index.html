@@ -3,11 +3,62 @@
   <head>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="manifest" href="/manifest.json" />
+    <meta name="theme-color" content="#0f0f13" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>temp-app</title>
+    <title>ZTMY Deck</title>
+    <style>
+      body {
+        margin: 0;
+        background-color: #0f0f13;
+      }
+      #splash-screen {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100dvh;
+        width: 100vw;
+        background-color: #0f0f13;
+      }
+      .splash-logo {
+        width: 80px;
+        height: 80px;
+        animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+        filter: drop-shadow(0 0 15px rgba(134, 59, 255, 0.5));
+      }
+      .splash-text {
+        margin-top: 24px;
+        color: #ffffff;
+        font-family: sans-serif;
+        font-size: 1.1rem;
+        font-weight: bold;
+        letter-spacing: 0.15em;
+        text-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+      }
+      .loading-dots:after {
+        content: '.';
+        animation: dots 1.5s steps(5, end) infinite;
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 1; transform: scale(1); }
+        50% { opacity: .6; transform: scale(0.9); }
+      }
+      @keyframes dots {
+        0%, 20% { color: rgba(0,0,0,0); text-shadow: .25em 0 0 rgba(0,0,0,0), .5em 0 0 rgba(0,0,0,0); }
+        40% { color: white; text-shadow: .25em 0 0 rgba(0,0,0,0), .5em 0 0 rgba(0,0,0,0); }
+        60% { text-shadow: .25em 0 0 white, .5em 0 0 rgba(0,0,0,0); }
+        80%, 100% { text-shadow: .25em 0 0 white, .5em 0 0 white; }
+      }
+    </style>
   </head>
   <body>
-    <div id="root"></div>
+    <div id="root">
+      <div id="splash-screen">
+        <img src="/favicon.svg" alt="Loading" class="splash-logo" />
+        <div class="splash-text">LOADING<span class="loading-dots"></span></div>
+      </div>
+    </div>
     <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>

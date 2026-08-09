@@ -1,4 +1,4 @@
-import { Trash2, Edit2, Eye, Plus, X } from 'lucide-react';
+import { Trash2, Edit2, Eye, Plus, X, LayoutGrid, Maximize2 } from 'lucide-react';
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useDeckStorage } from '../hooks/useDeckStorage';
@@ -9,12 +9,25 @@ export function DeckList() {
   const navigate = useNavigate();
   const [viewingDeck, setViewingDeck] = useState(null);
   const [deckToDelete, setDeckToDelete] = useState(null);
+  const [viewMode, setViewMode] = useState('large'); // 'large' or 'grid'
 
   const handleDelete = () => {
     if (deckToDelete) {
       deleteDeck(deckToDelete);
       setDeckToDelete(null);
     }
+  };
+
+  const getSortedCards = (cards) => {
+    const rarityOrder = { "SEC": 1, "UR": 2, "SR": 3, "R": 4, "N": 5 };
+    return [...cards].sort((a, b) => {
+      const rA = rarityOrder[a.rarity] || 99;
+      const rB = rarityOrder[b.rarity] || 99;
+      if (rA !== rB) return rA - rB;
+      const sA = a.seasonNo || 99;
+      const sB = b.seasonNo || 99;
+      return sA - sB;
+    });
   };
 
   return (
@@ -75,7 +88,10 @@ export function DeckList() {
 
               <div className="mt-auto flex gap-2">
                 <button 
-                  onClick={() => setViewingDeck(deck)}
+                  onClick={() => {
+                    setViewingDeck(deck);
+                    setViewMode('large');
+                  }}
                   className="flex-1 flex items-center justify-center gap-2 bg-white/5 hover:bg-white/10 text-white py-2 rounded transition-colors text-sm"
                 >
                   <Eye size={16} /> デッキの確認
@@ -111,33 +127,65 @@ export function DeckList() {
             onClick={e => e.stopPropagation()}
           >
             {/* Modal Header */}
-            <div className="flex justify-between items-center p-4 sm:p-6 border-b border-white/10 shrink-0">
-              <div>
-                <h2 className="text-2xl font-bold text-white text-glow mb-1">{viewingDeck.name}</h2>
+            <div className="flex justify-between items-center p-4 sm:p-6 border-b border-white/10 shrink-0 gap-4">
+              <div className="min-w-0 flex-1">
+                <h2 className="text-xl sm:text-2xl font-bold text-white text-glow mb-1 truncate">{viewingDeck.name}</h2>
                 <p className="text-sm text-zutomayo-light">{viewingDeck.cards.length} 枚のカード</p>
               </div>
-              <button 
-                onClick={() => setViewingDeck(null)} 
-                className="p-2 text-zutomayo-light hover:text-white bg-white/5 hover:bg-white/10 rounded-full transition-colors"
-                title="閉じる"
-              >
-                <X size={24} />
-              </button>
+
+              <div className="flex items-center gap-2 sm:gap-3 shrink-0">
+                {/* View Mode Toggle */}
+                <button 
+                  onClick={() => setViewMode(viewMode === 'large' ? 'grid' : 'large')}
+                  className="flex items-center justify-center p-2 bg-white/5 hover:bg-white/10 text-zutomayo-light hover:text-white rounded-lg transition-colors border border-white/10"
+                  title={viewMode === 'large' ? '全体を見る' : '大きく見る'}
+                >
+                  {viewMode === 'large' ? <LayoutGrid size={20} /> : <Maximize2 size={20} />}
+                </button>
+                <button 
+                  onClick={() => setViewingDeck(null)} 
+                  className="p-2 text-zutomayo-light hover:text-white bg-white/5 hover:bg-white/10 rounded-full transition-colors"
+                  title="閉じる"
+                >
+                  <X size={24} />
+                </button>
+              </div>
             </div>
             
             {/* Modal Content - Card Grid */}
-            <div className="p-4 sm:p-6 overflow-y-auto flex-1">
-              <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-6 gap-3 sm:gap-4">
-                {viewingDeck.cards.map((card, idx) => (
-                  <div key={`${card.id}-${idx}`} className="relative group">
-                    <img 
-                      src={card.imagePath} 
-                      alt={card.name} 
-                      className="w-full h-auto rounded-lg shadow-md border border-white/10 group-hover:border-zutomayo-accent transition-colors" 
-                    />
+            <div className="overflow-y-auto flex-1">
+              {viewMode === 'large' ? (
+                <div className="p-4 sm:p-6 grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4">
+                  {getSortedCards(viewingDeck.cards).map((card, idx) => (
+                    <div key={`large-${card.id}-${idx}`} className="relative group">
+                      <img 
+                        src={card.imagePath} 
+                        alt={card.name} 
+                        className="w-full h-auto rounded-lg shadow-md border border-white/10 group-hover:border-zutomayo-accent transition-colors"
+                        crossOrigin="anonymous"
+                      />
+                    </div>
+                  ))}
+                </div>
+              ) : (
+                <div className="p-4 sm:p-6 flex justify-center">
+                  <div 
+                    className="grid grid-cols-4 gap-2 sm:gap-3 p-4 bg-zutomayo-dark w-full"
+                    style={{ maxWidth: '600px' }}
+                  >
+                    {getSortedCards(viewingDeck.cards).map((card, idx) => (
+                      <div key={`grid-${card.id}-${idx}`} className="relative">
+                        <img 
+                          src={card.imagePath} 
+                          alt={card.name} 
+                          className="w-full h-auto rounded-md shadow-sm border border-white/10"
+                          crossOrigin="anonymous"
+                        />
+                      </div>
+                    ))}
                   </div>
-                ))}
-              </div>
+                </div>
+              )}
             </div>
           </div>
         </div>

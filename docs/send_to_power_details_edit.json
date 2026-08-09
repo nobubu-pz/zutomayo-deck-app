@@ -1,0 +1,3378 @@
+[
+  {
+    "id": "1st_001",
+    "season": "THE WORLD IS CHANGING",
+    "name": "にらちゃん（お勉強しといてよ）",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 5
+  },
+  {
+    "id": "1st_002",
+    "season": "THE WORLD IS CHANGING",
+    "name": "にらちゃん（正義）",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 7
+  },
+  {
+    "id": "1st_003",
+    "season": "THE WORLD IS CHANGING",
+    "name": "にらちゃん（勘ぐれい）",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 5
+  },
+  {
+    "id": "1st_004",
+    "season": "THE WORLD IS CHANGING",
+    "name": "にらちゃん（Ham）",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "1st_005",
+    "season": "THE WORLD IS CHANGING",
+    "name": "しゃくま男（ヒューマノイド）",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 4
+  },
+  {
+    "id": "1st_006",
+    "season": "THE WORLD IS CHANGING",
+    "name": "木っ手男・インク猫（正義）",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 2
+  },
+  {
+    "id": "1st_007",
+    "season": "THE WORLD IS CHANGING",
+    "name": "灰版電機工業(株)研究所（Ham）",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 1
+  },
+  {
+    "id": "1st_008",
+    "season": "THE WORLD IS CHANGING",
+    "name": "方位時計",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "1st_009",
+    "season": "THE WORLD IS CHANGING",
+    "name": "にらちゃん",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_010",
+    "season": "THE WORLD IS CHANGING",
+    "name": "にらちゃん",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "1st_011",
+    "season": "THE WORLD IS CHANGING",
+    "name": "にらちゃん",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 3
+  },
+  {
+    "id": "1st_012",
+    "season": "THE WORLD IS CHANGING",
+    "name": "にらちゃん[アニメーター]",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 4
+  },
+  {
+    "id": "1st_013",
+    "season": "THE WORLD IS CHANGING",
+    "name": "アフロ☆サムライ",
+    "attribute": "炎",
+    "sendToPower": 2,
+    "powerCost": 1
+  },
+  {
+    "id": "1st_014",
+    "season": "THE WORLD IS CHANGING",
+    "name": "にらちゃん",
+    "attribute": "炎",
+    "sendToPower": 2,
+    "powerCost": 1
+  },
+  {
+    "id": "1st_015",
+    "season": "THE WORLD IS CHANGING",
+    "name": "にらちゃん",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 4
+  },
+  {
+    "id": "1st_016",
+    "season": "THE WORLD IS CHANGING",
+    "name": "にらちゃん",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 5
+  },
+  {
+    "id": "1st_017",
+    "season": "THE WORLD IS CHANGING",
+    "name": "にらちゃん",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_018",
+    "season": "THE WORLD IS CHANGING",
+    "name": "にらちゃん",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "1st_019",
+    "season": "THE WORLD IS CHANGING",
+    "name": "にらちゃん",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 3
+  },
+  {
+    "id": "1st_020",
+    "season": "THE WORLD IS CHANGING",
+    "name": "ZUTOMAYO SQUARE",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 4
+  },
+  {
+    "id": "1st_021",
+    "season": "THE WORLD IS CHANGING",
+    "name": "うにぐり増殖中",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 1
+  },
+  {
+    "id": "1st_022",
+    "season": "THE WORLD IS CHANGING",
+    "name": "にらちゃん",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 2
+  },
+  {
+    "id": "1st_023",
+    "season": "THE WORLD IS CHANGING",
+    "name": "にらちゃん",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 2
+  },
+  {
+    "id": "1st_024",
+    "season": "THE WORLD IS CHANGING",
+    "name": "にらちゃん",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 2
+  },
+  {
+    "id": "1st_025",
+    "season": "THE WORLD IS CHANGING",
+    "name": "顕現するハサミ",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 3
+  },
+  {
+    "id": "1st_026",
+    "season": "THE WORLD IS CHANGING",
+    "name": "開幕宣言",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "1st_027",
+    "season": "THE WORLD IS CHANGING",
+    "name": "ミラーシューター",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 3
+  },
+  {
+    "id": "1st_028",
+    "season": "THE WORLD IS CHANGING",
+    "name": "お勉強会",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 3
+  },
+  {
+    "id": "1st_029",
+    "season": "THE WORLD IS CHANGING",
+    "name": "稲妻のレンジ",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 3
+  },
+  {
+    "id": "1st_030",
+    "season": "THE WORLD IS CHANGING",
+    "name": "爆弾みたいな球体",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "1st_031",
+    "season": "THE WORLD IS CHANGING",
+    "name": "洗車中",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 3
+  },
+  {
+    "id": "1st_032",
+    "season": "THE WORLD IS CHANGING",
+    "name": "インク猫ケルベロス",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 4
+  },
+  {
+    "id": "1st_033",
+    "season": "THE WORLD IS CHANGING",
+    "name": "にらちゃん",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "1st_034",
+    "season": "THE WORLD IS CHANGING",
+    "name": "眩しいDNA隊",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 1
+  },
+  {
+    "id": "1st_035",
+    "season": "THE WORLD IS CHANGING",
+    "name": "グレイヌ",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 2
+  },
+  {
+    "id": "1st_036",
+    "season": "THE WORLD IS CHANGING",
+    "name": "しゃくま男…？",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 2
+  },
+  {
+    "id": "1st_037",
+    "season": "THE WORLD IS CHANGING",
+    "name": "うにぐりスーパースター",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "1st_038",
+    "season": "THE WORLD IS CHANGING",
+    "name": "にらちゃん",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "1st_039",
+    "season": "THE WORLD IS CHANGING",
+    "name": "グレイ",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 2
+  },
+  {
+    "id": "1st_040",
+    "season": "THE WORLD IS CHANGING",
+    "name": "にらちゃん",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 3
+  },
+  {
+    "id": "1st_041",
+    "season": "THE WORLD IS CHANGING",
+    "name": "にらちゃん・ナナシ",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "1st_042",
+    "season": "THE WORLD IS CHANGING",
+    "name": "うにぐりくん・みみかゆし",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 4
+  },
+  {
+    "id": "1st_043",
+    "season": "THE WORLD IS CHANGING",
+    "name": "配達員",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "1st_044",
+    "season": "THE WORLD IS CHANGING",
+    "name": "NAGA・アフロ☆サムライ",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 1
+  },
+  {
+    "id": "1st_045",
+    "season": "THE WORLD IS CHANGING",
+    "name": "にらちゃん",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 2
+  },
+  {
+    "id": "1st_046",
+    "season": "THE WORLD IS CHANGING",
+    "name": "正義のミカタ",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 2
+  },
+  {
+    "id": "1st_047",
+    "season": "THE WORLD IS CHANGING",
+    "name": "にらチャイナ",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "1st_048",
+    "season": "THE WORLD IS CHANGING",
+    "name": "にらちゃん",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_049",
+    "season": "THE WORLD IS CHANGING",
+    "name": "にらちゃん",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_050",
+    "season": "THE WORLD IS CHANGING",
+    "name": "栽培うにぐり",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "1st_051",
+    "season": "THE WORLD IS CHANGING",
+    "name": "にらちゃん",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "1st_052",
+    "season": "THE WORLD IS CHANGING",
+    "name": "にらちゃん逃走中",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 1
+  },
+  {
+    "id": "1st_053",
+    "season": "THE WORLD IS CHANGING",
+    "name": "脳裏裏上の観覧車",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 1
+  },
+  {
+    "id": "1st_054",
+    "season": "THE WORLD IS CHANGING",
+    "name": "チョキ・チョキ",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 2
+  },
+  {
+    "id": "1st_055",
+    "season": "THE WORLD IS CHANGING",
+    "name": "助っ人演奏隊",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 1
+  },
+  {
+    "id": "1st_056",
+    "season": "THE WORLD IS CHANGING",
+    "name": "夕焼け風見",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 2
+  },
+  {
+    "id": "1st_057",
+    "season": "THE WORLD IS CHANGING",
+    "name": "うにぐりパン",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "1st_058",
+    "season": "THE WORLD IS CHANGING",
+    "name": "爆撃ストライプ",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 2
+  },
+  {
+    "id": "1st_059",
+    "season": "THE WORLD IS CHANGING",
+    "name": "レモン香るうにぐりソテー",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 1
+  },
+  {
+    "id": "1st_060",
+    "season": "THE WORLD IS CHANGING",
+    "name": "電撃鍵",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 2
+  },
+  {
+    "id": "1st_061",
+    "season": "THE WORLD IS CHANGING",
+    "name": "ZUTOMAYO CITY",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "1st_062",
+    "season": "THE WORLD IS CHANGING",
+    "name": "たけのこご飯",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 2
+  },
+  {
+    "id": "1st_063",
+    "season": "THE WORLD IS CHANGING",
+    "name": "ふわふわの猫",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 2
+  },
+  {
+    "id": "1st_064",
+    "season": "THE WORLD IS CHANGING",
+    "name": "ちょっぴり豪華な朝ごはん",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 2
+  },
+  {
+    "id": "1st_065",
+    "season": "THE WORLD IS CHANGING",
+    "name": "柿原 栗ムント",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_066",
+    "season": "THE WORLD IS CHANGING",
+    "name": "ハカセ",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_067",
+    "season": "THE WORLD IS CHANGING",
+    "name": "ちりとり男",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_068",
+    "season": "THE WORLD IS CHANGING",
+    "name": "宇宙人ストリングス",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_069",
+    "season": "THE WORLD IS CHANGING",
+    "name": "にらちゃん",
+    "attribute": "炎",
+    "sendToPower": 2,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_070",
+    "season": "THE WORLD IS CHANGING",
+    "name": "うにぐりくん",
+    "attribute": "炎",
+    "sendToPower": 2,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_071",
+    "season": "THE WORLD IS CHANGING",
+    "name": "にらちゃん",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_072",
+    "season": "THE WORLD IS CHANGING",
+    "name": "低血",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_073",
+    "season": "THE WORLD IS CHANGING",
+    "name": "うにぐりくん",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_074",
+    "season": "THE WORLD IS CHANGING",
+    "name": "ふらんけん",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_075",
+    "season": "THE WORLD IS CHANGING",
+    "name": "にらちゃん",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_076",
+    "season": "THE WORLD IS CHANGING",
+    "name": "うにぐりくん",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_077",
+    "season": "THE WORLD IS CHANGING",
+    "name": "にらちゃん",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_078",
+    "season": "THE WORLD IS CHANGING",
+    "name": "にらちゃん",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_079",
+    "season": "THE WORLD IS CHANGING",
+    "name": "グレイ？",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_080",
+    "season": "THE WORLD IS CHANGING",
+    "name": "ナナシ",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_081",
+    "season": "THE WORLD IS CHANGING",
+    "name": "いちごケーキ",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_082",
+    "season": "THE WORLD IS CHANGING",
+    "name": "遺影",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_083",
+    "season": "THE WORLD IS CHANGING",
+    "name": "回廊",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_084",
+    "season": "THE WORLD IS CHANGING",
+    "name": "クレーター",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "1st_085",
+    "season": "THE WORLD IS CHANGING",
+    "name": "散らかったソファ",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_086",
+    "season": "THE WORLD IS CHANGING",
+    "name": "えん緑",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_087",
+    "season": "THE WORLD IS CHANGING",
+    "name": "残り物",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_088",
+    "season": "THE WORLD IS CHANGING",
+    "name": "赤闇を照らす",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_089",
+    "season": "THE WORLD IS CHANGING",
+    "name": "時計",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_090",
+    "season": "THE WORLD IS CHANGING",
+    "name": "DNA鍋",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_091",
+    "season": "THE WORLD IS CHANGING",
+    "name": "しゃっくりの招き猫店",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_092",
+    "season": "THE WORLD IS CHANGING",
+    "name": "妙薬の調合",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_093",
+    "season": "THE WORLD IS CHANGING",
+    "name": "ブラウン管テレビ\"強\"",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_094",
+    "season": "THE WORLD IS CHANGING",
+    "name": "制御室",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_095",
+    "season": "THE WORLD IS CHANGING",
+    "name": "パラボラアンテナ",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_096",
+    "season": "THE WORLD IS CHANGING",
+    "name": "FPS",
+    "attribute": "電気",
+    "sendToPower": 2,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_097",
+    "season": "THE WORLD IS CHANGING",
+    "name": "心メンテ",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_098",
+    "season": "THE WORLD IS CHANGING",
+    "name": "スラムマート",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_099",
+    "season": "THE WORLD IS CHANGING",
+    "name": "落書き教室",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_100",
+    "season": "THE WORLD IS CHANGING",
+    "name": "植物化",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_101",
+    "season": "THE WORLD IS CHANGING",
+    "name": "正義の卵子",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_102",
+    "season": "THE WORLD IS CHANGING",
+    "name": "乾き日和",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_103",
+    "season": "THE WORLD IS CHANGING",
+    "name": "利権",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_104",
+    "season": "THE WORLD IS CHANGING",
+    "name": "古文書、呼",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "1st_105",
+    "season": "THE WORLD IS CHANGING",
+    "name": "うにぐりくん",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 6
+  },
+  {
+    "id": "1st_106",
+    "season": "THE WORLD IS CHANGING",
+    "name": "グレイ",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "2nd_001",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "にらちゃん",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 6
+  },
+  {
+    "id": "2nd_002",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "にらちゃん",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 8
+  },
+  {
+    "id": "2nd_003",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "にらちゃん",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 7
+  },
+  {
+    "id": "2nd_004",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "にらちゃん",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 4
+  },
+  {
+    "id": "2nd_005",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "グレイヌの一服",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 5
+  },
+  {
+    "id": "2nd_006",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "頭があった頃の彼",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 2
+  },
+  {
+    "id": "2nd_007",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "風をあつめて",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "2nd_008",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "キラメイド出動!",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 3
+  },
+  {
+    "id": "2nd_009",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "にらちゃん",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "2nd_010",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "にらちゃん",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "2nd_011",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "にらちゃん",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 2
+  },
+  {
+    "id": "2nd_012",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "にらちゃん",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "2nd_013",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "アフロ☆サムライ",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 4
+  },
+  {
+    "id": "2nd_014",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "ズトマルキ号",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 6
+  },
+  {
+    "id": "2nd_015",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "アカシュモクザメ遊具",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 5
+  },
+  {
+    "id": "2nd_016",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "にらチャイナ",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 7
+  },
+  {
+    "id": "2nd_017",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "にらちゃん",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 1
+  },
+  {
+    "id": "2nd_018",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "ハカセ",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "2nd_019",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "グレイ",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 2
+  },
+  {
+    "id": "2nd_020",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "にらちゃん [テレビカメラクルー]",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 6
+  },
+  {
+    "id": "2nd_021",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "にらちゃん",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "2nd_022",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "にらメイド・ナナシ・キラちゃん",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "2nd_023",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "にらちゃん",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 2
+  },
+  {
+    "id": "2nd_024",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "にらちゃん",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 2
+  },
+  {
+    "id": "2nd_025",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "震える声に耳澄まして",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "2nd_026",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "灰版電機工業 (株) 幹部達",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "2nd_027",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "うにぐりナポリタン",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "2nd_028",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "湯船で打ち上げ",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 4
+  },
+  {
+    "id": "2nd_029",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "夜ふかし",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 5
+  },
+  {
+    "id": "2nd_030",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "うにぐり培養中",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "2nd_031",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "配達中",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "2nd_032",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "希求",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 2
+  },
+  {
+    "id": "2nd_033",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "グレイ",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "2nd_034",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "にらちゃん",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "2nd_035",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "キラちゃん",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 2
+  },
+  {
+    "id": "2nd_036",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "にらちゃん",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 4
+  },
+  {
+    "id": "2nd_037",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "にらちゃん人形",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 1
+  },
+  {
+    "id": "2nd_038",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "にらちゃん",
+    "attribute": "炎",
+    "sendToPower": 2,
+    "powerCost": 0
+  },
+  {
+    "id": "2nd_039",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "灰版電機工業(株)幹部",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "2nd_040",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "ミルクとコンクリートでできた猫",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 3
+  },
+  {
+    "id": "2nd_041",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "うにぐり画伯",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 2
+  },
+  {
+    "id": "2nd_042",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "アルバイト・パン職人",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 1
+  },
+  {
+    "id": "2nd_043",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "にらちゃん",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "2nd_044",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "ズトマヨカクテル",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "2nd_045",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "にらちゃん・キラちゃん",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 2
+  },
+  {
+    "id": "2nd_046",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "夜中のネコリセット",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 4
+  },
+  {
+    "id": "2nd_047",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "にらメイド",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "2nd_048",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "さすらいのうにぐりくん",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "2nd_049",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "キラメイクアップ",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 1
+  },
+  {
+    "id": "2nd_050",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "襟頭の方",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "2nd_051",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "にらちゃん",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 3
+  },
+  {
+    "id": "2nd_052",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "ふらんけん",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 5
+  },
+  {
+    "id": "2nd_053",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "奥の手",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 4
+  },
+  {
+    "id": "2nd_054",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "異なる世界の異なる姿",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 4
+  },
+  {
+    "id": "2nd_055",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "ZTMY キャッチャー",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "2nd_056",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "バイト後のふたり",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "2nd_057",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "君のこと最後まで知りたいよ",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 4
+  },
+  {
+    "id": "2nd_058",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "開店準備",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "2nd_059",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "掴め",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "2nd_060",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "思い出のカメラ",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 4
+  },
+  {
+    "id": "2nd_061",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "正義の傘",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 4
+  },
+  {
+    "id": "2nd_062",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "夜弦の月",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 3
+  },
+  {
+    "id": "2nd_063",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "ハイチーズ",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 4
+  },
+  {
+    "id": "2nd_064",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "うにぎりころりん",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 2
+  },
+  {
+    "id": "2nd_065",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "うにぐりくん",
+    "attribute": "闇",
+    "sendToPower": 2,
+    "powerCost": 0
+  },
+  {
+    "id": "2nd_066",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "グレイ",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "2nd_067",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "叢雲のつるぎ",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "2nd_068",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "ドッペルゲンガー",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 3
+  },
+  {
+    "id": "2nd_069",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "劇・うにぐり",
+    "attribute": "炎",
+    "sendToPower": 2,
+    "powerCost": 0
+  },
+  {
+    "id": "2nd_070",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "にらちゃん",
+    "attribute": "炎",
+    "sendToPower": 2,
+    "powerCost": 1
+  },
+  {
+    "id": "2nd_071",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "にらちゃん",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 2
+  },
+  {
+    "id": "2nd_072",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "チョウチョ・にらちゃん",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "2nd_073",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "にらちゃん",
+    "attribute": "電気",
+    "sendToPower": 2,
+    "powerCost": 0
+  },
+  {
+    "id": "2nd_074",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "ナナシ",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "2nd_075",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "グレイ・にらちゃん",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "2nd_076",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "ヒューマノイド",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "2nd_077",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "低血",
+    "attribute": "風",
+    "sendToPower": 2,
+    "powerCost": 0
+  },
+  {
+    "id": "2nd_078",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "にらちゃん",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "2nd_079",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "にらちゃん",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "2nd_080",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "にらちゃん",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "2nd_081",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "おいしい闇なべ専門店",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 2
+  },
+  {
+    "id": "2nd_082",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "赤信号",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "2nd_083",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "あの日の風景",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 1
+  },
+  {
+    "id": "2nd_084",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "狐の窓",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "2nd_085",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "十字路",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "2nd_086",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "封",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "2nd_087",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "住む世界が違うな",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 2
+  },
+  {
+    "id": "2nd_088",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "工場見学",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "2nd_089",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "洗剤",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 1
+  },
+  {
+    "id": "2nd_090",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "ナイスショット",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 2
+  },
+  {
+    "id": "2nd_091",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "居場所",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "2nd_092",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "晩餐会",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "2nd_093",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "コールドスリープ",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 2
+  },
+  {
+    "id": "2nd_094",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "禁じられた出会い",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "2nd_095",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "サインポール",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 1
+  },
+  {
+    "id": "2nd_096",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "14.4光年の距離",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "2nd_097",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "スターダスト・シェイクハンド",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "2nd_098",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "ネットの評価",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "2nd_099",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "跳躍",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 2
+  },
+  {
+    "id": "2nd_100",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "時計塔",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "2nd_101",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "掲示板",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 1
+  },
+  {
+    "id": "2nd_102",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "お便り投函",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 5
+  },
+  {
+    "id": "2nd_103",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "監視モニター",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "2nd_104",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "荒廃した世界",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "2nd_105",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "にらちゃん",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 5
+  },
+  {
+    "id": "2nd_106",
+    "season": "ALL ALONG THE WATCHTOWER",
+    "name": "水着にら",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 5
+  },
+  {
+    "id": "3rd_001",
+    "season": "Off Minor",
+    "name": "にらちゃん",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 7
+  },
+  {
+    "id": "3rd_002",
+    "season": "Off Minor",
+    "name": "低血",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 8
+  },
+  {
+    "id": "3rd_003",
+    "season": "Off Minor",
+    "name": "にらちゃん",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 6
+  },
+  {
+    "id": "3rd_004",
+    "season": "Off Minor",
+    "name": "にらちゃん",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 7
+  },
+  {
+    "id": "3rd_005",
+    "season": "Off Minor",
+    "name": "我儘な合言葉",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 5
+  },
+  {
+    "id": "3rd_006",
+    "season": "Off Minor",
+    "name": "秒針を噛む",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 4
+  },
+  {
+    "id": "3rd_007",
+    "season": "Off Minor",
+    "name": "あいつら",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 5
+  },
+  {
+    "id": "3rd_008",
+    "season": "Off Minor",
+    "name": "メイドにらと執事にら",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 4
+  },
+  {
+    "id": "3rd_009",
+    "season": "Off Minor",
+    "name": "にらちゃん",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "3rd_010",
+    "season": "Off Minor",
+    "name": "にらちゃん",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 4
+  },
+  {
+    "id": "3rd_011",
+    "season": "Off Minor",
+    "name": "にらちゃん",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 5
+  },
+  {
+    "id": "3rd_012",
+    "season": "Off Minor",
+    "name": "にらちゃん",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 6
+  },
+  {
+    "id": "3rd_013",
+    "season": "Off Minor",
+    "name": "グレイ",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "3rd_014",
+    "season": "Off Minor",
+    "name": "戦隊レンジャーハートレッド",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 4
+  },
+  {
+    "id": "3rd_015",
+    "season": "Off Minor",
+    "name": "にらちゃん",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 6
+  },
+  {
+    "id": "3rd_016",
+    "season": "Off Minor",
+    "name": "にらちゃん",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 6
+  },
+  {
+    "id": "3rd_017",
+    "season": "Off Minor",
+    "name": "にらメイド・ナナシ",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "3rd_018",
+    "season": "Off Minor",
+    "name": "にらちゃん",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "3rd_019",
+    "season": "Off Minor",
+    "name": "にらちゃん",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 4
+  },
+  {
+    "id": "3rd_020",
+    "season": "Off Minor",
+    "name": "にらちゃん",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 5
+  },
+  {
+    "id": "3rd_021",
+    "season": "Off Minor",
+    "name": "にらちゃん",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "3rd_022",
+    "season": "Off Minor",
+    "name": "にらちゃん",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "3rd_023",
+    "season": "Off Minor",
+    "name": "にらちゃん・ら、にちゃん",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 5
+  },
+  {
+    "id": "3rd_024",
+    "season": "Off Minor",
+    "name": "うにぐり 休暇中",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 6
+  },
+  {
+    "id": "3rd_025",
+    "season": "Off Minor",
+    "name": "愛のペガサス",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 4
+  },
+  {
+    "id": "3rd_026",
+    "season": "Off Minor",
+    "name": "トリック & トリート",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 2
+  },
+  {
+    "id": "3rd_027",
+    "season": "Off Minor",
+    "name": "惨めな解放だ",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 6
+  },
+  {
+    "id": "3rd_028",
+    "season": "Off Minor",
+    "name": "爆ぜる",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 6
+  },
+  {
+    "id": "3rd_029",
+    "season": "Off Minor",
+    "name": "ダンス・ダンス・ダンス",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 4
+  },
+  {
+    "id": "3rd_030",
+    "season": "Off Minor",
+    "name": "今晩の具材",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "3rd_031",
+    "season": "Off Minor",
+    "name": "月明かり",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "3rd_032",
+    "season": "Off Minor",
+    "name": "うにぐりの里",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 4
+  },
+  {
+    "id": "3rd_033",
+    "season": "Off Minor",
+    "name": "カード 3rd_33",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "3rd_034",
+    "season": "Off Minor",
+    "name": "にらちゃん",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "3rd_035",
+    "season": "Off Minor",
+    "name": "にらちゃん",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 1
+  },
+  {
+    "id": "3rd_036",
+    "season": "Off Minor",
+    "name": "しょうがモドキ",
+    "attribute": "闇",
+    "sendToPower": 2,
+    "powerCost": 2
+  },
+  {
+    "id": "3rd_037",
+    "season": "Off Minor",
+    "name": "にらちゃん",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 2
+  },
+  {
+    "id": "3rd_038",
+    "season": "Off Minor",
+    "name": "にらちゃん",
+    "attribute": "炎",
+    "sendToPower": 2,
+    "powerCost": 2
+  },
+  {
+    "id": "3rd_039",
+    "season": "Off Minor",
+    "name": "にらちゃん",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 2
+  },
+  {
+    "id": "3rd_040",
+    "season": "Off Minor",
+    "name": "らにちゃん",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 2
+  },
+  {
+    "id": "3rd_041",
+    "season": "Off Minor",
+    "name": "にらちゃん・キラちゃん",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 4
+  },
+  {
+    "id": "3rd_042",
+    "season": "Off Minor",
+    "name": "にらちゃん",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 4
+  },
+  {
+    "id": "3rd_043",
+    "season": "Off Minor",
+    "name": "ZUTOMAYO KIDS",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "3rd_044",
+    "season": "Off Minor",
+    "name": "にらバンド",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "3rd_045",
+    "season": "Off Minor",
+    "name": "カード 3rd_45",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 1
+  },
+  {
+    "id": "3rd_046",
+    "season": "Off Minor",
+    "name": "小さな応援隊",
+    "attribute": "電気",
+    "sendToPower": 2,
+    "powerCost": 2
+  },
+  {
+    "id": "3rd_047",
+    "season": "Off Minor",
+    "name": "にらちゃん",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 2
+  },
+  {
+    "id": "3rd_048",
+    "season": "Off Minor",
+    "name": "調合うにぐり",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "3rd_049",
+    "season": "Off Minor",
+    "name": "しょがスト",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 1
+  },
+  {
+    "id": "3rd_050",
+    "season": "Off Minor",
+    "name": "にらちゃん・らにちゃん",
+    "attribute": "風",
+    "sendToPower": 2,
+    "powerCost": 1
+  },
+  {
+    "id": "3rd_051",
+    "season": "Off Minor",
+    "name": "にらちゃん・キラちゃん",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 2
+  },
+  {
+    "id": "3rd_052",
+    "season": "Off Minor",
+    "name": "にらちゃん",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 3
+  },
+  {
+    "id": "3rd_053",
+    "season": "Off Minor",
+    "name": "残機剣",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 3
+  },
+  {
+    "id": "3rd_054",
+    "season": "Off Minor",
+    "name": "呟く７個目の方で",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 6
+  },
+  {
+    "id": "3rd_055",
+    "season": "Off Minor",
+    "name": "適当ラリー もう終わり",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "3rd_056",
+    "season": "Off Minor",
+    "name": "お弁当しといてよ",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 2
+  },
+  {
+    "id": "3rd_057",
+    "season": "Off Minor",
+    "name": "激辛ニララーメン",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 2
+  },
+  {
+    "id": "3rd_058",
+    "season": "Off Minor",
+    "name": "二刀流",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 2
+  },
+  {
+    "id": "3rd_059",
+    "season": "Off Minor",
+    "name": "ごっこ遊び",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "3rd_060",
+    "season": "Off Minor",
+    "name": "カード 3rd_60",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 4
+  },
+  {
+    "id": "3rd_061",
+    "season": "Off Minor",
+    "name": "GAME CENTER TECHNO POOR",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "3rd_062",
+    "season": "Off Minor",
+    "name": "最高の昆布だし",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "3rd_063",
+    "season": "Off Minor",
+    "name": "うにぐりスマッシュ",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "3rd_064",
+    "season": "Off Minor",
+    "name": "おそろいのケータイ",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 4
+  },
+  {
+    "id": "3rd_065",
+    "season": "Off Minor",
+    "name": "ハカセ",
+    "attribute": "闇",
+    "sendToPower": 2,
+    "powerCost": 0
+  },
+  {
+    "id": "3rd_066",
+    "season": "Off Minor",
+    "name": "にらちゃん",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "3rd_067",
+    "season": "Off Minor",
+    "name": "さしみ",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "3rd_068",
+    "season": "Off Minor",
+    "name": "にらちゃん",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "3rd_069",
+    "season": "Off Minor",
+    "name": "うにぐりくん",
+    "attribute": "炎",
+    "sendToPower": 2,
+    "powerCost": 0
+  },
+  {
+    "id": "3rd_070",
+    "season": "Off Minor",
+    "name": "インク猫",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "3rd_071",
+    "season": "Off Minor",
+    "name": "にらちゃん",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "3rd_072",
+    "season": "Off Minor",
+    "name": "にらちゃん",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "3rd_073",
+    "season": "Off Minor",
+    "name": "しょがスト",
+    "attribute": "電気",
+    "sendToPower": 2,
+    "powerCost": 0
+  },
+  {
+    "id": "3rd_074",
+    "season": "Off Minor",
+    "name": "うにぐりくんと室外機",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "3rd_075",
+    "season": "Off Minor",
+    "name": "MAYO NA KA",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "3rd_076",
+    "season": "Off Minor",
+    "name": "にらちゃん",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "3rd_077",
+    "season": "Off Minor",
+    "name": "にらちゃん",
+    "attribute": "闇",
+    "sendToPower": 2,
+    "powerCost": 0
+  },
+  {
+    "id": "3rd_078",
+    "season": "Off Minor",
+    "name": "らにちゃん",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "3rd_079",
+    "season": "Off Minor",
+    "name": "にらちゃん",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "3rd_080",
+    "season": "Off Minor",
+    "name": "みみかゆし",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "3rd_081",
+    "season": "Off Minor",
+    "name": "カード 3rd_81",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "3rd_082",
+    "season": "Off Minor",
+    "name": "おんみつ 隠密",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 3
+  },
+  {
+    "id": "3rd_083",
+    "season": "Off Minor",
+    "name": "巡り合っていたんだ",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 1
+  },
+  {
+    "id": "3rd_084",
+    "season": "Off Minor",
+    "name": "平凡な生活",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 5
+  },
+  {
+    "id": "3rd_085",
+    "season": "Off Minor",
+    "name": "断ち切る",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 2
+  },
+  {
+    "id": "3rd_086",
+    "season": "Off Minor",
+    "name": "“さよなら” は言わないで",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "3rd_087",
+    "season": "Off Minor",
+    "name": "晩餐会の食事",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 2
+  },
+  {
+    "id": "3rd_088",
+    "season": "Off Minor",
+    "name": "香炉",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "3rd_089",
+    "season": "Off Minor",
+    "name": "細胞分裂",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 4
+  },
+  {
+    "id": "3rd_090",
+    "season": "Off Minor",
+    "name": "戻れない僕",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "3rd_091",
+    "season": "Off Minor",
+    "name": "被験者",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "3rd_092",
+    "season": "Off Minor",
+    "name": "野営",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "3rd_093",
+    "season": "Off Minor",
+    "name": "スイッチ",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "3rd_094",
+    "season": "Off Minor",
+    "name": "撃つ",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "3rd_095",
+    "season": "Off Minor",
+    "name": "掃除中",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 4
+  },
+  {
+    "id": "3rd_096",
+    "season": "Off Minor",
+    "name": "カード 3rd_96",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "3rd_097",
+    "season": "Off Minor",
+    "name": "厳戒態勢",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 2
+  },
+  {
+    "id": "3rd_098",
+    "season": "Off Minor",
+    "name": "栄養補給",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "3rd_099",
+    "season": "Off Minor",
+    "name": "仕舞い",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 1
+  },
+  {
+    "id": "3rd_100",
+    "season": "Off Minor",
+    "name": "こうもり",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 2
+  },
+  {
+    "id": "3rd_101",
+    "season": "Off Minor",
+    "name": "研究のルーティン",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 2
+  },
+  {
+    "id": "3rd_102",
+    "season": "Off Minor",
+    "name": "巣穴掘り",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 3
+  },
+  {
+    "id": "3rd_103",
+    "season": "Off Minor",
+    "name": "治療法を考える",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "3rd_104",
+    "season": "Off Minor",
+    "name": "君じゃなきゃだめなんだよ",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "3rd_105",
+    "season": "Off Minor",
+    "name": "影のあの子",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 7
+  },
+  {
+    "id": "3rd_106",
+    "season": "Off Minor",
+    "name": "猫リセッター",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 7
+  },
+  {
+    "id": "4th_001",
+    "season": "Fantasy Is Reality",
+    "name": "にらちゃん",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 6
+  },
+  {
+    "id": "4th_002",
+    "season": "Fantasy Is Reality",
+    "name": "舞踏会でラストダンスを",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 8
+  },
+  {
+    "id": "4th_003",
+    "season": "Fantasy Is Reality",
+    "name": "にらちゃん",
+    "attribute": "炎",
+    "sendToPower": 2,
+    "powerCost": 6
+  },
+  {
+    "id": "4th_004",
+    "season": "Fantasy Is Reality",
+    "name": "メガぐりくん",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 7
+  },
+  {
+    "id": "4th_005",
+    "season": "Fantasy Is Reality",
+    "name": "にらちゃん",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 5
+  },
+  {
+    "id": "4th_006",
+    "season": "Fantasy Is Reality",
+    "name": "にらちゃん",
+    "attribute": "カオス",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "4th_007",
+    "season": "Fantasy Is Reality",
+    "name": "羨望",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 4
+  },
+  {
+    "id": "4th_008",
+    "season": "Fantasy Is Reality",
+    "name": "朝焼けちりとり男",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 5
+  },
+  {
+    "id": "4th_009",
+    "season": "Fantasy Is Reality",
+    "name": "海底の景色",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "4th_010",
+    "season": "Fantasy Is Reality",
+    "name": "にらちゃん",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 5
+  },
+  {
+    "id": "4th_011",
+    "season": "Fantasy Is Reality",
+    "name": "にらちゃん",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 5
+  },
+  {
+    "id": "4th_012",
+    "season": "Fantasy Is Reality",
+    "name": "にらちゃん",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 4
+  },
+  {
+    "id": "4th_013",
+    "season": "Fantasy Is Reality",
+    "name": "喫茶に集いし、にらちゃん達",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 6
+  },
+  {
+    "id": "4th_014",
+    "season": "Fantasy Is Reality",
+    "name": "うにクリームワールド",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 7
+  },
+  {
+    "id": "4th_015",
+    "season": "Fantasy Is Reality",
+    "name": "にらちゃん",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 5
+  },
+  {
+    "id": "4th_016",
+    "season": "Fantasy Is Reality",
+    "name": "にらちゃん・さしみ",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 7
+  },
+  {
+    "id": "4th_017",
+    "season": "Fantasy Is Reality",
+    "name": "にらちゃん",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 7
+  },
+  {
+    "id": "4th_018",
+    "season": "Fantasy Is Reality",
+    "name": "うにぐり遠征隊",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 8
+  },
+  {
+    "id": "4th_019",
+    "season": "Fantasy Is Reality",
+    "name": "にらちゃん",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 4
+  },
+  {
+    "id": "4th_020",
+    "season": "Fantasy Is Reality",
+    "name": "にらちゃん",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 4
+  },
+  {
+    "id": "4th_021",
+    "season": "Fantasy Is Reality",
+    "name": "にらちゃん[コンビニ店員]",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 5
+  },
+  {
+    "id": "4th_022",
+    "season": "Fantasy Is Reality",
+    "name": "にらちゃん",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 6
+  },
+  {
+    "id": "4th_023",
+    "season": "Fantasy Is Reality",
+    "name": "にらちゃん",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 4
+  },
+  {
+    "id": "4th_024",
+    "season": "Fantasy Is Reality",
+    "name": "にらちゃん",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 6
+  },
+  {
+    "id": "4th_025",
+    "season": "Fantasy Is Reality",
+    "name": "にらちゃん",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 6
+  },
+  {
+    "id": "4th_026",
+    "season": "Fantasy Is Reality",
+    "name": "UNIGURIMAZE",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 7
+  },
+  {
+    "id": "4th_027",
+    "season": "Fantasy Is Reality",
+    "name": "トリにらちゃん",
+    "attribute": "カオス",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "4th_028",
+    "season": "Fantasy Is Reality",
+    "name": "覚醒・らにちゃん",
+    "attribute": "カオス",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "4th_029",
+    "season": "Fantasy Is Reality",
+    "name": "故郷への憧れ",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 6
+  },
+  {
+    "id": "4th_030",
+    "season": "Fantasy Is Reality",
+    "name": "I'm CREAMY!!?",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 4
+  },
+  {
+    "id": "4th_031",
+    "season": "Fantasy Is Reality",
+    "name": "共に未来へ",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 6
+  },
+  {
+    "id": "4th_032",
+    "season": "Fantasy Is Reality",
+    "name": "継ぎ接ぎなメモ",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 4
+  },
+  {
+    "id": "4th_033",
+    "season": "Fantasy Is Reality",
+    "name": "終わりからの始まり",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "4th_034",
+    "season": "Fantasy Is Reality",
+    "name": "スターダストうにぐりくん",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "4th_035",
+    "season": "Fantasy Is Reality",
+    "name": "にらちゃん",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 2
+  },
+  {
+    "id": "4th_036",
+    "season": "Fantasy Is Reality",
+    "name": "にらちゃん",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 1
+  },
+  {
+    "id": "4th_037",
+    "season": "Fantasy Is Reality",
+    "name": "グレイヌ",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 2
+  },
+  {
+    "id": "4th_038",
+    "season": "Fantasy Is Reality",
+    "name": "にらちゃん",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "4th_039",
+    "season": "Fantasy Is Reality",
+    "name": "にらちゃん",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "4th_040",
+    "season": "Fantasy Is Reality",
+    "name": "みみかゆしパフェ",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 1
+  },
+  {
+    "id": "4th_041",
+    "season": "Fantasy Is Reality",
+    "name": "インク猫",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 2
+  },
+  {
+    "id": "4th_042",
+    "season": "Fantasy Is Reality",
+    "name": "うにクリームサンデー",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 2
+  },
+  {
+    "id": "4th_043",
+    "season": "Fantasy Is Reality",
+    "name": "蒸しぐりくん",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "4th_044",
+    "season": "Fantasy Is Reality",
+    "name": "バイカーうにぐりくん",
+    "attribute": "電気",
+    "sendToPower": 2,
+    "powerCost": 0
+  },
+  {
+    "id": "4th_045",
+    "season": "Fantasy Is Reality",
+    "name": "うにしょがアラモード",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 2
+  },
+  {
+    "id": "4th_046",
+    "season": "Fantasy Is Reality",
+    "name": "きらめくしょがスト",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 3
+  },
+  {
+    "id": "4th_047",
+    "season": "Fantasy Is Reality",
+    "name": "アフロ☆小宇宙",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "4th_048",
+    "season": "Fantasy Is Reality",
+    "name": "お届け者",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 5
+  },
+  {
+    "id": "4th_049",
+    "season": "Fantasy Is Reality",
+    "name": "赤ちゃんナナシ",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 1
+  },
+  {
+    "id": "4th_050",
+    "season": "Fantasy Is Reality",
+    "name": "にらちゃん",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 2
+  },
+  {
+    "id": "4th_051",
+    "season": "Fantasy Is Reality",
+    "name": "にらちゃん",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 2
+  },
+  {
+    "id": "4th_052",
+    "season": "Fantasy Is Reality",
+    "name": "ズトマヨアーカイヴ",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 3
+  },
+  {
+    "id": "4th_053",
+    "season": "Fantasy Is Reality",
+    "name": "にらちゃん",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 3
+  },
+  {
+    "id": "4th_054",
+    "season": "Fantasy Is Reality",
+    "name": "入れ替わり",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "4th_055",
+    "season": "Fantasy Is Reality",
+    "name": "デコチャリで来た",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "4th_056",
+    "season": "Fantasy Is Reality",
+    "name": "墓おどり",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 4
+  },
+  {
+    "id": "4th_057",
+    "season": "Fantasy Is Reality",
+    "name": "先見の針音",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "4th_058",
+    "season": "Fantasy Is Reality",
+    "name": "共同研磨",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "4th_059",
+    "season": "Fantasy Is Reality",
+    "name": "深夜のラーメンまじ犯罪",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "4th_060",
+    "season": "Fantasy Is Reality",
+    "name": "友情の２乗",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "4th_061",
+    "season": "Fantasy Is Reality",
+    "name": "舞台の再環",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 1
+  },
+  {
+    "id": "4th_062",
+    "season": "Fantasy Is Reality",
+    "name": "組み立てる",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "4th_063",
+    "season": "Fantasy Is Reality",
+    "name": "花よりごはん",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "4th_064",
+    "season": "Fantasy Is Reality",
+    "name": "サマーうにぐりズ",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 4
+  },
+  {
+    "id": "4th_065",
+    "season": "Fantasy Is Reality",
+    "name": "JK BIOSCOPE",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "4th_066",
+    "season": "Fantasy Is Reality",
+    "name": "しよがスト",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "4th_067",
+    "season": "Fantasy Is Reality",
+    "name": "宇宙人ストリングス",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "4th_068",
+    "season": "Fantasy Is Reality",
+    "name": "うにぐりくん",
+    "attribute": "闇",
+    "sendToPower": 2,
+    "powerCost": 0
+  },
+  {
+    "id": "4th_069",
+    "season": "Fantasy Is Reality",
+    "name": "にらちゃん",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "4th_070",
+    "season": "Fantasy Is Reality",
+    "name": "うにぐりくん・にらちゃん",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "4th_071",
+    "season": "Fantasy Is Reality",
+    "name": "ストライプ師匠",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "4th_072",
+    "season": "Fantasy Is Reality",
+    "name": "うにぐりくん",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "4th_073",
+    "season": "Fantasy Is Reality",
+    "name": "シェードシェパード隊",
+    "attribute": "炎",
+    "sendToPower": 2,
+    "powerCost": 1
+  },
+  {
+    "id": "4th_074",
+    "season": "Fantasy Is Reality",
+    "name": "にらちゃん",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 3
+  },
+  {
+    "id": "4th_075",
+    "season": "Fantasy Is Reality",
+    "name": "怪盗インク猫",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 4
+  },
+  {
+    "id": "4th_076",
+    "season": "Fantasy Is Reality",
+    "name": "グレイス",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "4th_077",
+    "season": "Fantasy Is Reality",
+    "name": "にらちゃん",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "4th_078",
+    "season": "Fantasy Is Reality",
+    "name": "にらちゃん",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 1
+  },
+  {
+    "id": "4th_079",
+    "season": "Fantasy Is Reality",
+    "name": "にらちゃん",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "4th_080",
+    "season": "Fantasy Is Reality",
+    "name": "グレイ [タクシー運転手]",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 2
+  },
+  {
+    "id": "4th_081",
+    "season": "Fantasy Is Reality",
+    "name": "にらちゃん [テレビカメラクルー]",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 4
+  },
+  {
+    "id": "4th_082",
+    "season": "Fantasy Is Reality",
+    "name": "ムゲン",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "4th_083",
+    "season": "Fantasy Is Reality",
+    "name": "グレイ…？",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "4th_084",
+    "season": "Fantasy Is Reality",
+    "name": "にらちゃん",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "4th_085",
+    "season": "Fantasy Is Reality",
+    "name": "大怪獣うにぐり",
+    "attribute": "風",
+    "sendToPower": 2,
+    "powerCost": 0
+  },
+  {
+    "id": "4th_086",
+    "season": "Fantasy Is Reality",
+    "name": "にらちゃん",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "4th_087",
+    "season": "Fantasy Is Reality",
+    "name": "にらチャイナ",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 2
+  },
+  {
+    "id": "4th_088",
+    "season": "Fantasy Is Reality",
+    "name": "にらちゃん…？",
+    "attribute": "カオス",
+    "sendToPower": 0,
+    "powerCost": 0
+  },
+  {
+    "id": "4th_089",
+    "season": "Fantasy Is Reality",
+    "name": "アブダクション",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "4th_090",
+    "season": "Fantasy Is Reality",
+    "name": "死者蘇生",
+    "attribute": "闇",
+    "sendToPower": 0,
+    "powerCost": 1
+  },
+  {
+    "id": "4th_091",
+    "season": "Fantasy Is Reality",
+    "name": "反撃の一打",
+    "attribute": "闇",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "4th_092",
+    "season": "Fantasy Is Reality",
+    "name": "陣頭指揮",
+    "attribute": "炎",
+    "sendToPower": 1,
+    "powerCost": 2
+  },
+  {
+    "id": "4th_093",
+    "season": "Fantasy Is Reality",
+    "name": "痛みの共有",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 2
+  },
+  {
+    "id": "4th_094",
+    "season": "Fantasy Is Reality",
+    "name": "検索中!",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "4th_095",
+    "season": "Fantasy Is Reality",
+    "name": "笑えないジョーク",
+    "attribute": "炎",
+    "sendToPower": 0,
+    "powerCost": 4
+  },
+  {
+    "id": "4th_096",
+    "season": "Fantasy Is Reality",
+    "name": "ウェビングマップ",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "4th_097",
+    "season": "Fantasy Is Reality",
+    "name": "三人がかり",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 3
+  },
+  {
+    "id": "4th_098",
+    "season": "Fantasy Is Reality",
+    "name": "療養",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 3
+  },
+  {
+    "id": "4th_099",
+    "season": "Fantasy Is Reality",
+    "name": "ジョブチェンジ",
+    "attribute": "電気",
+    "sendToPower": 1,
+    "powerCost": 4
+  },
+  {
+    "id": "4th_100",
+    "season": "Fantasy Is Reality",
+    "name": "爆弾の在処",
+    "attribute": "電気",
+    "sendToPower": 0,
+    "powerCost": 5
+  },
+  {
+    "id": "4th_101",
+    "season": "Fantasy Is Reality",
+    "name": "生アイスクリーム",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 0
+  },
+  {
+    "id": "4th_102",
+    "season": "Fantasy Is Reality",
+    "name": "時を駆ける",
+    "attribute": "風",
+    "sendToPower": 1,
+    "powerCost": 1
+  },
+  {
+    "id": "4th_103",
+    "season": "Fantasy Is Reality",
+    "name": "ファイアーストーム",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 2
+  },
+  {
+    "id": "4th_104",
+    "season": "Fantasy Is Reality",
+    "name": "フラッシュバック",
+    "attribute": "風",
+    "sendToPower": 0,
+    "powerCost": 3
+  }
+]

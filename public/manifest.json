@@ -1,0 +1,17 @@
+{
+  "name": "ZTMY Deck",
+  "short_name": "ZTMY Deck",
+  "description": "ZUTOMAYO CARD Deck Builder",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0f13",
+  "theme_color": "#0f0f13",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

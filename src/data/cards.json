@@ -1,13 +1,13 @@
 [
   {
-    "id": "1st_1",
+    "id": "1st_001",
     "name": "にらちゃん",
     "attribute": "闇",
     "type": "Character",
     "rarity": "UR",
     "songTitle": "お勉強しといてよ",
-    "sendToPower": 3,
-    "powerCost": 0,
+    "sendToPower": 0,
+    "powerCost": 5,
     "night": 130,
     "day": 50,
     "timeCount": 5,
@@ -18,14 +18,14 @@
     "uid": "001001"
   },
   {
-    "id": "1st_2",
+    "id": "1st_002",
     "name": "にらちゃん",
     "attribute": "炎",
     "type": "Character",
     "rarity": "UR",
     "songTitle": "正義",
-    "sendToPower": 3,
-    "powerCost": 3,
+    "sendToPower": 0,
+    "powerCost": 7,
     "night": 130,
     "day": 130,
     "timeCount": 6,
@@ -36,14 +36,14 @@
     "uid": "001002"
   },
   {
-    "id": "1st_3",
+    "id": "1st_003",
     "name": "にらちゃん",
     "attribute": "電気",
     "type": "Character",
     "rarity": "UR",
     "songTitle": "働ぐれい",
-    "sendToPower": 4,
-    "powerCost": 0,
+    "sendToPower": 0,
+    "powerCost": 5,
     "night": 50,
     "day": 130,
     "timeCount": 5,
@@ -54,14 +54,14 @@
     "uid": "001003"
   },
   {
-    "id": "1st_4",
+    "id": "1st_004",
     "name": "にらちゃん",
     "attribute": "風",
     "type": "Character",
     "rarity": "UR",
     "songTitle": "Ham",
-    "sendToPower": 3,
-    "powerCost": 0,
+    "sendToPower": 0,
+    "powerCost": 3,
     "night": 120,
     "day": 20,
     "timeCount": 2,
@@ -72,14 +72,14 @@
     "uid": "001004"
   },
   {
-    "id": "1st_5",
+    "id": "1st_005",
     "name": "しゃくま男",
     "attribute": "闇",
     "type": "Enchant",
     "rarity": "UR",
     "songTitle": "ヒューマノイド",
     "sendToPower": 0,
-    "powerCost": 3,
+    "powerCost": 4,
     "night": 0,
     "day": 0,
     "timeCount": 0,
@@ -90,7 +90,7 @@
     "uid": "001005"
   },
   {
-    "id": "1st_6",
+    "id": "1st_006",
     "name": "木っ手男・インク猫",
     "attribute": "炎",
     "type": "Enchant",
@@ -108,7 +108,7 @@
     "uid": "001006"
   },
   {
-    "id": "1st_7",
+    "id": "1st_007",
     "name": "灰版電機工業(株)研究所",
     "attribute": "電気",
     "type": "Enchant",
@@ -126,14 +126,14 @@
     "uid": "001007"
   },
   {
-    "id": "1st_8",
+    "id": "1st_008",
     "name": "方位時計",
     "attribute": "風",
     "type": "Enchant",
     "rarity": "UR",
     "songTitle": "働ぐれい",
-    "sendToPower": 2,
-    "powerCost": 2,
+    "sendToPower": 0,
+    "powerCost": 3,
     "night": 0,
     "day": 0,
     "timeCount": 0,
@@ -144,7 +144,7 @@
     "uid": "001008"
   },
   {
-    "id": "1st_9",
+    "id": "1st_009",
     "name": "にらちゃん",
     "attribute": "闇",
     "type": "Character",
@@ -162,7 +162,7 @@
     "uid": "001009"
   },
   {
-    "id": "1st_10",
+    "id": "1st_010",
     "name": "にらちゃん",
     "attribute": "闇",
     "type": "Character",
@@ -180,7 +180,7 @@
     "uid": "001010"
   },
   {
-    "id": "1st_11",
+    "id": "1st_011",
     "name": "にらちゃん",
     "attribute": "闇",
     "type": "Character",
@@ -198,13 +198,13 @@
     "uid": "001011"
   },
   {
-    "id": "1st_12",
+    "id": "1st_012",
     "name": "にらちゃん[アニメーター]",
     "attribute": "闇",
     "type": "Character",
     "rarity": "SR",
     "songTitle": "猫リセット",
-    "sendToPower": 4,
+    "sendToPower": 0,
     "powerCost": 4,
     "night": 100,
     "day": 60,
@@ -216,7 +216,7 @@
     "uid": "001012"
   },
   {
-    "id": "1st_13",
+    "id": "1st_013",
     "name": "アフロ☆サムライ",
     "attribute": "炎",
     "type": "Character",
@@ -234,7 +234,7 @@
     "uid": "001013"
   },
   {
-    "id": "1st_14",
+    "id": "1st_014",
     "name": "にらちゃん",
     "attribute": "炎",
     "type": "Character",
@@ -252,14 +252,14 @@
     "uid": "001014"
   },
   {
-    "id": "1st_15",
+    "id": "1st_015",
     "name": "にらちゃん",
     "attribute": "炎",
     "type": "Character",
     "rarity": "SR",
     "songTitle": "マイノリティ 脈絡",
-    "sendToPower": 3,
-    "powerCost": 3,
+    "sendToPower": 0,
+    "powerCost": 4,
     "night": 80,
     "day": 80,
     "timeCount": 3,
@@ -270,14 +270,14 @@
     "uid": "001015"
   },
   {
-    "id": "1st_16",
+    "id": "1st_016",
     "name": "にらちゃん",
     "attribute": "炎",
     "type": "Character",
     "rarity": "SR",
     "songTitle": "秒針を噛む",
-    "sendToPower": 2,
-    "powerCost": 3,
+    "sendToPower": 1,
+    "powerCost": 5,
     "night": 80,
     "day": 80,
     "timeCount": 1,
@@ -288,13 +288,13 @@
     "uid": "001016"
   },
   {
-    "id": "1st_17",
+    "id": "1st_017",
     "name": "にらちゃん",
     "attribute": "電気",
     "type": "Character",
     "rarity": "SR",
     "songTitle": "ハゼ馳せる果てるまで",
-    "sendToPower": 0,
+    "sendToPower": 1,
     "powerCost": 0,
     "night": 10,
     "day": 50,
@@ -306,14 +306,14 @@
     "uid": "001017"
   },
   {
-    "id": "1st_18",
+    "id": "1st_018",
     "name": "にらちゃん",
     "attribute": "電気",
     "type": "Character",
     "rarity": "SR",
     "songTitle": "あいつら全員同窓会",
-    "sendToPower": 2,
-    "powerCost": 2,
+    "sendToPower": 1,
+    "powerCost": 1,
     "night": 20,
     "day": 60,
     "timeCount": 0,
@@ -324,7 +324,7 @@
     "uid": "001018"
   },
   {
-    "id": "1st_19",
+    "id": "1st_019",
     "name": "にらちゃん",
     "attribute": "電気",
     "type": "Character",
@@ -342,14 +342,14 @@
     "uid": "001019"
   },
   {
-    "id": "1st_20",
+    "id": "1st_020",
     "name": "ZUTOMAYO SQUARE",
     "attribute": "電気",
     "type": "Character",
     "rarity": "SR",
     "songTitle": "",
-    "sendToPower": 4,
-    "powerCost": 0,
+    "sendToPower": 0,
+    "powerCost": 4,
     "night": 60,
     "day": 100,
     "timeCount": 1,
@@ -360,14 +360,14 @@
     "uid": "001020"
   },
   {
-    "id": "1st_21",
+    "id": "1st_021",
     "name": "うにぐり増殖中",
     "attribute": "風",
     "type": "Character",
     "rarity": "SR",
     "songTitle": "",
-    "sendToPower": 1,
-    "powerCost": 0,
+    "sendToPower": 0,
+    "powerCost": 1,
     "night": 90,
     "day": 10,
     "timeCount": 3,
@@ -378,13 +378,13 @@
     "uid": "001021"
   },
   {
-    "id": "1st_22",
+    "id": "1st_022",
     "name": "にらちゃん",
     "attribute": "風",
     "type": "Character",
     "rarity": "SR",
     "songTitle": "ヒューマノイド",
-    "sendToPower": 2,
+    "sendToPower": 1,
     "powerCost": 2,
     "night": 50,
     "day": 50,
@@ -396,14 +396,14 @@
     "uid": "001022"
   },
   {
-    "id": "1st_23",
+    "id": "1st_023",
     "name": "にらちゃん",
     "attribute": "風",
     "type": "Character",
     "rarity": "SR",
     "songTitle": "働ぐれい",
-    "sendToPower": 2,
-    "powerCost": 0,
+    "sendToPower": 0,
+    "powerCost": 2,
     "night": 90,
     "day": 30,
     "timeCount": 3,
@@ -414,7 +414,7 @@
     "uid": "001023"
   },
   {
-    "id": "1st_24",
+    "id": "1st_024",
     "name": "にらちゃん",
     "attribute": "風",
     "type": "Character",
@@ -432,7 +432,7 @@
     "uid": "001024"
   },
   {
-    "id": "1st_25",
+    "id": "1st_025",
     "name": "顕現するハサミ",
     "attribute": "闇",
     "type": "Enchant",
@@ -450,7 +450,7 @@
     "uid": "001025"
   },
   {
-    "id": "1st_26",
+    "id": "1st_026",
     "name": "開幕宣言",
     "attribute": "闇",
     "type": "Enchant",
@@ -468,13 +468,13 @@
     "uid": "001026"
   },
   {
-    "id": "1st_27",
+    "id": "1st_027",
     "name": "ミラーシューター",
     "attribute": "炎",
     "type": "Enchant",
     "rarity": "SR",
     "songTitle": "",
-    "sendToPower": 2,
+    "sendToPower": 1,
     "powerCost": 3,
     "night": 0,
     "day": 0,
@@ -486,13 +486,13 @@
     "uid": "001027"
   },
   {
-    "id": "1st_28",
+    "id": "1st_028",
     "name": "お勉強会",
     "attribute": "炎",
     "type": "Enchant",
     "rarity": "SR",
     "songTitle": "",
-    "sendToPower": 3,
+    "sendToPower": 1,
     "powerCost": 3,
     "night": 0,
     "day": 0,
@@ -504,13 +504,13 @@
     "uid": "001028"
   },
   {
-    "id": "1st_29",
+    "id": "1st_029",
     "name": "稲妻のレンジ",
     "attribute": "電気",
     "type": "Enchant",
     "rarity": "SR",
     "songTitle": "",
-    "sendToPower": 2,
+    "sendToPower": 1,
     "powerCost": 3,
     "night": 0,
     "day": 0,
@@ -522,7 +522,7 @@
     "uid": "001029"
   },
   {
-    "id": "1st_30",
+    "id": "1st_030",
     "name": "爆弾みたいな球体",
     "attribute": "電気",
     "type": "Enchant",
@@ -540,7 +540,7 @@
     "uid": "001030"
   },
   {
-    "id": "1st_31",
+    "id": "1st_031",
     "name": "洗車中",
     "attribute": "闇",
     "type": "Enchant",
@@ -558,14 +558,14 @@
     "uid": "001031"
   },
   {
-    "id": "1st_32",
+    "id": "1st_032",
     "name": "インク猫ケルベロス",
     "attribute": "風",
     "type": "Enchant",
     "rarity": "SR",
     "songTitle": "",
-    "sendToPower": 3,
-    "powerCost": 3,
+    "sendToPower": 0,
+    "powerCost": 4,
     "night": 0,
     "day": 0,
     "timeCount": 3,
@@ -576,7 +576,7 @@
     "uid": "001032"
   },
   {
-    "id": "1st_33",
+    "id": "1st_033",
     "name": "にらちゃん",
     "attribute": "闇",
     "type": "Character",
@@ -594,7 +594,7 @@
     "uid": "001033"
   },
   {
-    "id": "1st_34",
+    "id": "1st_034",
     "name": "眩しいDNA隊",
     "attribute": "闇",
     "type": "Character",
@@ -612,7 +612,7 @@
     "uid": "001034"
   },
   {
-    "id": "1st_35",
+    "id": "1st_035",
     "name": "グレイヌ",
     "attribute": "闇",
     "type": "Character",
@@ -630,7 +630,7 @@
     "uid": "001035"
   },
   {
-    "id": "1st_36",
+    "id": "1st_036",
     "name": "しゃくま男…？",
     "attribute": "闇",
     "type": "Character",
@@ -648,13 +648,13 @@
     "uid": "001036"
   },
   {
-    "id": "1st_37",
+    "id": "1st_037",
     "name": "うにぐりスーパースター",
     "attribute": "闇",
     "type": "Character",
     "rarity": "R",
     "songTitle": "",
-    "sendToPower": 3,
+    "sendToPower": 0,
     "powerCost": 3,
     "night": 100,
     "day": 40,
@@ -666,13 +666,13 @@
     "uid": "001037"
   },
   {
-    "id": "1st_38",
+    "id": "1st_038",
     "name": "にらちゃん",
     "attribute": "炎",
     "type": "Character",
     "rarity": "R",
     "songTitle": "あいつら全員同窓会",
-    "sendToPower": 0,
+    "sendToPower": 1,
     "powerCost": 1,
     "night": 40,
     "day": 40,
@@ -684,7 +684,7 @@
     "uid": "001038"
   },
   {
-    "id": "1st_39",
+    "id": "1st_039",
     "name": "グレイ",
     "attribute": "炎",
     "type": "Character",
@@ -702,7 +702,7 @@
     "uid": "001039"
   },
   {
-    "id": "1st_40",
+    "id": "1st_040",
     "name": "にらちゃん",
     "attribute": "炎",
     "type": "Character",
@@ -720,14 +720,14 @@
     "uid": "001040"
   },
   {
-    "id": "1st_41",
+    "id": "1st_041",
     "name": "にらちゃん・ナナシ",
     "attribute": "炎",
     "type": "Character",
     "rarity": "R",
     "songTitle": "暗く黒く",
     "sendToPower": 0,
-    "powerCost": 4,
+    "powerCost": 3,
     "night": 70,
     "day": 70,
     "timeCount": 1,
@@ -738,7 +738,7 @@
     "uid": "001041"
   },
   {
-    "id": "1st_42",
+    "id": "1st_042",
     "name": "うにぐりくん・みみかゆし",
     "attribute": "炎",
     "type": "Character",
@@ -756,7 +756,7 @@
     "uid": "001042"
   },
   {
-    "id": "1st_43",
+    "id": "1st_043",
     "name": "配達員",
     "attribute": "電気",
     "type": "Character",
@@ -774,7 +774,7 @@
     "uid": "001043"
   },
   {
-    "id": "1st_44",
+    "id": "1st_044",
     "name": "NAGA・アフロ☆サムライ",
     "attribute": "電気",
     "type": "Character",
@@ -792,7 +792,7 @@
     "uid": "001044"
   },
   {
-    "id": "1st_45",
+    "id": "1st_045",
     "name": "にらちゃん",
     "attribute": "電気",
     "type": "Character",
@@ -810,7 +810,7 @@
     "uid": "001045"
   },
   {
-    "id": "1st_46",
+    "id": "1st_046",
     "name": "正義のミカタ",
     "attribute": "電気",
     "type": "Character",
@@ -828,7 +828,7 @@
     "uid": "001046"
   },
   {
-    "id": "1st_47",
+    "id": "1st_047",
     "name": "にらチャイナ",
     "attribute": "電気",
     "type": "Character",
@@ -846,7 +846,7 @@
     "uid": "001047"
   },
   {
-    "id": "1st_48",
+    "id": "1st_048",
     "name": "にらちゃん",
     "attribute": "風",
     "type": "Character",
@@ -864,7 +864,7 @@
     "uid": "001048"
   },
   {
-    "id": "1st_49",
+    "id": "1st_049",
     "name": "にらちゃん",
     "attribute": "風",
     "type": "Character",
@@ -882,7 +882,7 @@
     "uid": "001049"
   },
   {
-    "id": "1st_50",
+    "id": "1st_050",
     "name": "栽培うにぐり",
     "attribute": "風",
     "type": "Character",
@@ -900,7 +900,7 @@
     "uid": "001050"
   },
   {
-    "id": "1st_51",
+    "id": "1st_051",
     "name": "にらちゃん",
     "attribute": "闇",
     "type": "Character",
@@ -918,13 +918,13 @@
     "uid": "001051"
   },
   {
-    "id": "1st_52",
+    "id": "1st_052",
     "name": "にらちゃん逃走中",
     "attribute": "風",
     "type": "Character",
     "rarity": "R",
     "songTitle": "勘冴えて悔しいわ",
-    "sendToPower": 1,
+    "sendToPower": 0,
     "powerCost": 1,
     "night": 20,
     "day": 80,
@@ -936,7 +936,7 @@
     "uid": "001052"
   },
   {
-    "id": "1st_53",
+    "id": "1st_053",
     "name": "脳裏裏上の観覧車",
     "attribute": "闇",
     "type": "Enchant",
@@ -954,7 +954,7 @@
     "uid": "001053"
   },
   {
-    "id": "1st_54",
+    "id": "1st_054",
     "name": "チョキ・チョキ",
     "attribute": "闇",
     "type": "Enchant",
@@ -972,7 +972,7 @@
     "uid": "001054"
   },
   {
-    "id": "1st_55",
+    "id": "1st_055",
     "name": "助っ人演奏隊",
     "attribute": "闇",
     "type": "Enchant",
@@ -990,7 +990,7 @@
     "uid": "001055"
   },
   {
-    "id": "1st_56",
+    "id": "1st_056",
     "name": "夕焼け風見",
     "attribute": "炎",
     "type": "Enchant",
@@ -1008,7 +1008,7 @@
     "uid": "001056"
   },
   {
-    "id": "1st_57",
+    "id": "1st_057",
     "name": "うにぐりパン",
     "attribute": "炎",
     "type": "Enchant",
@@ -1026,13 +1026,13 @@
     "uid": "001057"
   },
   {
-    "id": "1st_58",
+    "id": "1st_058",
     "name": "爆撃ストライプ",
     "attribute": "炎",
     "type": "Enchant",
     "rarity": "R",
     "songTitle": "",
-    "sendToPower": 0,
+    "sendToPower": 1,
     "powerCost": 2,
     "night": 0,
     "day": 0,
@@ -1044,7 +1044,7 @@
     "uid": "001058"
   },
   {
-    "id": "1st_59",
+    "id": "1st_059",
     "name": "レモン香るうにぐりソテー",
     "attribute": "電気",
     "type": "Enchant",
@@ -1062,7 +1062,7 @@
     "uid": "001059"
   },
   {
-    "id": "1st_60",
+    "id": "1st_060",
     "name": "電撃鍵",
     "attribute": "電気",
     "type": "Enchant",
@@ -1080,13 +1080,13 @@
     "uid": "001060"
   },
   {
-    "id": "1st_61",
+    "id": "1st_061",
     "name": "カード 1st_61",
     "attribute": "電気",
     "type": "Enchant",
     "rarity": "R",
     "songTitle": "",
-    "sendToPower": 0,
+    "sendToPower": 1,
     "powerCost": 1,
     "night": 0,
     "day": 0,
@@ -1098,7 +1098,7 @@
     "uid": "001061"
   },
   {
-    "id": "1st_62",
+    "id": "1st_062",
     "name": "たけのこご飯",
     "attribute": "風",
     "type": "Enchant",
@@ -1116,13 +1116,13 @@
     "uid": "001062"
   },
   {
-    "id": "1st_63",
+    "id": "1st_063",
     "name": "ふわふわの猫",
     "attribute": "風",
     "type": "Enchant",
     "rarity": "R",
     "songTitle": "",
-    "sendToPower": 0,
+    "sendToPower": 1,
     "powerCost": 2,
     "night": 0,
     "day": 0,
@@ -1134,7 +1134,7 @@
     "uid": "001063"
   },
   {
-    "id": "1st_64",
+    "id": "1st_064",
     "name": "ちょっぴり豪華な朝ごはん",
     "attribute": "風",
     "type": "Enchant",
@@ -1152,7 +1152,7 @@
     "uid": "001064"
   },
   {
-    "id": "1st_65",
+    "id": "1st_065",
     "name": "柿原 栗ムント",
     "attribute": "闇",
     "type": "Character",
@@ -1170,7 +1170,7 @@
     "uid": "001065"
   },
   {
-    "id": "1st_66",
+    "id": "1st_066",
     "name": "ハカセ",
     "attribute": "闇",
     "type": "Character",
@@ -1188,7 +1188,7 @@
     "uid": "001066"
   },
   {
-    "id": "1st_67",
+    "id": "1st_067",
     "name": "ちりとり男",
     "attribute": "闇",
     "type": "Character",
@@ -1206,7 +1206,7 @@
     "uid": "001067"
   },
   {
-    "id": "1st_68",
+    "id": "1st_068",
     "name": "宇宙人ストリングス",
     "attribute": "闇",
     "type": "Character",
@@ -1224,7 +1224,7 @@
     "uid": "001068"
   },
   {
-    "id": "1st_69",
+    "id": "1st_069",
     "name": "にらちゃん",
     "attribute": "炎",
     "type": "Character",
@@ -1242,7 +1242,7 @@
     "uid": "001069"
   },
   {
-    "id": "1st_70",
+    "id": "1st_070",
     "name": "うにぐりくん",
     "attribute": "炎",
     "type": "Character",
@@ -1260,7 +1260,7 @@
     "uid": "001070"
   },
   {
-    "id": "1st_71",
+    "id": "1st_071",
     "name": "にらちゃん",
     "attribute": "炎",
     "type": "Character",
@@ -1278,7 +1278,7 @@
     "uid": "001071"
   },
   {
-    "id": "1st_72",
+    "id": "1st_072",
     "name": "低血",
     "attribute": "炎",
     "type": "Character",
@@ -1296,7 +1296,7 @@
     "uid": "001072"
   },
   {
-    "id": "1st_73",
+    "id": "1st_073",
     "name": "うにぐりくん",
     "attribute": "電気",
     "type": "Character",
@@ -1314,7 +1314,7 @@
     "uid": "001073"
   },
   {
-    "id": "1st_74",
+    "id": "1st_074",
     "name": "ふらんけん",
     "attribute": "電気",
     "type": "Character",
@@ -1332,7 +1332,7 @@
     "uid": "001074"
   },
   {
-    "id": "1st_75",
+    "id": "1st_075",
     "name": "にらちゃん",
     "attribute": "電気",
     "type": "Character",
@@ -1350,7 +1350,7 @@
     "uid": "001075"
   },
   {
-    "id": "1st_76",
+    "id": "1st_076",
     "name": "うにぐりくん",
     "attribute": "電気",
     "type": "Character",
@@ -1368,7 +1368,7 @@
     "uid": "001076"
   },
   {
-    "id": "1st_77",
+    "id": "1st_077",
     "name": "にらちゃん",
     "attribute": "闇",
     "type": "Character",
@@ -1386,7 +1386,7 @@
     "uid": "001077"
   },
   {
-    "id": "1st_78",
+    "id": "1st_078",
     "name": "にらちゃん",
     "attribute": "風",
     "type": "Character",
@@ -1404,7 +1404,7 @@
     "uid": "001078"
   },
   {
-    "id": "1st_79",
+    "id": "1st_079",
     "name": "グレイ？",
     "attribute": "闇",
     "type": "Character",
@@ -1422,7 +1422,7 @@
     "uid": "001079"
   },
   {
-    "id": "1st_80",
+    "id": "1st_080",
     "name": "ナナシ",
     "attribute": "闇",
     "type": "Character",
@@ -1440,7 +1440,7 @@
     "uid": "001080"
   },
   {
-    "id": "1st_81",
+    "id": "1st_081",
     "name": "いちごケーキ",
     "attribute": "闇",
     "type": "Enchant",
@@ -1458,7 +1458,7 @@
     "uid": "001081"
   },
   {
-    "id": "1st_82",
+    "id": "1st_082",
     "name": "遺影",
     "attribute": "闇",
     "type": "Enchant",
@@ -1476,7 +1476,7 @@
     "uid": "001082"
   },
   {
-    "id": "1st_83",
+    "id": "1st_083",
     "name": "回廊",
     "attribute": "闇",
     "type": "Enchant",
@@ -1494,7 +1494,7 @@
     "uid": "001083"
   },
   {
-    "id": "1st_84",
+    "id": "1st_084",
     "name": "クレーター",
     "attribute": "闇",
     "type": "Enchant",
@@ -1512,7 +1512,7 @@
     "uid": "001084"
   },
   {
-    "id": "1st_85",
+    "id": "1st_085",
     "name": "散らかったソファ",
     "attribute": "闇",
     "type": "Enchant",
@@ -1530,7 +1530,7 @@
     "uid": "001085"
   },
   {
-    "id": "1st_86",
+    "id": "1st_086",
     "name": "えん緑",
     "attribute": "闇",
     "type": "Enchant",
@@ -1548,7 +1548,7 @@
     "uid": "001086"
   },
   {
-    "id": "1st_87",
+    "id": "1st_087",
     "name": "残り物",
     "attribute": "炎",
     "type": "Enchant",
@@ -1566,7 +1566,7 @@
     "uid": "001087"
   },
   {
-    "id": "1st_88",
+    "id": "1st_088",
     "name": "赤闇を照らす",
     "attribute": "炎",
     "type": "Enchant",
@@ -1584,7 +1584,7 @@
     "uid": "001088"
   },
   {
-    "id": "1st_89",
+    "id": "1st_089",
     "name": "時計",
     "attribute": "炎",
     "type": "Enchant",
@@ -1602,7 +1602,7 @@
     "uid": "001089"
   },
   {
-    "id": "1st_90",
+    "id": "1st_090",
     "name": "DNA鍋",
     "attribute": "炎",
     "type": "Enchant",
@@ -1620,7 +1620,7 @@
     "uid": "001090"
   },
   {
-    "id": "1st_91",
+    "id": "1st_091",
     "name": "しゃっくりの招き猫店",
     "attribute": "炎",
     "type": "Enchant",
@@ -1638,7 +1638,7 @@
     "uid": "001091"
   },
   {
-    "id": "1st_92",
+    "id": "1st_092",
     "name": "妙薬の調合",
     "attribute": "炎",
     "type": "Enchant",
@@ -1656,7 +1656,7 @@
     "uid": "001092"
   },
   {
-    "id": "1st_93",
+    "id": "1st_093",
     "name": "ブラウン管テレビ\"強\"",
     "attribute": "電気",
     "type": "Enchant",
@@ -1674,13 +1674,13 @@
     "uid": "001093"
   },
   {
-    "id": "1st_94",
+    "id": "1st_094",
     "name": "制御室",
     "attribute": "電気",
     "type": "Enchant",
     "rarity": "N",
     "songTitle": "",
-    "sendToPower": 0,
+    "sendToPower": 1,
     "powerCost": 0,
     "night": 0,
     "day": 0,
@@ -1692,7 +1692,7 @@
     "uid": "001094"
   },
   {
-    "id": "1st_95",
+    "id": "1st_095",
     "name": "パラボラアンテナ",
     "attribute": "電気",
     "type": "Enchant",
@@ -1710,7 +1710,7 @@
     "uid": "001095"
   },
   {
-    "id": "1st_96",
+    "id": "1st_096",
     "name": "カード 1st_96",
     "attribute": "電気",
     "type": "Enchant",
@@ -1728,7 +1728,7 @@
     "uid": "001096"
   },
   {
-    "id": "1st_97",
+    "id": "1st_097",
     "name": "心メンテ",
     "attribute": "電気",
     "type": "Enchant",
@@ -1746,7 +1746,7 @@
     "uid": "001097"
   },
   {
-    "id": "1st_98",
+    "id": "1st_098",
     "name": "スラムマート",
     "attribute": "電気",
     "type": "Enchant",
@@ -1764,7 +1764,7 @@
     "uid": "001098"
   },
   {
-    "id": "1st_99",
+    "id": "1st_099",
     "name": "落書き教室",
     "attribute": "風",
     "type": "Enchant",
@@ -1878,8 +1878,8 @@
     "type": "Character",
     "rarity": "SE",
     "songTitle": "働冴えて悔しいわ",
-    "sendToPower": 4,
-    "powerCost": 0,
+    "sendToPower": 0,
+    "powerCost": 6,
     "night": 110,
     "day": 110,
     "timeCount": 2,
@@ -1896,8 +1896,8 @@
     "type": "Character",
     "rarity": "SE",
     "songTitle": "Ham",
-    "sendToPower": 4,
-    "powerCost": 4,
+    "sendToPower": 0,
+    "powerCost": 3,
     "night": 30,
     "day": 110,
     "timeCount": 1,
@@ -1908,14 +1908,14 @@
     "uid": "001106"
   },
   {
-    "id": "2nd_1",
+    "id": "2nd_001",
     "name": "にらちゃん",
     "attribute": "闇",
     "type": "Character",
     "rarity": "UR",
     "songTitle": "残機",
-    "sendToPower": 4,
-    "powerCost": 4,
+    "sendToPower": 0,
+    "powerCost": 6,
     "night": 140,
     "day": 80,
     "timeCount": 5,
@@ -1926,14 +1926,14 @@
     "uid": "002001"
   },
   {
-    "id": "2nd_3",
+    "id": "2nd_003",
     "name": "にらちゃん",
     "attribute": "電気",
     "type": "Character",
     "rarity": "UR",
     "songTitle": "袖のキルト",
-    "sendToPower": 4,
-    "powerCost": 3,
+    "sendToPower": 0,
+    "powerCost": 7,
     "night": 110,
     "day": 150,
     "timeCount": 5,
@@ -1944,13 +1944,13 @@
     "uid": "002003"
   },
   {
-    "id": "2nd_4",
+    "id": "2nd_004",
     "name": "にらちゃん",
     "attribute": "風",
     "type": "Character",
     "rarity": "UR",
     "songTitle": "ミラーチューン",
-    "sendToPower": 4,
+    "sendToPower": 0,
     "powerCost": 4,
     "night": 100,
     "day": 60,
@@ -1962,14 +1962,14 @@
     "uid": "002004"
   },
   {
-    "id": "2nd_5",
+    "id": "2nd_005",
     "name": "グレイヌの一服",
     "attribute": "闇",
     "type": "Area Enchant",
     "rarity": "UR",
     "songTitle": "",
-    "sendToPower": 3,
-    "powerCost": 3,
+    "sendToPower": 0,
+    "powerCost": 5,
     "night": 0,
     "day": 0,
     "timeCount": 1,
@@ -1980,14 +1980,14 @@
     "uid": "002005"
   },
   {
-    "id": "2nd_6",
+    "id": "2nd_006",
     "name": "頭があった頃の彼",
     "attribute": "炎",
     "type": "Enchant",
     "rarity": "UR",
     "songTitle": "",
-    "sendToPower": 2,
-    "powerCost": 3,
+    "sendToPower": 0,
+    "powerCost": 2,
     "night": 0,
     "day": 0,
     "timeCount": 2,
@@ -1998,13 +1998,13 @@
     "uid": "002006"
   },
   {
-    "id": "2nd_7",
+    "id": "2nd_007",
     "name": "風をあつめて",
     "attribute": "電気",
     "type": "Area Enchant",
     "rarity": "UR",
     "songTitle": "",
-    "sendToPower": 3,
+    "sendToPower": 0,
     "powerCost": 3,
     "night": 0,
     "day": 0,
@@ -2016,7 +2016,7 @@
     "uid": "002007"
   },
   {
-    "id": "2nd_8",
+    "id": "2nd_008",
     "name": "キラメイド出動!",
     "attribute": "風",
     "type": "Enchant",
@@ -2034,7 +2034,7 @@
     "uid": "002008"
   },
   {
-    "id": "2nd_9",
+    "id": "2nd_009",
     "name": "にらちゃん",
     "attribute": "闇",
     "type": "Character",
@@ -2052,7 +2052,7 @@
     "uid": "002009"
   },
   {
-    "id": "2nd_27",
+    "id": "2nd_027",
     "name": "うにぐりナポリタン",
     "attribute": "炎",
     "type": "Enchant",
@@ -2070,14 +2070,14 @@
     "uid": "002027"
   },
   {
-    "id": "2nd_28",
+    "id": "2nd_028",
     "name": "湯船で打ち上げ",
     "attribute": "炎",
     "type": "Enchant",
     "rarity": "SR",
     "songTitle": "",
-    "sendToPower": 2,
-    "powerCost": 3,
+    "sendToPower": 1,
+    "powerCost": 4,
     "night": 0,
     "day": 0,
     "timeCount": 3,
@@ -2088,14 +2088,14 @@
     "uid": "002028"
   },
   {
-    "id": "2nd_29",
+    "id": "2nd_029",
     "name": "夜ふかし",
     "attribute": "電気",
     "type": "Enchant",
     "rarity": "SR",
     "songTitle": "",
-    "sendToPower": 2,
-    "powerCost": 3,
+    "sendToPower": 1,
+    "powerCost": 5,
     "night": 0,
     "day": 0,
     "timeCount": 4,
@@ -2106,13 +2106,13 @@
     "uid": "002029"
   },
   {
-    "id": "2nd_30",
+    "id": "2nd_030",
     "name": "うにぐり培養中",
     "attribute": "電気",
     "type": "Enchant",
     "rarity": "SR",
     "songTitle": "",
-    "sendToPower": 3,
+    "sendToPower": 0,
     "powerCost": 3,
     "night": 0,
     "day": 0,
@@ -2124,7 +2124,7 @@
     "uid": "002030"
   },
   {
-    "id": "2nd_31",
+    "id": "2nd_031",
     "name": "配達中",
     "attribute": "風",
     "type": "Enchant",
@@ -2142,7 +2142,7 @@
     "uid": "002031"
   },
   {
-    "id": "2nd_32",
+    "id": "2nd_032",
     "name": "希求",
     "attribute": "風",
     "type": "Enchant",
@@ -2160,7 +2160,7 @@
     "uid": "002032"
   },
   {
-    "id": "2nd_33",
+    "id": "2nd_033",
     "name": "グレイ",
     "attribute": "闇",
     "type": "Character",
@@ -2178,7 +2178,7 @@
     "uid": "002033"
   },
   {
-    "id": "2nd_34",
+    "id": "2nd_034",
     "name": "にらちゃん",
     "attribute": "闇",
     "type": "Character",
@@ -2196,13 +2196,13 @@
     "uid": "002034"
   },
   {
-    "id": "2nd_35",
+    "id": "2nd_035",
     "name": "キラちゃん",
     "attribute": "闇",
     "type": "Character",
     "rarity": "R",
     "songTitle": "綺羅キラー",
-    "sendToPower": 2,
+    "sendToPower": 0,
     "powerCost": 2,
     "night": 60,
     "day": 40,
@@ -2214,13 +2214,13 @@
     "uid": "002035"
   },
   {
-    "id": "2nd_36",
+    "id": "2nd_036",
     "name": "にらちゃん",
     "attribute": "闇",
     "type": "Character",
     "rarity": "R",
     "songTitle": "働ぐれい",
-    "sendToPower": 4,
+    "sendToPower": 0,
     "powerCost": 4,
     "night": 70,
     "day": 60,
@@ -2232,13 +2232,13 @@
     "uid": "002036"
   },
   {
-    "id": "2nd_37",
+    "id": "2nd_037",
     "name": "にらちゃん人形",
     "attribute": "闇",
     "type": "Character",
     "rarity": "R",
     "songTitle": "",
-    "sendToPower": 1,
+    "sendToPower": 0,
     "powerCost": 1,
     "night": 80,
     "day": 20,
@@ -2250,7 +2250,7 @@
     "uid": "002037"
   },
   {
-    "id": "2nd_38",
+    "id": "2nd_038",
     "name": "にらちゃん",
     "attribute": "炎",
     "type": "Character",
@@ -2268,7 +2268,7 @@
     "uid": "002038"
   },
   {
-    "id": "2nd_39",
+    "id": "2nd_039",
     "name": "灰版電機工業(株)幹部",
     "attribute": "炎",
     "type": "Character",
@@ -2286,7 +2286,7 @@
     "uid": "002039"
   },
   {
-    "id": "2nd_40",
+    "id": "2nd_040",
     "name": "ミルクとコンクリートでできた猫",
     "attribute": "炎",
     "type": "Character",
@@ -2304,7 +2304,7 @@
     "uid": "002040"
   },
   {
-    "id": "2nd_41",
+    "id": "2nd_041",
     "name": "うにぐり画伯",
     "attribute": "炎",
     "type": "Character",
@@ -2322,14 +2322,14 @@
     "uid": "002041"
   },
   {
-    "id": "2nd_42",
+    "id": "2nd_042",
     "name": "アルバイト・パン職人",
     "attribute": "炎",
     "type": "Character",
     "rarity": "R",
     "songTitle": "猫リセット",
     "sendToPower": 0,
-    "powerCost": 0,
+    "powerCost": 1,
     "night": 20,
     "day": 60,
     "timeCount": 0,
@@ -2340,7 +2340,7 @@
     "uid": "002042"
   },
   {
-    "id": "2nd_43",
+    "id": "2nd_043",
     "name": "にらちゃん",
     "attribute": "電気",
     "type": "Character",
@@ -2358,7 +2358,7 @@
     "uid": "002043"
   },
   {
-    "id": "2nd_44",
+    "id": "2nd_044",
     "name": "ズトマヨカクテル",
     "attribute": "電気",
     "type": "Character",
@@ -2376,7 +2376,7 @@
     "uid": "002044"
   },
   {
-    "id": "2nd_45",
+    "id": "2nd_045",
     "name": "にらちゃん・キラちゃん",
     "attribute": "電気",
     "type": "Character",
@@ -2394,7 +2394,7 @@
     "uid": "002045"
   },
   {
-    "id": "2nd_46",
+    "id": "2nd_046",
     "name": "夜中のネコリセット",
     "attribute": "電気",
     "type": "Character",
@@ -2412,7 +2412,7 @@
     "uid": "002046"
   },
   {
-    "id": "2nd_47",
+    "id": "2nd_047",
     "name": "にらメイド",
     "attribute": "電気",
     "type": "Character",
@@ -2430,7 +2430,7 @@
     "uid": "002047"
   },
   {
-    "id": "2nd_48",
+    "id": "2nd_048",
     "name": "さすらいのうにぐりくん",
     "attribute": "風",
     "type": "Character",
@@ -2448,13 +2448,13 @@
     "uid": "002048"
   },
   {
-    "id": "2nd_49",
+    "id": "2nd_049",
     "name": "キラメイクアップ",
     "attribute": "風",
     "type": "Character",
     "rarity": "R",
     "songTitle": "",
-    "sendToPower": 1,
+    "sendToPower": 0,
     "powerCost": 1,
     "night": 50,
     "day": 30,
@@ -2466,13 +2466,13 @@
     "uid": "002049"
   },
   {
-    "id": "2nd_50",
+    "id": "2nd_050",
     "name": "襟頭の方",
     "attribute": "風",
     "type": "Character",
     "rarity": "R",
     "songTitle": "蹴っ飛ばした毛布",
-    "sendToPower": 3,
+    "sendToPower": 0,
     "powerCost": 3,
     "night": 70,
     "day": 50,
@@ -2484,7 +2484,7 @@
     "uid": "002050"
   },
   {
-    "id": "2nd_51",
+    "id": "2nd_051",
     "name": "にらちゃん",
     "attribute": "風",
     "type": "Character",
@@ -2502,14 +2502,14 @@
     "uid": "002051"
   },
   {
-    "id": "2nd_52",
+    "id": "2nd_052",
     "name": "ふらんけん",
     "attribute": "風",
     "type": "Character",
     "rarity": "R",
     "songTitle": "Dear. Mr「F」",
-    "sendToPower": 4,
-    "powerCost": 4,
+    "sendToPower": 0,
+    "powerCost": 5,
     "night": 90,
     "day": 90,
     "timeCount": 5,
@@ -2520,7 +2520,7 @@
     "uid": "002052"
   },
   {
-    "id": "2nd_53",
+    "id": "2nd_053",
     "name": "奥の手",
     "attribute": "闇",
     "type": "Enchant",
@@ -2538,14 +2538,14 @@
     "uid": "002053"
   },
   {
-    "id": "2nd_54",
+    "id": "2nd_054",
     "name": "異なる世界の異なる姿",
     "attribute": "闇",
     "type": "Enchant",
     "rarity": "R",
     "songTitle": "",
     "sendToPower": 1,
-    "powerCost": 3,
+    "powerCost": 4,
     "night": 0,
     "day": 0,
     "timeCount": 1,
@@ -2556,7 +2556,7 @@
     "uid": "002054"
   },
   {
-    "id": "2nd_55",
+    "id": "2nd_055",
     "name": "ZTMY キャッチャー",
     "attribute": "闇",
     "type": "Enchant",
@@ -2574,7 +2574,7 @@
     "uid": "002055"
   },
   {
-    "id": "2nd_56",
+    "id": "2nd_056",
     "name": "バイト後のふたり",
     "attribute": "炎",
     "type": "Enchant",
@@ -2592,14 +2592,14 @@
     "uid": "002056"
   },
   {
-    "id": "2nd_57",
+    "id": "2nd_057",
     "name": "君のこと最後まで知りたいよ",
     "attribute": "炎",
     "type": "Enchant",
     "rarity": "R",
     "songTitle": "",
     "sendToPower": 1,
-    "powerCost": 3,
+    "powerCost": 4,
     "night": 0,
     "day": 0,
     "timeCount": 1,
@@ -2610,13 +2610,13 @@
     "uid": "002057"
   },
   {
-    "id": "2nd_58",
+    "id": "2nd_058",
     "name": "開店準備",
     "attribute": "炎",
     "type": "Area Enchant",
     "rarity": "R",
     "songTitle": "",
-    "sendToPower": 3,
+    "sendToPower": 0,
     "powerCost": 3,
     "night": 0,
     "day": 0,
@@ -2628,7 +2628,7 @@
     "uid": "002058"
   },
   {
-    "id": "2nd_59",
+    "id": "2nd_059",
     "name": "掴め",
     "attribute": "電気",
     "type": "Enchant",
@@ -2646,13 +2646,13 @@
     "uid": "002059"
   },
   {
-    "id": "2nd_60",
+    "id": "2nd_060",
     "name": "思い出のカメラ",
     "attribute": "電気",
     "type": "Enchant",
     "rarity": "R",
     "songTitle": "",
-    "sendToPower": 0,
+    "sendToPower": 1,
     "powerCost": 4,
     "night": 0,
     "day": 0,
@@ -2664,14 +2664,14 @@
     "uid": "002060"
   },
   {
-    "id": "2nd_61",
+    "id": "2nd_061",
     "name": "正義の傘",
     "attribute": "電気",
     "type": "Enchant",
     "rarity": "R",
     "songTitle": "",
     "sendToPower": 0,
-    "powerCost": 3,
+    "powerCost": 4,
     "night": 0,
     "day": 0,
     "timeCount": 4,
@@ -2682,7 +2682,7 @@
     "uid": "002061"
   },
   {
-    "id": "2nd_62",
+    "id": "2nd_062",
     "name": "夜弦の月",
     "attribute": "風",
     "type": "Enchant",
@@ -2700,7 +2700,7 @@
     "uid": "002062"
   },
   {
-    "id": "2nd_63",
+    "id": "2nd_063",
     "name": "ハイチーズ",
     "attribute": "風",
     "type": "Enchant",
@@ -2718,7 +2718,7 @@
     "uid": "002063"
   },
   {
-    "id": "2nd_64",
+    "id": "2nd_064",
     "name": "うにぎりころりん",
     "attribute": "風",
     "type": "Area Enchant",
@@ -2736,7 +2736,7 @@
     "uid": "002064"
   },
   {
-    "id": "2nd_65",
+    "id": "2nd_065",
     "name": "うにぐりくん",
     "attribute": "闇",
     "type": "Character",
@@ -2754,7 +2754,7 @@
     "uid": "002065"
   },
   {
-    "id": "2nd_66",
+    "id": "2nd_066",
     "name": "グレイ",
     "attribute": "闇",
     "type": "Character",
@@ -2772,7 +2772,7 @@
     "uid": "002066"
   },
   {
-    "id": "2nd_67",
+    "id": "2nd_067",
     "name": "叢雲のつるぎ",
     "attribute": "闇",
     "type": "Character",
@@ -2790,7 +2790,7 @@
     "uid": "002067"
   },
   {
-    "id": "2nd_68",
+    "id": "2nd_068",
     "name": "ドッペルゲンガー",
     "attribute": "闇",
     "type": "Character",
@@ -2808,7 +2808,7 @@
     "uid": "002068"
   },
   {
-    "id": "2nd_69",
+    "id": "2nd_069",
     "name": "劇・うにぐり",
     "attribute": "炎",
     "type": "Character",
@@ -2826,7 +2826,7 @@
     "uid": "002069"
   },
   {
-    "id": "2nd_70",
+    "id": "2nd_070",
     "name": "にらちゃん",
     "attribute": "炎",
     "type": "Character",
@@ -2844,7 +2844,7 @@
     "uid": "002070"
   },
   {
-    "id": "2nd_81",
+    "id": "2nd_081",
     "name": "おいしい闇なべ専門店",
     "attribute": "闇",
     "type": "Enchant",
@@ -2862,7 +2862,7 @@
     "uid": "002081"
   },
   {
-    "id": "2nd_82",
+    "id": "2nd_082",
     "name": "赤信号",
     "attribute": "闇",
     "type": "Enchant",
@@ -2880,7 +2880,7 @@
     "uid": "002082"
   },
   {
-    "id": "2nd_83",
+    "id": "2nd_083",
     "name": "あの日の風景",
     "attribute": "闇",
     "type": "Enchant",
@@ -2898,7 +2898,7 @@
     "uid": "002083"
   },
   {
-    "id": "2nd_84",
+    "id": "2nd_084",
     "name": "狐の窓",
     "attribute": "闇",
     "type": "Enchant",
@@ -2916,7 +2916,7 @@
     "uid": "002084"
   },
   {
-    "id": "2nd_85",
+    "id": "2nd_085",
     "name": "十字路",
     "attribute": "闇",
     "type": "Enchant",
@@ -2934,7 +2934,7 @@
     "uid": "002085"
   },
   {
-    "id": "2nd_86",
+    "id": "2nd_086",
     "name": "封",
     "attribute": "闇",
     "type": "Area Enchant",
@@ -2952,7 +2952,7 @@
     "uid": "002086"
   },
   {
-    "id": "2nd_87",
+    "id": "2nd_087",
     "name": "住む世界が違うな",
     "attribute": "炎",
     "type": "Enchant",
@@ -2970,7 +2970,7 @@
     "uid": "002087"
   },
   {
-    "id": "2nd_88",
+    "id": "2nd_088",
     "name": "工場見学",
     "attribute": "炎",
     "type": "Enchant",
@@ -2988,7 +2988,7 @@
     "uid": "002088"
   },
   {
-    "id": "2nd_89",
+    "id": "2nd_089",
     "name": "洗剤",
     "attribute": "炎",
     "type": "Enchant",
@@ -3006,7 +3006,7 @@
     "uid": "002089"
   },
   {
-    "id": "2nd_90",
+    "id": "2nd_090",
     "name": "ナイスショット",
     "attribute": "炎",
     "type": "Enchant",
@@ -3024,7 +3024,7 @@
     "uid": "002090"
   },
   {
-    "id": "2nd_91",
+    "id": "2nd_091",
     "name": "居場所",
     "attribute": "炎",
     "type": "Enchant",
@@ -3042,7 +3042,7 @@
     "uid": "002091"
   },
   {
-    "id": "2nd_92",
+    "id": "2nd_092",
     "name": "晩餐会",
     "attribute": "炎",
     "type": "Area Enchant",
@@ -3060,13 +3060,13 @@
     "uid": "002092"
   },
   {
-    "id": "2nd_93",
+    "id": "2nd_093",
     "name": "コールドスリープ",
     "attribute": "電気",
     "type": "Enchant",
     "rarity": "N",
     "songTitle": "",
-    "sendToPower": 2,
+    "sendToPower": 1,
     "powerCost": 2,
     "night": 0,
     "day": 0,
@@ -3078,7 +3078,7 @@
     "uid": "002093"
   },
   {
-    "id": "2nd_94",
+    "id": "2nd_094",
     "name": "禁じられた出会い",
     "attribute": "電気",
     "type": "Enchant",
@@ -3096,7 +3096,7 @@
     "uid": "002094"
   },
   {
-    "id": "2nd_95",
+    "id": "2nd_095",
     "name": "サインポール",
     "attribute": "電気",
     "type": "Enchant",
@@ -3114,7 +3114,7 @@
     "uid": "002095"
   },
   {
-    "id": "2nd_96",
+    "id": "2nd_096",
     "name": "14.4光年の距離",
     "attribute": "電気",
     "type": "Enchant",
@@ -3132,7 +3132,7 @@
     "uid": "002096"
   },
   {
-    "id": "2nd_97",
+    "id": "2nd_097",
     "name": "スターダスト・シェイクハンド",
     "attribute": "電気",
     "type": "Enchant",
@@ -3150,7 +3150,7 @@
     "uid": "002097"
   },
   {
-    "id": "2nd_98",
+    "id": "2nd_098",
     "name": "ネットの評価",
     "attribute": "電気",
     "type": "Area Enchant",
@@ -3168,13 +3168,13 @@
     "uid": "002098"
   },
   {
-    "id": "2nd_99",
+    "id": "2nd_099",
     "name": "跳躍",
     "attribute": "風",
     "type": "Enchant",
     "rarity": "N",
     "songTitle": "",
-    "sendToPower": 0,
+    "sendToPower": 1,
     "powerCost": 2,
     "night": 0,
     "day": 0,
@@ -3186,14 +3186,14 @@
     "uid": "002099"
   },
   {
-    "id": "3rd_1",
+    "id": "3rd_001",
     "name": "にらちゃん",
     "attribute": "闇",
     "type": "Character",
     "rarity": "UR",
     "songTitle": "秒針を噛む",
-    "sendToPower": 4,
-    "powerCost": 4,
+    "sendToPower": 0,
+    "powerCost": 7,
     "night": 110,
     "day": 110,
     "timeCount": 1,
@@ -3204,14 +3204,14 @@
     "uid": "003001"
   },
   {
-    "id": "3rd_2",
+    "id": "3rd_002",
     "name": "低血",
     "attribute": "炎",
     "type": "Character",
     "rarity": "UR",
     "songTitle": "低血ボルト",
-    "sendToPower": 4,
-    "powerCost": 3,
+    "sendToPower": 0,
+    "powerCost": 8,
     "night": 160,
     "day": 120,
     "timeCount": 1,
@@ -3222,14 +3222,14 @@
     "uid": "003002"
   },
   {
-    "id": "3rd_3",
+    "id": "3rd_003",
     "name": "にらちゃん",
     "attribute": "電気",
     "type": "Character",
     "rarity": "UR",
     "songTitle": "猫リセット",
     "sendToPower": 1,
-    "powerCost": 4,
+    "powerCost": 6,
     "night": 80,
     "day": 120,
     "timeCount": 2,
@@ -3240,14 +3240,14 @@
     "uid": "003003"
   },
   {
-    "id": "3rd_4",
+    "id": "3rd_004",
     "name": "にらちゃん",
     "attribute": "風",
     "type": "Character",
     "rarity": "UR",
     "songTitle": "あいつら全員同窓会",
-    "sendToPower": 4,
-    "powerCost": 4,
+    "sendToPower": 0,
+    "powerCost": 7,
     "night": 120,
     "day": 140,
     "timeCount": 3,
@@ -3258,14 +3258,14 @@
     "uid": "003004"
   },
   {
-    "id": "3rd_5",
+    "id": "3rd_005",
     "name": "我儘な合言葉",
     "attribute": "闇",
     "type": "Enchant",
     "rarity": "UR",
     "songTitle": "",
     "sendToPower": 0,
-    "powerCost": 3,
+    "powerCost": 5,
     "night": 0,
     "day": 0,
     "timeCount": 2,
@@ -3276,13 +3276,13 @@
     "uid": "003005"
   },
   {
-    "id": "3rd_6",
+    "id": "3rd_006",
     "name": "秒針を噛む",
     "attribute": "炎",
     "type": "Enchant",
     "rarity": "UR",
     "songTitle": "",
-    "sendToPower": 3,
+    "sendToPower": 0,
     "powerCost": 4,
     "night": 0,
     "day": 0,
@@ -3294,14 +3294,14 @@
     "uid": "003006"
   },
   {
-    "id": "3rd_7",
+    "id": "3rd_007",
     "name": "あいつら",
     "attribute": "電気",
     "type": "Enchant",
     "rarity": "UR",
     "songTitle": "",
-    "sendToPower": 3,
-    "powerCost": 3,
+    "sendToPower": 0,
+    "powerCost": 5,
     "night": 0,
     "day": 0,
     "timeCount": 3,
@@ -3312,14 +3312,14 @@
     "uid": "003007"
   },
   {
-    "id": "3rd_8",
+    "id": "3rd_008",
     "name": "メイドにらと執事にら",
     "attribute": "風",
     "type": "Enchant",
     "rarity": "UR",
     "songTitle": "",
-    "sendToPower": 3,
-    "powerCost": 0,
+    "sendToPower": 0,
+    "powerCost": 4,
     "night": 0,
     "day": 0,
     "timeCount": 3,
@@ -3330,13 +3330,13 @@
     "uid": "003008"
   },
   {
-    "id": "3rd_9",
+    "id": "3rd_009",
     "name": "にらちゃん",
     "attribute": "闇",
     "type": "Character",
     "rarity": "SR",
     "songTitle": "ミラーチューン",
-    "sendToPower": 3,
+    "sendToPower": 0,
     "powerCost": 3,
     "night": 90,
     "day": 40,
@@ -3348,7 +3348,7 @@
     "uid": "003009"
   },
   {
-    "id": "3rd_10",
+    "id": "3rd_010",
     "name": "にらちゃん",
     "attribute": "闇",
     "type": "Character",
@@ -3366,14 +3366,14 @@
     "uid": "003010"
   },
   {
-    "id": "3rd_11",
+    "id": "3rd_011",
     "name": "にらちゃん",
     "attribute": "闇",
     "type": "Character",
     "rarity": "SR",
     "songTitle": "綺羅キラー",
-    "sendToPower": 3,
-    "powerCost": 4,
+    "sendToPower": 0,
+    "powerCost": 5,
     "night": 80,
     "day": 80,
     "timeCount": 3,
@@ -3384,14 +3384,14 @@
     "uid": "003011"
   },
   {
-    "id": "3rd_12",
+    "id": "3rd_012",
     "name": "にらちゃん",
     "attribute": "闇",
     "type": "Character",
     "rarity": "SR",
     "songTitle": "蹴っ飛ばした毛布",
     "sendToPower": 1,
-    "powerCost": 3,
+    "powerCost": 6,
     "night": 110,
     "day": 90,
     "timeCount": 2,
@@ -3402,14 +3402,14 @@
     "uid": "003012"
   },
   {
-    "id": "3rd_13",
+    "id": "3rd_013",
     "name": "グレイ",
     "attribute": "炎",
     "type": "Character",
     "rarity": "SR",
     "songTitle": "かん ぐれい",
-    "sendToPower": 3,
-    "powerCost": 0,
+    "sendToPower": 0,
+    "powerCost": 3,
     "night": 80,
     "day": 60,
     "timeCount": 2,
@@ -3420,14 +3420,14 @@
     "uid": "003013"
   },
   {
-    "id": "3rd_14",
+    "id": "3rd_014",
     "name": "戦隊レンジャーハートレッド",
     "attribute": "炎",
     "type": "Character",
     "rarity": "SR",
     "songTitle": "脳裏上のクラッカー",
     "sendToPower": 0,
-    "powerCost": 3,
+    "powerCost": 4,
     "night": 80,
     "day": 70,
     "timeCount": 5,
@@ -3438,14 +3438,14 @@
     "uid": "003014"
   },
   {
-    "id": "3rd_15",
+    "id": "3rd_015",
     "name": "にらちゃん",
     "attribute": "炎",
     "type": "Character",
     "rarity": "SR",
     "songTitle": "正義",
     "sendToPower": 1,
-    "powerCost": 3,
+    "powerCost": 6,
     "night": 110,
     "day": 90,
     "timeCount": 3,
@@ -3456,14 +3456,14 @@
     "uid": "003015"
   },
   {
-    "id": "3rd_16",
+    "id": "3rd_016",
     "name": "にらちゃん",
     "attribute": "炎",
     "type": "Character",
     "rarity": "SR",
     "songTitle": "こんなこと騒動",
-    "sendToPower": 5,
-    "powerCost": 0,
+    "sendToPower": 0,
+    "powerCost": 6,
     "night": 90,
     "day": 130,
     "timeCount": 1,
@@ -3474,13 +3474,13 @@
     "uid": "003016"
   },
   {
-    "id": "3rd_17",
+    "id": "3rd_017",
     "name": "にらメイド・ナナシ",
     "attribute": "電気",
     "type": "Character",
     "rarity": "SR",
     "songTitle": "暗く黒く",
-    "sendToPower": 3,
+    "sendToPower": 0,
     "powerCost": 3,
     "night": 30,
     "day": 70,
@@ -3492,14 +3492,14 @@
     "uid": "003017"
   },
   {
-    "id": "3rd_18",
+    "id": "3rd_018",
     "name": "にらちゃん",
     "attribute": "電気",
     "type": "Character",
     "rarity": "SR",
     "songTitle": "猫リセット",
-    "sendToPower": 3,
-    "powerCost": 2,
+    "sendToPower": 0,
+    "powerCost": 3,
     "night": 70,
     "day": 70,
     "timeCount": 4,
@@ -3510,14 +3510,14 @@
     "uid": "003018"
   },
   {
-    "id": "3rd_19",
+    "id": "3rd_019",
     "name": "にらちゃん",
     "attribute": "電気",
     "type": "Character",
     "rarity": "SR",
     "songTitle": "働くくらい",
-    "sendToPower": 2,
-    "powerCost": 3,
+    "sendToPower": 1,
+    "powerCost": 4,
     "night": 50,
     "day": 70,
     "timeCount": 3,
@@ -3528,14 +3528,14 @@
     "uid": "003019"
   },
   {
-    "id": "3rd_20",
+    "id": "3rd_020",
     "name": "にらちゃん",
     "attribute": "電気",
     "type": "Character",
     "rarity": "SR",
     "songTitle": "違う曲にしようよ",
-    "sendToPower": 3,
-    "powerCost": 3,
+    "sendToPower": 1,
+    "powerCost": 5,
     "night": 80,
     "day": 100,
     "timeCount": 1,
@@ -3546,13 +3546,13 @@
     "uid": "003020"
   },
   {
-    "id": "3rd_21",
+    "id": "3rd_021",
     "name": "にらちゃん",
     "attribute": "風",
     "type": "Character",
     "rarity": "SR",
     "songTitle": "勤怠えて悔しいわ",
-    "sendToPower": 3,
+    "sendToPower": 0,
     "powerCost": 3,
     "night": 90,
     "day": 40,
@@ -3564,13 +3564,13 @@
     "uid": "003021"
   },
   {
-    "id": "3rd_22",
+    "id": "3rd_022",
     "name": "にらちゃん",
     "attribute": "風",
     "type": "Character",
     "rarity": "SR",
     "songTitle": "ハゼ馳せる果てるまで",
-    "sendToPower": 3,
+    "sendToPower": 0,
     "powerCost": 3,
     "night": 60,
     "day": 60,
@@ -3582,14 +3582,14 @@
     "uid": "003022"
   },
   {
-    "id": "3rd_23",
+    "id": "3rd_023",
     "name": "にらちゃん・ら、にちゃん",
     "attribute": "風",
     "type": "Character",
     "rarity": "SR",
     "songTitle": "不法侵入",
     "sendToPower": 1,
-    "powerCost": 3,
+    "powerCost": 5,
     "night": 60,
     "day": 90,
     "timeCount": 2,
@@ -3600,14 +3600,14 @@
     "uid": "003023"
   },
   {
-    "id": "3rd_24",
+    "id": "3rd_024",
     "name": "うにぐり 休暇中",
     "attribute": "風",
     "type": "Character",
     "rarity": "SR",
     "songTitle": "",
-    "sendToPower": 3,
-    "powerCost": 0,
+    "sendToPower": 0,
+    "powerCost": 6,
     "night": 120,
     "day": 100,
     "timeCount": 2,
@@ -3618,14 +3618,14 @@
     "uid": "003024"
   },
   {
-    "id": "3rd_25",
+    "id": "3rd_025",
     "name": "愛のペガサス",
     "attribute": "闇",
     "type": "Enchant",
     "rarity": "SR",
     "songTitle": "",
-    "sendToPower": 2,
-    "powerCost": 3,
+    "sendToPower": 1,
+    "powerCost": 4,
     "night": 0,
     "day": 0,
     "timeCount": 0,
@@ -3636,14 +3636,14 @@
     "uid": "003025"
   },
   {
-    "id": "3rd_26",
+    "id": "3rd_026",
     "name": "トリック & トリート",
     "attribute": "闇",
     "type": "Enchant",
     "rarity": "SR",
     "songTitle": "",
-    "sendToPower": 2,
-    "powerCost": 0,
+    "sendToPower": 0,
+    "powerCost": 2,
     "night": 0,
     "day": 0,
     "timeCount": 1,
@@ -3654,14 +3654,14 @@
     "uid": "003026"
   },
   {
-    "id": "3rd_27",
+    "id": "3rd_027",
     "name": "惨めな解放だ",
     "attribute": "炎",
     "type": "Enchant",
     "rarity": "SR",
     "songTitle": "",
     "sendToPower": 0,
-    "powerCost": 4,
+    "powerCost": 6,
     "night": 0,
     "day": 0,
     "timeCount": 1,
@@ -3672,14 +3672,14 @@
     "uid": "003027"
   },
   {
-    "id": "3rd_28",
+    "id": "3rd_028",
     "name": "爆ぜる",
     "attribute": "炎",
     "type": "Enchant",
     "rarity": "SR",
     "songTitle": "",
-    "sendToPower": 5,
-    "powerCost": 0,
+    "sendToPower": 0,
+    "powerCost": 6,
     "night": 0,
     "day": 0,
     "timeCount": 3,
@@ -3690,14 +3690,14 @@
     "uid": "003028"
   },
   {
-    "id": "3rd_29",
+    "id": "3rd_029",
     "name": "ダンス・ダンス・ダンス",
     "attribute": "電気",
     "type": "Enchant",
     "rarity": "SR",
     "songTitle": "",
     "sendToPower": 1,
-    "powerCost": 3,
+    "powerCost": 4,
     "night": 0,
     "day": 0,
     "timeCount": 1,
@@ -3708,13 +3708,13 @@
     "uid": "003029"
   },
   {
-    "id": "3rd_30",
+    "id": "3rd_030",
     "name": "今晩の具材",
     "attribute": "電気",
     "type": "Enchant",
     "rarity": "SR",
     "songTitle": "",
-    "sendToPower": 3,
+    "sendToPower": 0,
     "powerCost": 3,
     "night": 0,
     "day": 0,
@@ -3726,7 +3726,7 @@
     "uid": "003030"
   },
   {
-    "id": "3rd_31",
+    "id": "3rd_031",
     "name": "月明かり",
     "attribute": "風",
     "type": "Enchant",
@@ -3744,13 +3744,13 @@
     "uid": "003031"
   },
   {
-    "id": "3rd_32",
+    "id": "3rd_032",
     "name": "うにぐりの里",
     "attribute": "風",
     "type": "Enchant",
     "rarity": "SR",
     "songTitle": "",
-    "sendToPower": 2,
+    "sendToPower": 1,
     "powerCost": 4,
     "night": 0,
     "day": 0,
@@ -3762,7 +3762,7 @@
     "uid": "003032"
   },
   {
-    "id": "3rd_33",
+    "id": "3rd_033",
     "name": "カード 3rd_33",
     "attribute": "闇",
     "type": "Character",
@@ -3780,7 +3780,7 @@
     "uid": "003033"
   },
   {
-    "id": "3rd_34",
+    "id": "3rd_034",
     "name": "にらちゃん",
     "attribute": "闇",
     "type": "Character",
@@ -3798,7 +3798,7 @@
     "uid": "003034"
   },
   {
-    "id": "3rd_35",
+    "id": "3rd_035",
     "name": "にらちゃん",
     "attribute": "闇",
     "type": "Character",
@@ -3816,7 +3816,7 @@
     "uid": "003035"
   },
   {
-    "id": "3rd_36",
+    "id": "3rd_036",
     "name": "しょうがモドキ",
     "attribute": "闇",
     "type": "Character",
@@ -3834,7 +3834,7 @@
     "uid": "003036"
   },
   {
-    "id": "3rd_37",
+    "id": "3rd_037",
     "name": "にらちゃん",
     "attribute": "闇",
     "type": "Character",
@@ -3852,7 +3852,7 @@
     "uid": "003037"
   },
   {
-    "id": "3rd_38",
+    "id": "3rd_038",
     "name": "にらちゃん",
     "attribute": "炎",
     "type": "Character",
@@ -3870,7 +3870,7 @@
     "uid": "003038"
   },
   {
-    "id": "3rd_39",
+    "id": "3rd_039",
     "name": "にらちゃん",
     "attribute": "炎",
     "type": "Character",
@@ -3888,7 +3888,7 @@
     "uid": "003039"
   },
   {
-    "id": "3rd_40",
+    "id": "3rd_040",
     "name": "らにちゃん",
     "attribute": "炎",
     "type": "Character",
@@ -3906,7 +3906,7 @@
     "uid": "003040"
   },
   {
-    "id": "3rd_41",
+    "id": "3rd_041",
     "name": "にらちゃん・キラちゃん",
     "attribute": "炎",
     "type": "Character",
@@ -3924,7 +3924,7 @@
     "uid": "003041"
   },
   {
-    "id": "3rd_42",
+    "id": "3rd_042",
     "name": "にらちゃん",
     "attribute": "炎",
     "type": "Character",
@@ -3942,7 +3942,7 @@
     "uid": "003042"
   },
   {
-    "id": "3rd_43",
+    "id": "3rd_043",
     "name": "ZUTOMAYO KIDS",
     "attribute": "電気",
     "type": "Character",
@@ -3960,7 +3960,7 @@
     "uid": "003043"
   },
   {
-    "id": "3rd_44",
+    "id": "3rd_044",
     "name": "にらバンド",
     "attribute": "電気",
     "type": "Character",
@@ -3978,13 +3978,13 @@
     "uid": "003044"
   },
   {
-    "id": "3rd_45",
+    "id": "3rd_045",
     "name": "カード 3rd_45",
     "attribute": "電気",
     "type": "Character",
     "rarity": "R",
     "songTitle": "",
-    "sendToPower": 1,
+    "sendToPower": 0,
     "powerCost": 1,
     "night": 40,
     "day": 50,
@@ -3996,7 +3996,7 @@
     "uid": "003045"
   },
   {
-    "id": "3rd_46",
+    "id": "3rd_046",
     "name": "小さな応援隊",
     "attribute": "電気",
     "type": "Character",
@@ -4014,13 +4014,13 @@
     "uid": "003046"
   },
   {
-    "id": "3rd_47",
+    "id": "3rd_047",
     "name": "にらちゃん",
     "attribute": "電気",
     "type": "Character",
     "rarity": "R",
     "songTitle": "ヒューマノイド",
-    "sendToPower": 4,
+    "sendToPower": 0,
     "powerCost": 2,
     "night": 50,
     "day": 50,
@@ -4032,7 +4032,7 @@
     "uid": "003047"
   },
   {
-    "id": "3rd_48",
+    "id": "3rd_048",
     "name": "調合うにぐり",
     "attribute": "風",
     "type": "Character",
@@ -4050,7 +4050,7 @@
     "uid": "003048"
   },
   {
-    "id": "3rd_49",
+    "id": "3rd_049",
     "name": "しょがスト",
     "attribute": "闇",
     "type": "Character",
@@ -4068,7 +4068,7 @@
     "uid": "003049"
   },
   {
-    "id": "3rd_50",
+    "id": "3rd_050",
     "name": "にらちゃん・らにちゃん",
     "attribute": "電気",
     "type": "Character",
@@ -4086,7 +4086,7 @@
     "uid": "003050"
   },
   {
-    "id": "3rd_51",
+    "id": "3rd_051",
     "name": "にらちゃん・キラちゃん",
     "attribute": "風",
     "type": "Character",
@@ -4104,7 +4104,7 @@
     "uid": "003051"
   },
   {
-    "id": "3rd_52",
+    "id": "3rd_052",
     "name": "にらちゃん",
     "attribute": "風",
     "type": "Character",
@@ -4122,7 +4122,7 @@
     "uid": "003052"
   },
   {
-    "id": "3rd_53",
+    "id": "3rd_053",
     "name": "残機剣",
     "attribute": "闇",
     "type": "Enchant",
@@ -4140,14 +4140,14 @@
     "uid": "003053"
   },
   {
-    "id": "3rd_54",
+    "id": "3rd_054",
     "name": "呟く７個目の方で",
     "attribute": "闇",
     "type": "Enchant",
     "rarity": "R",
     "songTitle": "",
     "sendToPower": 1,
-    "powerCost": 4,
+    "powerCost": 6,
     "night": 0,
     "day": 0,
     "timeCount": 2,
@@ -4158,7 +4158,7 @@
     "uid": "003054"
   },
   {
-    "id": "3rd_55",
+    "id": "3rd_055",
     "name": "適当ラリー もう終わり",
     "attribute": "闇",
     "type": "Area Enchant",
@@ -4176,7 +4176,7 @@
     "uid": "003055"
   },
   {
-    "id": "3rd_56",
+    "id": "3rd_056",
     "name": "お弁当しといてよ",
     "attribute": "炎",
     "type": "Enchant",
@@ -4194,7 +4194,7 @@
     "uid": "003056"
   },
   {
-    "id": "3rd_57",
+    "id": "3rd_057",
     "name": "激辛ニララーメン",
     "attribute": "炎",
     "type": "Enchant",
@@ -4212,7 +4212,7 @@
     "uid": "003057"
   },
   {
-    "id": "3rd_58",
+    "id": "3rd_058",
     "name": "二刀流",
     "attribute": "炎",
     "type": "Area Enchant",
@@ -4230,7 +4230,7 @@
     "uid": "003058"
   },
   {
-    "id": "3rd_59",
+    "id": "3rd_059",
     "name": "ごっこ遊び",
     "attribute": "電気",
     "type": "Enchant",
@@ -4248,14 +4248,14 @@
     "uid": "003059"
   },
   {
-    "id": "3rd_60",
+    "id": "3rd_060",
     "name": "カード 3rd_60",
     "attribute": "電気",
     "type": "Enchant",
     "rarity": "R",
     "songTitle": "",
     "sendToPower": 0,
-    "powerCost": 3,
+    "powerCost": 4,
     "night": 0,
     "day": 0,
     "timeCount": 3,
@@ -4266,7 +4266,7 @@
     "uid": "003060"
   },
   {
-    "id": "3rd_61",
+    "id": "3rd_061",
     "name": "GAME CENTER TECHNO POOR",
     "attribute": "電気",
     "type": "Area Enchant",
@@ -4284,7 +4284,7 @@
     "uid": "003061"
   },
   {
-    "id": "3rd_62",
+    "id": "3rd_062",
     "name": "最高の昆布だし",
     "attribute": "風",
     "type": "Enchant",
@@ -4302,7 +4302,7 @@
     "uid": "003062"
   },
   {
-    "id": "3rd_63",
+    "id": "3rd_063",
     "name": "うにぐりスマッシュ",
     "attribute": "風",
     "type": "Enchant",
@@ -4320,7 +4320,7 @@
     "uid": "003063"
   },
   {
-    "id": "3rd_64",
+    "id": "3rd_064",
     "name": "おそろいのケータイ",
     "attribute": "風",
     "type": "Area Enchant",
@@ -4338,7 +4338,7 @@
     "uid": "003064"
   },
   {
-    "id": "3rd_65",
+    "id": "3rd_065",
     "name": "ハカセ",
     "attribute": "闇",
     "type": "Character",
@@ -4356,7 +4356,7 @@
     "uid": "003065"
   },
   {
-    "id": "3rd_66",
+    "id": "3rd_066",
     "name": "にらちゃん",
     "attribute": "闇",
     "type": "Character",
@@ -4374,7 +4374,7 @@
     "uid": "003066"
   },
   {
-    "id": "3rd_67",
+    "id": "3rd_067",
     "name": "さしみ",
     "attribute": "闇",
     "type": "Character",
@@ -4392,7 +4392,7 @@
     "uid": "003067"
   },
   {
-    "id": "3rd_68",
+    "id": "3rd_068",
     "name": "にらちゃん",
     "attribute": "闇",
     "type": "Character",
@@ -4410,7 +4410,7 @@
     "uid": "003068"
   },
   {
-    "id": "3rd_69",
+    "id": "3rd_069",
     "name": "うにぐりくん",
     "attribute": "炎",
     "type": "Character",
@@ -4428,7 +4428,7 @@
     "uid": "003069"
   },
   {
-    "id": "3rd_70",
+    "id": "3rd_070",
     "name": "インク猫",
     "attribute": "炎",
     "type": "Character",
@@ -4446,7 +4446,7 @@
     "uid": "003070"
   },
   {
-    "id": "3rd_71",
+    "id": "3rd_071",
     "name": "にらちゃん",
     "attribute": "炎",
     "type": "Character",
@@ -4464,7 +4464,7 @@
     "uid": "003071"
   },
   {
-    "id": "3rd_72",
+    "id": "3rd_072",
     "name": "にらちゃん",
     "attribute": "炎",
     "type": "Character",
@@ -4482,7 +4482,7 @@
     "uid": "003072"
   },
   {
-    "id": "3rd_73",
+    "id": "3rd_073",
     "name": "しょがスト",
     "attribute": "電気",
     "type": "Character",
@@ -4500,7 +4500,7 @@
     "uid": "003073"
   },
   {
-    "id": "3rd_74",
+    "id": "3rd_074",
     "name": "うにぐりくんと室外機",
     "attribute": "電気",
     "type": "Character",
@@ -4518,7 +4518,7 @@
     "uid": "003074"
   },
   {
-    "id": "3rd_75",
+    "id": "3rd_075",
     "name": "MAYO NA KA",
     "attribute": "電気",
     "type": "Character",
@@ -4536,7 +4536,7 @@
     "uid": "003075"
   },
   {
-    "id": "3rd_76",
+    "id": "3rd_076",
     "name": "にらちゃん",
     "attribute": "電気",
     "type": "Character",
@@ -4554,7 +4554,7 @@
     "uid": "003076"
   },
   {
-    "id": "3rd_77",
+    "id": "3rd_077",
     "name": "にらちゃん",
     "attribute": "闇",
     "type": "Character",
@@ -4572,7 +4572,7 @@
     "uid": "003077"
   },
   {
-    "id": "3rd_78",
+    "id": "3rd_078",
     "name": "らにちゃん",
     "attribute": "風",
     "type": "Character",
@@ -4590,13 +4590,13 @@
     "uid": "003078"
   },
   {
-    "id": "3rd_79",
+    "id": "3rd_079",
     "name": "にらちゃん",
     "attribute": "闇",
     "type": "Character",
     "rarity": "N",
     "songTitle": "Ham",
-    "sendToPower": 0,
+    "sendToPower": 1,
     "powerCost": 0,
     "night": 40,
     "day": 20,
@@ -4608,7 +4608,7 @@
     "uid": "003079"
   },
   {
-    "id": "3rd_80",
+    "id": "3rd_080",
     "name": "みみかゆし",
     "attribute": "風",
     "type": "Character",
@@ -4626,7 +4626,7 @@
     "uid": "003080"
   },
   {
-    "id": "3rd_81",
+    "id": "3rd_081",
     "name": "カード 3rd_81",
     "attribute": "闇",
     "type": "Enchant",
@@ -4644,7 +4644,7 @@
     "uid": "003081"
   },
   {
-    "id": "3rd_82",
+    "id": "3rd_082",
     "name": "おんみつ 隠密",
     "attribute": "闇",
     "type": "Enchant",
@@ -4662,7 +4662,7 @@
     "uid": "003082"
   },
   {
-    "id": "3rd_83",
+    "id": "3rd_083",
     "name": "巡り合っていたんだ",
     "attribute": "闇",
     "type": "Enchant",
@@ -4680,14 +4680,14 @@
     "uid": "003083"
   },
   {
-    "id": "3rd_84",
+    "id": "3rd_084",
     "name": "平凡な生活",
     "attribute": "闇",
     "type": "Enchant",
     "rarity": "N",
     "songTitle": "",
-    "sendToPower": 4,
-    "powerCost": 3,
+    "sendToPower": 0,
+    "powerCost": 5,
     "night": 0,
     "day": 0,
     "timeCount": 1,
@@ -4698,7 +4698,7 @@
     "uid": "003084"
   },
   {
-    "id": "3rd_85",
+    "id": "3rd_085",
     "name": "断ち切る",
     "attribute": "闇",
     "type": "Area Enchant",
@@ -4716,7 +4716,7 @@
     "uid": "003085"
   },
   {
-    "id": "3rd_86",
+    "id": "3rd_086",
     "name": "“さよなら” は言わないで",
     "attribute": "闇",
     "type": "Area Enchant",
@@ -4734,7 +4734,7 @@
     "uid": "003086"
   },
   {
-    "id": "3rd_87",
+    "id": "3rd_087",
     "name": "晩餐会の食事",
     "attribute": "炎",
     "type": "Enchant",
@@ -4752,7 +4752,7 @@
     "uid": "003087"
   },
   {
-    "id": "3rd_88",
+    "id": "3rd_088",
     "name": "香炉",
     "attribute": "炎",
     "type": "Enchant",
@@ -4770,14 +4770,14 @@
     "uid": "003088"
   },
   {
-    "id": "3rd_89",
+    "id": "3rd_089",
     "name": "細胞分裂",
     "attribute": "炎",
     "type": "Enchant",
     "rarity": "N",
     "songTitle": "",
     "sendToPower": 1,
-    "powerCost": 3,
+    "powerCost": 4,
     "night": 0,
     "day": 0,
     "timeCount": 4,
@@ -4788,14 +4788,14 @@
     "uid": "003089"
   },
   {
-    "id": "3rd_90",
+    "id": "3rd_090",
     "name": "戻れない僕",
     "attribute": "炎",
     "type": "Enchant",
     "rarity": "N",
     "songTitle": "",
-    "sendToPower": 0,
-    "powerCost": 0,
+    "sendToPower": 1,
+    "powerCost": 1,
     "night": 0,
     "day": 0,
     "timeCount": 1,
@@ -4806,7 +4806,7 @@
     "uid": "003090"
   },
   {
-    "id": "3rd_91",
+    "id": "3rd_091",
     "name": "被験者",
     "attribute": "炎",
     "type": "Area Enchant",
@@ -4824,7 +4824,7 @@
     "uid": "003091"
   },
   {
-    "id": "3rd_92",
+    "id": "3rd_092",
     "name": "野営",
     "attribute": "炎",
     "type": "Area Enchant",
@@ -4842,7 +4842,7 @@
     "uid": "003092"
   },
   {
-    "id": "3rd_93",
+    "id": "3rd_093",
     "name": "スイッチ",
     "attribute": "電気",
     "type": "Enchant",
@@ -4860,7 +4860,7 @@
     "uid": "003093"
   },
   {
-    "id": "3rd_94",
+    "id": "3rd_094",
     "name": "撃つ",
     "attribute": "電気",
     "type": "Enchant",
@@ -4878,14 +4878,14 @@
     "uid": "003094"
   },
   {
-    "id": "3rd_95",
+    "id": "3rd_095",
     "name": "掃除中",
     "attribute": "電気",
     "type": "Enchant",
     "rarity": "N",
     "songTitle": "",
     "sendToPower": 1,
-    "powerCost": 3,
+    "powerCost": 4,
     "night": 0,
     "day": 0,
     "timeCount": 4,
@@ -4896,7 +4896,7 @@
     "uid": "003095"
   },
   {
-    "id": "3rd_96",
+    "id": "3rd_096",
     "name": "カード 3rd_96",
     "attribute": "電気",
     "type": "Enchant",
@@ -4914,7 +4914,7 @@
     "uid": "003096"
   },
   {
-    "id": "3rd_97",
+    "id": "3rd_097",
     "name": "厳戒態勢",
     "attribute": "電気",
     "type": "Area Enchant",
@@ -4932,14 +4932,14 @@
     "uid": "003097"
   },
   {
-    "id": "3rd_98",
+    "id": "3rd_098",
     "name": "栄養補給",
     "attribute": "電気",
     "type": "Area Enchant",
     "rarity": "N",
     "songTitle": "",
     "sendToPower": 0,
-    "powerCost": 4,
+    "powerCost": 3,
     "night": 0,
     "day": 0,
     "timeCount": 1,
@@ -4950,7 +4950,7 @@
     "uid": "003098"
   },
   {
-    "id": "3rd_99",
+    "id": "3rd_099",
     "name": "仕舞い",
     "attribute": "風",
     "type": "Enchant",
@@ -5064,8 +5064,8 @@
     "type": "Character",
     "rarity": "SE",
     "songTitle": "低血ボルト",
-    "sendToPower": 2,
-    "powerCost": 4,
+    "sendToPower": 0,
+    "powerCost": 7,
     "night": 110,
     "day": 110,
     "timeCount": 4,
@@ -5082,8 +5082,8 @@
     "type": "Character",
     "rarity": "SE",
     "songTitle": "猫リセット",
-    "sendToPower": 4,
-    "powerCost": 3,
+    "sendToPower": 0,
+    "powerCost": 7,
     "night": 120,
     "day": 120,
     "timeCount": 5,
@@ -5100,8 +5100,8 @@
     "type": "Character",
     "rarity": "UR",
     "songTitle": "TAIDADA",
-    "sendToPower": 4,
-    "powerCost": 4,
+    "sendToPower": 0,
+    "powerCost": 6,
     "night": 110,
     "day": 90,
     "timeCount": 4,
@@ -5118,8 +5118,8 @@
     "type": "Character",
     "rarity": "UR",
     "songTitle": "シェードの埃は延長",
-    "sendToPower": 4,
-    "powerCost": 3,
+    "sendToPower": 0,
+    "powerCost": 8,
     "night": 120,
     "day": 140,
     "timeCount": 3,
@@ -5137,7 +5137,7 @@
     "rarity": "UR",
     "songTitle": "シェードの塊は延長",
     "sendToPower": 2,
-    "powerCost": 3,
+    "powerCost": 6,
     "night": 90,
     "day": 90,
     "timeCount": 2,
@@ -5155,7 +5155,7 @@
     "rarity": "UR",
     "songTitle": "綺羅キラー",
     "sendToPower": 1,
-    "powerCost": 4,
+    "powerCost": 7,
     "night": 100,
     "day": 140,
     "timeCount": 5,
@@ -5172,8 +5172,8 @@
     "type": "Character",
     "rarity": "UR",
     "songTitle": "眩しい DNA だけ",
-    "sendToPower": 4,
-    "powerCost": 3,
+    "sendToPower": 0,
+    "powerCost": 5,
     "night": 100,
     "day": 60,
     "timeCount": 4,
@@ -5208,8 +5208,8 @@
     "type": "Enchant",
     "rarity": "UR",
     "songTitle": "",
-    "sendToPower": 4,
-    "powerCost": 0,
+    "sendToPower": 0,
+    "powerCost": 4,
     "night": 0,
     "day": 0,
     "timeCount": 1,
@@ -5227,7 +5227,7 @@
     "rarity": "UR",
     "songTitle": "",
     "sendToPower": 1,
-    "powerCost": 3,
+    "powerCost": 5,
     "night": 0,
     "day": 0,
     "timeCount": 2,
@@ -5263,7 +5263,7 @@
     "rarity": "SR",
     "songTitle": "TAIDADA",
     "sendToPower": 1,
-    "powerCost": 3,
+    "powerCost": 5,
     "night": 80,
     "day": 60,
     "timeCount": 0,
@@ -5280,8 +5280,8 @@
     "type": "Character",
     "rarity": "SR",
     "songTitle": "クリームで会いに行けますか",
-    "sendToPower": 4,
-    "powerCost": 3,
+    "sendToPower": 1,
+    "powerCost": 5,
     "night": 80,
     "day": 60,
     "timeCount": 6,
@@ -5298,8 +5298,8 @@
     "type": "Character",
     "rarity": "SR",
     "songTitle": "",
-    "sendToPower": 5,
-    "powerCost": 4,
+    "sendToPower": 0,
+    "powerCost": 6,
     "night": 130,
     "day": 90,
     "timeCount": 5,
@@ -5317,7 +5317,7 @@
     "rarity": "SR",
     "songTitle": "",
     "sendToPower": 0,
-    "powerCost": 4,
+    "powerCost": 7,
     "night": 120,
     "day": 80,
     "timeCount": 4,
@@ -5334,8 +5334,8 @@
     "type": "Character",
     "rarity": "SR",
     "songTitle": "こんなこと騒動",
-    "sendToPower": 3,
-    "powerCost": 3,
+    "sendToPower": 0,
+    "powerCost": 5,
     "night": 110,
     "day": 70,
     "timeCount": 1,
@@ -5352,8 +5352,8 @@
     "type": "Character",
     "rarity": "SR",
     "songTitle": "嘘じゃない",
-    "sendToPower": 5,
-    "powerCost": 4,
+    "sendToPower": 0,
+    "powerCost": 7,
     "night": 120,
     "day": 140,
     "timeCount": 3,
@@ -5370,8 +5370,8 @@
     "type": "Character",
     "rarity": "SR",
     "songTitle": "クズリ念",
-    "sendToPower": 2,
-    "powerCost": 4,
+    "sendToPower": 1,
+    "powerCost": 7,
     "night": 70,
     "day": 120,
     "timeCount": 4,
@@ -5388,8 +5388,8 @@
     "type": "Character",
     "rarity": "SR",
     "songTitle": "",
-    "sendToPower": 4,
-    "powerCost": 3,
+    "sendToPower": 0,
+    "powerCost": 8,
     "night": 140,
     "day": 140,
     "timeCount": 5,
@@ -5407,7 +5407,7 @@
     "rarity": "SR",
     "songTitle": "勘ぐれい",
     "sendToPower": 1,
-    "powerCost": 3,
+    "powerCost": 4,
     "night": 50,
     "day": 90,
     "timeCount": 3,
@@ -5424,8 +5424,8 @@
     "type": "Character",
     "rarity": "SR",
     "songTitle": "海馬成長痛",
-    "sendToPower": 3,
-    "powerCost": 3,
+    "sendToPower": 0,
+    "powerCost": 4,
     "night": 60,
     "day": 80,
     "timeCount": 2,
@@ -5442,8 +5442,8 @@
     "type": "Character",
     "rarity": "SR",
     "songTitle": "猫リセット",
-    "sendToPower": 4,
-    "powerCost": 3,
+    "sendToPower": 0,
+    "powerCost": 5,
     "night": 60,
     "day": 120,
     "timeCount": 4,
@@ -5460,8 +5460,8 @@
     "type": "Character",
     "rarity": "SR",
     "songTitle": "袖のキルト",
-    "sendToPower": 4,
-    "powerCost": 4,
+    "sendToPower": 0,
+    "powerCost": 6,
     "night": 90,
     "day": 130,
     "timeCount": 6,
@@ -5479,7 +5479,7 @@
     "rarity": "SR",
     "songTitle": "お勉強しといてよ",
     "sendToPower": 0,
-    "powerCost": 3,
+    "powerCost": 4,
     "night": 30,
     "day": 30,
     "timeCount": 1,
@@ -5496,8 +5496,8 @@
     "type": "Character",
     "rarity": "SR",
     "songTitle": "お勉強しといてよ",
-    "sendToPower": 4,
-    "powerCost": 4,
+    "sendToPower": 0,
+    "powerCost": 6,
     "night": 30,
     "day": 30,
     "timeCount": 2,
@@ -5514,8 +5514,8 @@
     "type": "Character",
     "rarity": "SR",
     "songTitle": "夏枯れ",
-    "sendToPower": 4,
-    "powerCost": 4,
+    "sendToPower": 1,
+    "powerCost": 6,
     "night": 110,
     "day": 90,
     "timeCount": 5,
@@ -5532,8 +5532,8 @@
     "type": "Character",
     "rarity": "SR",
     "songTitle": "",
-    "sendToPower": 3,
-    "powerCost": 3,
+    "sendToPower": 0,
+    "powerCost": 7,
     "night": 110,
     "day": 150,
     "timeCount": 5,
@@ -5550,7 +5550,7 @@
     "type": "Character",
     "rarity": "SR",
     "songTitle": "胸の煙",
-    "sendToPower": 3,
+    "sendToPower": 0,
     "powerCost": 0,
     "night": 50,
     "day": 50,
@@ -5586,8 +5586,8 @@
     "type": "Enchant",
     "rarity": "SR",
     "songTitle": "",
-    "sendToPower": 4,
-    "powerCost": 4,
+    "sendToPower": 0,
+    "powerCost": 6,
     "night": 0,
     "day": 0,
     "timeCount": 0,
@@ -5604,7 +5604,7 @@
     "type": "Area Enchant",
     "rarity": "SR",
     "songTitle": "",
-    "sendToPower": 2,
+    "sendToPower": 1,
     "powerCost": 4,
     "night": 0,
     "day": 0,
@@ -5622,8 +5622,8 @@
     "type": "Enchant",
     "rarity": "SR",
     "songTitle": "",
-    "sendToPower": 3,
-    "powerCost": 4,
+    "sendToPower": 1,
+    "powerCost": 6,
     "night": 0,
     "day": 0,
     "timeCount": 1,
@@ -5640,8 +5640,8 @@
     "type": "Area Enchant",
     "rarity": "SR",
     "songTitle": "",
-    "sendToPower": 3,
-    "powerCost": 0,
+    "sendToPower": 0,
+    "powerCost": 4,
     "night": 0,
     "day": 0,
     "timeCount": 2,
@@ -5676,7 +5676,7 @@
     "type": "Character",
     "rarity": "R",
     "songTitle": "",
-    "sendToPower": 3,
+    "sendToPower": 1,
     "powerCost": 0,
     "night": 20,
     "day": 10,
@@ -5713,7 +5713,7 @@
     "rarity": "R",
     "songTitle": "クリームで会いにいけますか",
     "sendToPower": 0,
-    "powerCost": 0,
+    "powerCost": 1,
     "night": 60,
     "day": 40,
     "timeCount": 0,
@@ -5892,7 +5892,7 @@
     "type": "Character",
     "rarity": "R",
     "songTitle": "",
-    "sendToPower": 0,
+    "sendToPower": 1,
     "powerCost": 3,
     "night": 30,
     "day": 90,
@@ -5928,8 +5928,8 @@
     "type": "Character",
     "rarity": "R",
     "songTitle": "Blues in the Closet",
-    "sendToPower": 0,
-    "powerCost": 4,
+    "sendToPower": 1,
+    "powerCost": 5,
     "night": 70,
     "day": 90,
     "timeCount": 0,
@@ -5964,7 +5964,7 @@
     "type": "Character",
     "rarity": "R",
     "songTitle": "ハゼ馳せる果てるまで",
-    "sendToPower": 0,
+    "sendToPower": 1,
     "powerCost": 2,
     "night": 20,
     "day": 80,
@@ -6000,7 +6000,7 @@
     "type": "Character",
     "rarity": "R",
     "songTitle": "",
-    "sendToPower": 0,
+    "sendToPower": 1,
     "powerCost": 3,
     "night": 70,
     "day": 50,
@@ -6073,7 +6073,7 @@
     "rarity": "R",
     "songTitle": "",
     "sendToPower": 1,
-    "powerCost": 3,
+    "powerCost": 4,
     "night": 0,
     "day": 0,
     "timeCount": 2,
@@ -6144,7 +6144,7 @@
     "type": "Enchant",
     "rarity": "R",
     "songTitle": "",
-    "sendToPower": 2,
+    "sendToPower": 0,
     "powerCost": 0,
     "night": 0,
     "day": 0,
@@ -6198,7 +6198,7 @@
     "type": "Enchant",
     "rarity": "R",
     "songTitle": "",
-    "sendToPower": 0,
+    "sendToPower": 1,
     "powerCost": 1,
     "night": 0,
     "day": 0,
@@ -6217,7 +6217,7 @@
     "rarity": "R",
     "songTitle": "",
     "sendToPower": 0,
-    "powerCost": 3,
+    "powerCost": 4,
     "night": 0,
     "day": 0,
     "timeCount": 1,
@@ -6252,7 +6252,7 @@
     "type": "Character",
     "rarity": "N",
     "songTitle": "海馬成長痛",
-    "sendToPower": 3,
+    "sendToPower": 0,
     "powerCost": 0,
     "night": 40,
     "day": 20,
@@ -6468,7 +6468,7 @@
     "type": "Character",
     "rarity": "N",
     "songTitle": "微熱魔",
-    "sendToPower": 1,
+    "sendToPower": 0,
     "powerCost": 1,
     "night": 40,
     "day": 60,
@@ -6846,7 +6846,7 @@
     "type": "Enchant",
     "rarity": "N",
     "songTitle": "",
-    "sendToPower": 2,
+    "sendToPower": 1,
     "powerCost": 4,
     "night": 0,
     "day": 0,
@@ -6865,7 +6865,7 @@
     "rarity": "N",
     "songTitle": "",
     "sendToPower": 0,
-    "powerCost": 4,
+    "powerCost": 5,
     "night": 0,
     "day": 0,
     "timeCount": 3,
@@ -6948,7 +6948,7 @@
     "uid": "004104"
   },
   {
-    "id": "2nd_10",
+    "id": "2nd_010",
     "uid": "002010",
     "seasonNo": 2,
     "cardNo": 10,
@@ -6957,8 +6957,8 @@
     "type": "Character",
     "rarity": "SR",
     "songTitle": "残機",
-    "sendToPower": 2,
-    "powerCost": 3,
+    "sendToPower": 1,
+    "powerCost": 1,
     "night": 40,
     "day": 20,
     "timeCount": 6,
@@ -7012,7 +7012,7 @@
     "rarity": "N",
     "songTitle": "",
     "sendToPower": 0,
-    "powerCost": 4,
+    "powerCost": 5,
     "night": 0,
     "day": 0,
     "timeCount": 4,
@@ -7065,8 +7065,8 @@
     "type": "Character",
     "rarity": "SE",
     "songTitle": "KKB",
-    "sendToPower": 4,
-    "powerCost": 3,
+    "sendToPower": 0,
+    "powerCost": 5,
     "night": 100,
     "day": 80,
     "timeCount": 0,
@@ -7083,8 +7083,8 @@
     "type": "Character",
     "rarity": "SE",
     "songTitle": "綺麗キラー",
-    "sendToPower": 3,
-    "powerCost": 3,
+    "sendToPower": 0,
+    "powerCost": 5,
     "night": 70,
     "day": 80,
     "timeCount": 2,
@@ -7092,7 +7092,7 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_106.jpg"
   },
   {
-    "id": "2nd_11",
+    "id": "2nd_011",
     "uid": "002011",
     "seasonNo": 2,
     "cardNo": 11,
@@ -7101,7 +7101,7 @@
     "type": "Character",
     "rarity": "SR",
     "songTitle": "勘冴えて悔しいわ",
-    "sendToPower": 2,
+    "sendToPower": 1,
     "powerCost": 2,
     "night": 50,
     "day": 20,
@@ -7110,7 +7110,7 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_11.jpg"
   },
   {
-    "id": "2nd_12",
+    "id": "2nd_012",
     "uid": "002012",
     "seasonNo": 2,
     "cardNo": 12,
@@ -7119,8 +7119,8 @@
     "type": "Character",
     "rarity": "SR",
     "songTitle": "あいつら全員同窓会",
-    "sendToPower": 2,
-    "powerCost": 0,
+    "sendToPower": 0,
+    "powerCost": 3,
     "night": 90,
     "day": 50,
     "timeCount": 1,
@@ -7128,7 +7128,7 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_12.jpg"
   },
   {
-    "id": "2nd_13",
+    "id": "2nd_013",
     "uid": "002013",
     "seasonNo": 2,
     "cardNo": 13,
@@ -7137,8 +7137,8 @@
     "type": "Character",
     "rarity": "SR",
     "songTitle": "綺羅キラー",
-    "sendToPower": 3,
-    "powerCost": 0,
+    "sendToPower": 0,
+    "powerCost": 4,
     "night": 60,
     "day": 100,
     "timeCount": 1,
@@ -7146,7 +7146,7 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_13.jpg"
   },
   {
-    "id": "2nd_14",
+    "id": "2nd_014",
     "uid": "002014",
     "seasonNo": 2,
     "cardNo": 14,
@@ -7155,8 +7155,8 @@
     "type": "Character",
     "rarity": "SR",
     "songTitle": "",
-    "sendToPower": 4,
-    "powerCost": 0,
+    "sendToPower": 0,
+    "powerCost": 6,
     "night": 90,
     "day": 100,
     "timeCount": 4,
@@ -7164,7 +7164,7 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_14.jpg"
   },
   {
-    "id": "2nd_15",
+    "id": "2nd_015",
     "uid": "002015",
     "seasonNo": 2,
     "cardNo": 15,
@@ -7174,7 +7174,7 @@
     "rarity": "SR",
     "songTitle": "",
     "sendToPower": 1,
-    "powerCost": 3,
+    "powerCost": 5,
     "night": 50,
     "day": 70,
     "timeCount": 4,
@@ -7182,7 +7182,7 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_15.jpg"
   },
   {
-    "id": "2nd_16",
+    "id": "2nd_016",
     "uid": "002016",
     "seasonNo": 2,
     "cardNo": 16,
@@ -7191,8 +7191,8 @@
     "type": "Character",
     "rarity": "SR",
     "songTitle": "お勉強しといてよ",
-    "sendToPower": 3,
-    "powerCost": 0,
+    "sendToPower": 0,
+    "powerCost": 7,
     "night": 110,
     "day": 150,
     "timeCount": 2,
@@ -7200,7 +7200,7 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_16.jpg"
   },
   {
-    "id": "2nd_17",
+    "id": "2nd_017",
     "uid": "002017",
     "seasonNo": 2,
     "cardNo": 17,
@@ -7209,8 +7209,8 @@
     "type": "CHARACTER",
     "rarity": "SR",
     "songTitle": "袖のキルト",
-    "sendToPower": 4,
-    "powerCost": 0,
+    "sendToPower": 0,
+    "powerCost": 1,
     "night": 20,
     "day": 80,
     "timeCount": 2,
@@ -7218,7 +7218,7 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_17.jpg"
   },
   {
-    "id": "2nd_18",
+    "id": "2nd_018",
     "uid": "002018",
     "seasonNo": 2,
     "cardNo": 18,
@@ -7236,7 +7236,7 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_18.jpg"
   },
   {
-    "id": "2nd_19",
+    "id": "2nd_019",
     "uid": "002019",
     "seasonNo": 2,
     "cardNo": 19,
@@ -7254,7 +7254,7 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_19.jpg"
   },
   {
-    "id": "2nd_2",
+    "id": "2nd_002",
     "uid": "002002",
     "seasonNo": 2,
     "cardNo": 2,
@@ -7263,8 +7263,8 @@
     "type": "Character",
     "rarity": "UR",
     "songTitle": "蹴っ飛ばした毛布",
-    "sendToPower": 3,
-    "powerCost": 4,
+    "sendToPower": 0,
+    "powerCost": 8,
     "night": 140,
     "day": 140,
     "timeCount": 0,
@@ -7272,7 +7272,7 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_2.jpg"
   },
   {
-    "id": "2nd_20",
+    "id": "2nd_020",
     "uid": "002020",
     "seasonNo": 2,
     "cardNo": 20,
@@ -7281,8 +7281,8 @@
     "type": "Character",
     "rarity": "SR",
     "songTitle": "猫リセット",
-    "sendToPower": 3,
-    "powerCost": 5,
+    "sendToPower": 0,
+    "powerCost": 6,
     "night": 90,
     "day": 130,
     "timeCount": 0,
@@ -7290,7 +7290,7 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_20.jpg"
   },
   {
-    "id": "2nd_21",
+    "id": "2nd_021",
     "uid": "002021",
     "seasonNo": 2,
     "cardNo": 21,
@@ -7300,7 +7300,7 @@
     "rarity": "SR",
     "songTitle": "秒針を噛む",
     "sendToPower": 1,
-    "powerCost": 3,
+    "powerCost": 0,
     "night": 30,
     "day": 20,
     "timeCount": 2,
@@ -7308,7 +7308,7 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_21.jpg"
   },
   {
-    "id": "2nd_22",
+    "id": "2nd_022",
     "uid": "002022",
     "seasonNo": 2,
     "cardNo": 22,
@@ -7317,8 +7317,8 @@
     "type": "Character",
     "rarity": "SR",
     "songTitle": "",
-    "sendToPower": 2,
-    "powerCost": 0,
+    "sendToPower": 1,
+    "powerCost": 1,
     "night": 50,
     "day": 10,
     "timeCount": 1,
@@ -7326,7 +7326,7 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_22.jpg"
   },
   {
-    "id": "2nd_23",
+    "id": "2nd_023",
     "uid": "002023",
     "seasonNo": 2,
     "cardNo": 23,
@@ -7335,7 +7335,7 @@
     "type": "Character",
     "rarity": "SR",
     "songTitle": "綺羅キラー",
-    "sendToPower": 2,
+    "sendToPower": 0,
     "powerCost": 2,
     "night": 60,
     "day": 40,
@@ -7344,7 +7344,7 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_23.jpg"
   },
   {
-    "id": "2nd_24",
+    "id": "2nd_024",
     "uid": "002024",
     "seasonNo": 2,
     "cardNo": 24,
@@ -7362,7 +7362,7 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_24.jpg"
   },
   {
-    "id": "2nd_25",
+    "id": "2nd_025",
     "uid": "002025",
     "seasonNo": 2,
     "cardNo": 25,
@@ -7371,7 +7371,7 @@
     "type": "Enchant",
     "rarity": "SR",
     "songTitle": "",
-    "sendToPower": 3,
+    "sendToPower": 0,
     "powerCost": 3,
     "night": 0,
     "day": 0,
@@ -7380,7 +7380,7 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_25.jpg"
   },
   {
-    "id": "2nd_26",
+    "id": "2nd_026",
     "uid": "002026",
     "seasonNo": 2,
     "cardNo": 26,
@@ -7390,7 +7390,7 @@
     "rarity": "SR",
     "songTitle": "",
     "sendToPower": 1,
-    "powerCost": 3,
+    "powerCost": 1,
     "night": 0,
     "day": 0,
     "timeCount": 2,
@@ -7408,7 +7408,7 @@
     "rarity": "SR",
     "songTitle": "花一匁",
     "sendToPower": 1,
-    "powerCost": 3,
+    "powerCost": 4,
     "night": 100,
     "day": 40,
     "timeCount": 1,
@@ -7416,7 +7416,7 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_012.jpg"
   },
   {
-    "id": "2nd_71",
+    "id": "2nd_071",
     "uid": "002071",
     "seasonNo": 2,
     "cardNo": 71,
@@ -7434,7 +7434,7 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_71.jpg"
   },
   {
-    "id": "2nd_72",
+    "id": "2nd_072",
     "uid": "002072",
     "seasonNo": 2,
     "cardNo": 72,
@@ -7452,7 +7452,7 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_72.jpg"
   },
   {
-    "id": "2nd_73",
+    "id": "2nd_073",
     "uid": "002073",
     "seasonNo": 2,
     "cardNo": 73,
@@ -7470,7 +7470,7 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_73.jpg"
   },
   {
-    "id": "2nd_74",
+    "id": "2nd_074",
     "uid": "002074",
     "seasonNo": 2,
     "cardNo": 74,
@@ -7488,7 +7488,7 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_74.jpg"
   },
   {
-    "id": "2nd_75",
+    "id": "2nd_075",
     "uid": "002075",
     "seasonNo": 2,
     "cardNo": 75,
@@ -7506,7 +7506,7 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_75.jpg"
   },
   {
-    "id": "2nd_76",
+    "id": "2nd_076",
     "uid": "002076",
     "seasonNo": 2,
     "cardNo": 76,
@@ -7524,7 +7524,7 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_76.jpg"
   },
   {
-    "id": "2nd_77",
+    "id": "2nd_077",
     "uid": "002077",
     "seasonNo": 2,
     "cardNo": 77,
@@ -7542,7 +7542,7 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_77.jpg"
   },
   {
-    "id": "2nd_78",
+    "id": "2nd_078",
     "uid": "002078",
     "seasonNo": 2,
     "cardNo": 78,
@@ -7560,7 +7560,7 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_78.jpg"
   },
   {
-    "id": "2nd_79",
+    "id": "2nd_079",
     "uid": "002079",
     "seasonNo": 2,
     "cardNo": 79,
@@ -7578,7 +7578,7 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_79.jpg"
   },
   {
-    "id": "2nd_80",
+    "id": "2nd_080",
     "uid": "002080",
     "seasonNo": 2,
     "cardNo": 80,

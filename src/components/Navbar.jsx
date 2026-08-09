@@ -1,6 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import { Library, LayoutGrid } from 'lucide-react';
+import { Library, LayoutGrid, Bookmark } from 'lucide-react';
 
 export function Navbar() {
   return (
@@ -34,6 +34,17 @@ export function Navbar() {
             >
               <Library size={18} />
               <span className="hidden sm:inline">My Decks</span>
+            </NavLink>
+            <NavLink 
+              to="/collection" 
+              className={({ isActive }) => 
+                `flex items-center gap-2 px-3 py-2 rounded-md text-sm font-medium transition-colors ${
+                  isActive ? 'bg-zutomayo-accent/20 text-white' : 'text-zutomayo-light hover:bg-white/10 hover:text-white'
+                }`
+              }
+            >
+              <Bookmark size={18} />
+              <span className="hidden sm:inline">Collections</span>
             </NavLink>
           </div>
         </div>

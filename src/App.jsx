@@ -4,6 +4,7 @@ import { Navbar } from './components/Navbar';
 import { Home } from './pages/Home';
 import { DeckList } from './pages/DeckList';
 import { DeckBuilder } from './pages/DeckBuilder';
+import { Collection } from './pages/Collection';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/decks" element={<DeckList />} />
             <Route path="/deck/builder" element={<DeckBuilder />} />
+            <Route path="/collection" element={<Collection />} />
           </Routes>
         </main>
       </div>

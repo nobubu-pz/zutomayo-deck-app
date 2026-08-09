@@ -1,5 +1,5 @@
 {
-  "name": "temp-app",
+  "name": "ztmy-deck",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,6 +13,7 @@
     "@google/generative-ai": "^0.24.1",
     "clsx": "^2.1.1",
     "dotenv": "^17.4.2",
+    "html2canvas": "^1.4.1",
     "lucide-react": "^1.21.0",
     "react": "^19.2.6",
     "react-dom": "^19.2.6",

@@ -59,7 +59,7 @@ export function FilterPanel({
   };
 
   return (
-    <div className="bg-black/60 backdrop-blur-xl border-y border-white/10 p-4 lg:p-6 shadow-lg animate-in slide-in-from-top-2 duration-300 relative z-20">
+    <div className="bg-black/60 backdrop-blur-xl border-y border-white/10 p-4 lg:p-6 shadow-lg animate-in slide-in-from-top-2 duration-300 relative z-20 max-h-[60vh] overflow-y-auto overscroll-contain">
       <div className="max-w-6xl mx-auto">
         <div className="flex justify-between items-center mb-6">
           <div className="flex items-center gap-2 text-white">
