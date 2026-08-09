@@ -112,7 +112,7 @@ export function Profile() {
               </h2>
               <button 
                 onClick={() => setIsEditing(true)}
-                className="p-1.5 text-zutomayo-light opacity-0 group-hover:opacity-100 transition-opacity hover:text-white"
+                className="p-1.5 text-zutomayo-light hover:text-white transition-colors"
                 title="Edit Name"
               >
                 <Edit2 size={16} />
