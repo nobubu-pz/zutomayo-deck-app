@@ -35,7 +35,7 @@ export function FriendCollection() {
   const [selectedCard, setSelectedCard] = useState(null);
   const [isFilterOpen, setIsFilterOpen] = useState(false);
   const [isSearchOpen, setIsSearchOpen] = useState(false);
-  const [showOwnedOnly, setShowOwnedOnly] = useState(false);
+  const [showOwnedOnly, setShowOwnedOnly] = useState(true);
 
   useEffect(() => {
     if (!user) {
