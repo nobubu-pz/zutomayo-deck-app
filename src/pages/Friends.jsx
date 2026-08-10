@@ -5,7 +5,7 @@ import { useNavigate } from 'react-router-dom';
 import { UserPlus, Search, UserCheck, X, Check, ArrowRight } from 'lucide-react';
 
 export function Friends() {
-  const { user } = useAuth();
+  const { user, updateLastViewedFriends } = useAuth();
   const navigate = useNavigate();
   
   const [friendCode, setFriendCode] = useState('');
@@ -22,6 +22,9 @@ export function Friends() {
 
   useEffect(() => {
     fetchFriendsAndRequests();
+    if (updateLastViewedFriends) {
+      updateLastViewedFriends();
+    }
   }, [user]);
 
   const fetchFriendsAndRequests = async () => {

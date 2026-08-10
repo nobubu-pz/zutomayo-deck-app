@@ -8,6 +8,8 @@ create table public.profiles (
   id uuid references auth.users on delete cascade not null primary key,
   display_name text,
   friend_code text unique,
+  is_public boolean default true not null,
+  last_viewed_friends_at timestamp with time zone default timezone('utc'::text, now()) not null,
   created_at timestamp with time zone default timezone('utc'::text, now()) not null
 );
 
@@ -57,13 +59,17 @@ create policy "Users can update own profile." on public.profiles
 create policy "Users can view own cards" on public.user_cards
   for select using (auth.uid() = user_id);
 
--- Users can view their friends' cards
+-- Users can view their friends' cards ONLY IF the friend has is_public = true
 create policy "Users can view friends cards" on public.user_cards
   for select using (
     exists (
       select 1 from public.friendships f
       where (f.sender_id = auth.uid() and f.receiver_id = user_cards.user_id and f.status = 'accepted')
          or (f.receiver_id = auth.uid() and f.sender_id = user_cards.user_id and f.status = 'accepted')
+    )
+    and exists (
+      select 1 from public.profiles p
+      where p.id = user_cards.user_id and p.is_public = true
     )
   );
 

@@ -4,7 +4,7 @@ import { Library, LayoutGrid, Bookmark, User } from 'lucide-react';
 import { useAuth } from '../contexts/AuthContext';
 
 export function Navbar() {
-  const { user } = useAuth();
+  const { user, hasUnreadNotifications } = useAuth();
 
   return (
     <nav className="glass-panel border-x-0 border-t-0 rounded-none sticky top-0 z-40">
@@ -52,12 +52,20 @@ export function Navbar() {
             <NavLink 
               to={user ? "/profile" : "/login"} 
               className={({ isActive }) => 
-                `flex items-center gap-2 px-3 py-2 rounded-md text-sm font-medium transition-colors ${
+                `relative flex items-center gap-2 px-3 py-2 rounded-md text-sm font-medium transition-colors ${
                   isActive ? 'bg-zutomayo-accent/20 text-white' : 'text-zutomayo-light hover:bg-white/10 hover:text-white'
                 }`
               }
             >
-              <User size={18} />
+              <div className="relative">
+                <User size={18} />
+                {hasUnreadNotifications && (
+                  <span className="absolute -top-1 -right-1 flex h-2.5 w-2.5">
+                    <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75"></span>
+                    <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-red-500 border border-black"></span>
+                  </span>
+                )}
+              </div>
               <span className="hidden sm:inline">{user ? "Profile" : "Login"}</span>
             </NavLink>
           </div>

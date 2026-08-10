@@ -51,12 +51,17 @@ export function FriendCollection() {
       // Fetch friend profile
       const { data: profile, error: profileError } = await supabase
         .from('profiles')
-        .select('display_name')
+        .select('display_name, is_public')
         .eq('id', friendId)
         .single();
         
       if (profileError) throw profileError;
       setFriendProfile(profile);
+
+      if (profile.is_public === false) {
+        setLoading(false);
+        return;
+      }
 
       // Fetch friend cards (RLS policies will enforce friendship check)
       const { data: cardsData, error: cardsError } = await supabase
@@ -101,6 +106,33 @@ export function FriendCollection() {
 
   if (loading) {
     return <div className="p-8 text-center text-white">Loading collection...</div>;
+  }
+
+  if (friendProfile && friendProfile.is_public === false) {
+    return (
+      <div className="flex flex-col h-[calc(100vh-4rem)]">
+        <div className="p-4 border-b border-white/10 flex items-center gap-4 bg-black/40">
+          <button 
+            onClick={() => navigate('/friends')}
+            className="p-2 bg-white/10 hover:bg-white/20 text-white rounded-full transition-colors"
+          >
+            <ArrowLeft size={20} />
+          </button>
+          <h1 className="text-xl font-bold text-white">
+            <span className="text-zutomayo-accent">{friendProfile.display_name}'s</span> Collection
+          </h1>
+        </div>
+        <div className="flex-1 flex flex-col items-center justify-center p-8 text-center">
+          <div className="w-16 h-16 bg-white/5 rounded-full flex items-center justify-center mb-4">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-white/40"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg>
+          </div>
+          <h2 className="text-xl font-bold text-white mb-2">Private Collection</h2>
+          <p className="text-zutomayo-light">
+            This user has chosen to keep their collection private.
+          </p>
+        </div>
+      </div>
+    );
   }
 
   return (

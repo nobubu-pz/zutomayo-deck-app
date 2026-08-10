@@ -5,7 +5,7 @@ import { LogOut, Copy, Check, Users, Edit2, X } from 'lucide-react';
 import { supabase } from '../lib/supabase';
 
 export function Profile() {
-  const { user, profile, fetchProfile, signOut } = useAuth();
+  const { user, profile, fetchProfile, signOut, updateVisibility, hasUnreadNotifications } = useAuth();
   const navigate = useNavigate();
   const [copied, setCopied] = useState(false);
   const [isEditing, setIsEditing] = useState(false);
@@ -152,10 +152,18 @@ export function Profile() {
         <div className="flex flex-col gap-6">
           <div 
             onClick={() => navigate('/friends')}
-            className="glass-panel p-6 cursor-pointer hover:border-zutomayo-accent/50 transition-colors group flex items-start gap-4"
+            className="glass-panel p-6 cursor-pointer hover:border-zutomayo-accent/50 transition-colors group flex items-start gap-4 relative"
           >
-            <div className="p-3 rounded-full bg-zutomayo-accent/20 text-zutomayo-accent group-hover:scale-110 transition-transform">
-              <Users size={24} />
+            <div className="relative">
+              <div className="p-3 rounded-full bg-zutomayo-accent/20 text-zutomayo-accent group-hover:scale-110 transition-transform">
+                <Users size={24} />
+              </div>
+              {hasUnreadNotifications && (
+                <span className="absolute -top-1 -right-1 flex h-3 w-3">
+                  <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75"></span>
+                  <span className="relative inline-flex rounded-full h-3 w-3 bg-red-500 border-2 border-black"></span>
+                </span>
+              )}
             </div>
             <div>
               <h3 className="text-xl font-bold text-white mb-2">Manage Friends</h3>
@@ -165,8 +173,29 @@ export function Profile() {
             </div>
           </div>
           
-          <div className="glass-panel p-6 flex flex-col justify-center items-center text-center opacity-50">
-            <p className="text-zutomayo-light">More features coming soon...</p>
+          <div className="glass-panel p-6 flex flex-col items-start gap-4">
+            <div>
+              <h3 className="text-xl font-bold text-white mb-2">Privacy Settings</h3>
+              <p className="text-zutomayo-light text-sm mb-4">
+                Choose whether your friends can see your card collection.
+              </p>
+              
+              <label className="flex items-center cursor-pointer gap-3">
+                <div className="relative">
+                  <input 
+                    type="checkbox" 
+                    className="sr-only" 
+                    checked={profile?.is_public ?? true}
+                    onChange={(e) => updateVisibility(e.target.checked)}
+                  />
+                  <div className={`block w-12 h-6 rounded-full transition-colors ${profile?.is_public !== false ? 'bg-zutomayo-accent' : 'bg-gray-600'}`}></div>
+                  <div className={`dot absolute left-1 top-1 bg-white w-4 h-4 rounded-full transition-transform ${profile?.is_public !== false ? 'transform translate-x-6' : ''}`}></div>
+                </div>
+                <span className="text-white font-medium">
+                  {profile?.is_public !== false ? 'Collection is Public' : 'Collection is Private'}
+                </span>
+              </label>
+            </div>
           </div>
         </div>
       </div>
