@@ -1,11 +1,11 @@
 import { Trash2, Edit2, Eye, Plus, X, LayoutGrid, Maximize2 } from 'lucide-react';
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { useDeckStorage } from '../hooks/useDeckStorage';
+import { useDeck } from '../contexts/DeckContext';
 import { ConfirmModal } from '../components/ui/ConfirmModal';
 
 export function DeckList() {
-  const { decks, deleteDeck } = useDeckStorage();
+  const { decks, deleteDeck } = useDeck();
   const navigate = useNavigate();
   const [viewingDeck, setViewingDeck] = useState(null);
   const [deckToDelete, setDeckToDelete] = useState(null);

@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate, useSearchParams } from 'react-router-dom';
 import { useCards } from '../hooks/useCards';
-import { useDeckStorage } from '../hooks/useDeckStorage';
+import { useDeck } from '../contexts/DeckContext';
 import { Card } from '../components/ui/Card';
 import { Modal } from '../components/ui/Modal';
 import { DeckBuilderSidebar } from '../components/DeckBuilderSidebar';
@@ -27,7 +27,7 @@ export function DeckBuilder() {
     dayMax, setDayMax,
     sendToPowerFilter, setSendToPowerFilter,
   } = useCards();
-  const { saveDeck, getDeck } = useDeckStorage();
+  const { saveDeck, getDeck } = useDeck();
   
   const [selectedCard, setSelectedCard] = useState(null);
   const [currentDeck, setCurrentDeck] = useState({ cards: [], name: 'New Deck' });
