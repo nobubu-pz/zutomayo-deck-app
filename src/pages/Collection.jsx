@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useCards } from '../hooks/useCards';
-import { useCollectionStorage } from '../hooks/useCollectionStorage';
+import { useCollection } from '../contexts/CollectionContext';
 import { Card } from '../components/ui/Card';
 import { Modal } from '../components/ui/Modal';
 import { FilterPanel } from '../components/ui/FilterPanel';
@@ -22,7 +22,7 @@ export function Collection() {
     sendToPowerFilter, setSendToPowerFilter,
   } = useCards();
   
-  const { updateCount, getCount, collection } = useCollectionStorage();
+  const { updateCount, getCount, collection } = useCollection();
   const [selectedCard, setSelectedCard] = useState(null);
   const [isFilterOpen, setIsFilterOpen] = useState(false);
   const [isSearchOpen, setIsSearchOpen] = useState(false);

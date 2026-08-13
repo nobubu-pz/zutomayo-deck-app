@@ -1,10 +1,18 @@
-import { useState, useEffect } from 'react';
-import { useAuth } from '../contexts/AuthContext';
+import React, { createContext, useContext, useState, useEffect, useRef } from 'react';
+import { useAuth } from './AuthContext';
 import { supabase } from '../lib/supabase';
 
-export function useCollectionStorage() {
+const CollectionContext = createContext();
+
+export function useCollection() {
+  return useContext(CollectionContext);
+}
+
+export function CollectionProvider({ children }) {
   const [collection, setCollection] = useState({});
   const { user } = useAuth();
+  const updateTimerRef = useRef({});
+  const latestCountRef = useRef({});
 
   useEffect(() => {
     // 1. Load local data first for fast render
@@ -43,7 +51,7 @@ export function useCollectionStorage() {
         dbData[row.card_uid] = row.count;
       });
 
-      // Merge local and DB data (DB takes precedence, but if local has something DB doesn't, upload it)
+      // Merge local and DB data
       const merged = { ...localData };
       let hasChangesToUpload = false;
       const upsertPayload = [];
@@ -80,36 +88,32 @@ export function useCollectionStorage() {
       const newCount = Math.max(0, currentCount + delta);
       
       const newCollection = { ...prev };
-      if (newCount === 0) {
-        delete newCollection[uid];
-      } else {
-        newCollection[uid] = newCount;
-      }
+      // 0枚の場合も削除せず、0として保持・保存する
+      newCollection[uid] = newCount;
+      latestCountRef.current[uid] = newCount;
       
       localStorage.setItem('zutomayo_collection', JSON.stringify(newCollection));
-      
-      // Update DB asynchronously if logged in
-      if (user) {
-        updateDatabase(uid, newCount);
-      }
-
       return newCollection;
     });
+
+    if (user) {
+      if (updateTimerRef.current[uid]) {
+        clearTimeout(updateTimerRef.current[uid]);
+      }
+      updateTimerRef.current[uid] = setTimeout(() => {
+        const finalCount = latestCountRef.current[uid];
+        updateDatabase(uid, finalCount);
+        delete updateTimerRef.current[uid];
+      }, 500);
+    }
   };
 
   const updateDatabase = async (uid, newCount) => {
     try {
-      if (newCount === 0) {
-        await supabase
-          .from('user_cards')
-          .delete()
-          .eq('user_id', user.id)
-          .eq('card_uid', uid);
-      } else {
-        await supabase
-          .from('user_cards')
-          .upsert({ user_id: user.id, card_uid: uid, count: newCount }, { onConflict: 'user_id,card_uid' });
-      }
+      // DBからも削除せず、常に upsert で 0枚として記録する
+      await supabase
+        .from('user_cards')
+        .upsert({ user_id: user.id, card_uid: uid, count: newCount }, { onConflict: 'user_id,card_uid' });
     } catch (e) {
       console.error('Error updating database:', e);
     }
@@ -119,9 +123,9 @@ export function useCollectionStorage() {
     return collection[uid] || 0;
   };
 
-  return {
-    collection,
-    updateCount,
-    getCount
-  };
+  return (
+    <CollectionContext.Provider value={{ collection, updateCount, getCount }}>
+      {children}
+    </CollectionContext.Provider>
+  );
 }

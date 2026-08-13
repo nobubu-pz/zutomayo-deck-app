@@ -15,7 +15,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_1.jpg",
     "seasonNo": 1,
     "cardNo": 1,
-    "uid": "001001"
+    "uid": "001001",
+    "effectText": ""
   },
   {
     "id": "1st_002",
@@ -33,7 +34,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_2.jpg",
     "seasonNo": 1,
     "cardNo": 2,
-    "uid": "001002"
+    "uid": "001002",
+    "effectText": ""
   },
   {
     "id": "1st_003",
@@ -51,7 +53,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_3.jpg",
     "seasonNo": 1,
     "cardNo": 3,
-    "uid": "001003"
+    "uid": "001003",
+    "effectText": ""
   },
   {
     "id": "1st_004",
@@ -69,7 +72,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_4.jpg",
     "seasonNo": 1,
     "cardNo": 4,
-    "uid": "001004"
+    "uid": "001004",
+    "effectText": ""
   },
   {
     "id": "1st_005",
@@ -87,7 +91,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_5.jpg",
     "seasonNo": 1,
     "cardNo": 5,
-    "uid": "001005"
+    "uid": "001005",
+    "effectText": "相手の攻撃力を昼夜逆転する\\n※相手のエンチャント発動のち有効"
   },
   {
     "id": "1st_006",
@@ -105,7 +110,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_6.jpg",
     "seasonNo": 1,
     "cardNo": 6,
-    "uid": "001006"
+    "uid": "001006",
+    "effectText": "アビスのカードの中から自由に1枚選び、そのターンで使う"
   },
   {
     "id": "1st_007",
@@ -123,7 +129,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_7.jpg",
     "seasonNo": 1,
     "cardNo": 7,
-    "uid": "001007"
+    "uid": "001007",
+    "effectText": "アビスに4種類の属性があると攻撃力+50"
   },
   {
     "id": "1st_008",
@@ -141,7 +148,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_8.jpg",
     "seasonNo": 1,
     "cardNo": 8,
-    "uid": "001008"
+    "uid": "001008",
+    "effectText": "時計を無効\\nこのターンのはじまりの時間に戻る"
   },
   {
     "id": "1st_009",
@@ -159,7 +167,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_9.jpg",
     "seasonNo": 1,
     "cardNo": 9,
-    "uid": "001009"
+    "uid": "001009",
+    "effectText": ""
   },
   {
     "id": "1st_010",
@@ -177,7 +186,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_10.jpg",
     "seasonNo": 1,
     "cardNo": 10,
-    "uid": "001010"
+    "uid": "001010",
+    "effectText": ""
   },
   {
     "id": "1st_011",
@@ -195,7 +205,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_11.jpg",
     "seasonNo": 1,
     "cardNo": 11,
-    "uid": "001011"
+    "uid": "001011",
+    "effectText": ""
   },
   {
     "id": "1st_012",
@@ -213,7 +224,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_12.jpg",
     "seasonNo": 1,
     "cardNo": 12,
-    "uid": "001012"
+    "uid": "001012",
+    "effectText": ""
   },
   {
     "id": "1st_013",
@@ -231,7 +243,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_13.jpg",
     "seasonNo": 1,
     "cardNo": 13,
-    "uid": "001013"
+    "uid": "001013",
+    "effectText": ""
   },
   {
     "id": "1st_014",
@@ -249,7 +262,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_14.jpg",
     "seasonNo": 1,
     "cardNo": 14,
-    "uid": "001014"
+    "uid": "001014",
+    "effectText": ""
   },
   {
     "id": "1st_015",
@@ -267,7 +281,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_15.jpg",
     "seasonNo": 1,
     "cardNo": 15,
-    "uid": "001015"
+    "uid": "001015",
+    "effectText": ""
   },
   {
     "id": "1st_016",
@@ -285,7 +300,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_16.jpg",
     "seasonNo": 1,
     "cardNo": 16,
-    "uid": "001016"
+    "uid": "001016",
+    "effectText": ""
   },
   {
     "id": "1st_017",
@@ -303,7 +319,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_17.jpg",
     "seasonNo": 1,
     "cardNo": 17,
-    "uid": "001017"
+    "uid": "001017",
+    "effectText": ""
   },
   {
     "id": "1st_018",
@@ -321,7 +338,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_18.jpg",
     "seasonNo": 1,
     "cardNo": 18,
-    "uid": "001018"
+    "uid": "001018",
+    "effectText": ""
   },
   {
     "id": "1st_019",
@@ -339,7 +357,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_19.jpg",
     "seasonNo": 1,
     "cardNo": 19,
-    "uid": "001019"
+    "uid": "001019",
+    "effectText": ""
   },
   {
     "id": "1st_020",
@@ -357,7 +376,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_20.jpg",
     "seasonNo": 1,
     "cardNo": 20,
-    "uid": "001020"
+    "uid": "001020",
+    "effectText": ""
   },
   {
     "id": "1st_021",
@@ -375,7 +395,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_21.jpg",
     "seasonNo": 1,
     "cardNo": 21,
-    "uid": "001021"
+    "uid": "001021",
+    "effectText": ""
   },
   {
     "id": "1st_022",
@@ -393,7 +414,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_22.jpg",
     "seasonNo": 1,
     "cardNo": 22,
-    "uid": "001022"
+    "uid": "001022",
+    "effectText": ""
   },
   {
     "id": "1st_023",
@@ -411,7 +433,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_23.jpg",
     "seasonNo": 1,
     "cardNo": 23,
-    "uid": "001023"
+    "uid": "001023",
+    "effectText": ""
   },
   {
     "id": "1st_024",
@@ -429,7 +452,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_24.jpg",
     "seasonNo": 1,
     "cardNo": 24,
-    "uid": "001024"
+    "uid": "001024",
+    "effectText": ""
   },
   {
     "id": "1st_025",
@@ -447,7 +471,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_25.jpg",
     "seasonNo": 1,
     "cardNo": 25,
-    "uid": "001025"
+    "uid": "001025",
+    "effectText": "相手のキャラクターカードの属性が風なら攻撃力 +50"
   },
   {
     "id": "1st_026",
@@ -465,7 +490,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_26.jpg",
     "seasonNo": 1,
     "cardNo": 26,
-    "uid": "001026"
+    "uid": "001026",
+    "effectText": "このターンのはじまりの時間から相手の時計分、時間が戻る"
   },
   {
     "id": "1st_027",
@@ -483,7 +509,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_27.jpg",
     "seasonNo": 1,
     "cardNo": 27,
-    "uid": "001027"
+    "uid": "001027",
+    "effectText": "相手のキャラクターカードの属性が電気なら攻撃力 +50"
   },
   {
     "id": "1st_028",
@@ -501,7 +528,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_28.jpg",
     "seasonNo": 1,
     "cardNo": 28,
-    "uid": "001028"
+    "uid": "001028",
+    "effectText": "自分がダメージを受けたとき40ダメージを軽減する"
   },
   {
     "id": "1st_029",
@@ -519,7 +547,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_29.jpg",
     "seasonNo": 1,
     "cardNo": 29,
-    "uid": "001029"
+    "uid": "001029",
+    "effectText": "相手のキャラクターカードの属性が闇なら攻撃力 +50"
   },
   {
     "id": "1st_030",
@@ -537,7 +566,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_30.jpg",
     "seasonNo": 1,
     "cardNo": 30,
-    "uid": "001030"
+    "uid": "001030",
+    "effectText": "自分の攻撃力 +30"
   },
   {
     "id": "1st_031",
@@ -555,7 +585,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_31.jpg",
     "seasonNo": 1,
     "cardNo": 31,
-    "uid": "001031"
+    "uid": "001031",
+    "effectText": "相手のキャラクターカードの属性が炎なら攻撃力 +50"
   },
   {
     "id": "1st_032",
@@ -573,7 +604,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_32.jpg",
     "seasonNo": 1,
     "cardNo": 32,
-    "uid": "001032"
+    "uid": "001032",
+    "effectText": "自分のHPが30以下なら攻撃力 +50"
   },
   {
     "id": "1st_033",
@@ -591,7 +623,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_33.jpg",
     "seasonNo": 1,
     "cardNo": 33,
-    "uid": "001033"
+    "uid": "001033",
+    "effectText": ""
   },
   {
     "id": "1st_034",
@@ -609,7 +642,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_34.jpg",
     "seasonNo": 1,
     "cardNo": 34,
-    "uid": "001034"
+    "uid": "001034",
+    "effectText": ""
   },
   {
     "id": "1st_035",
@@ -627,7 +661,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_35.jpg",
     "seasonNo": 1,
     "cardNo": 35,
-    "uid": "001035"
+    "uid": "001035",
+    "effectText": ""
   },
   {
     "id": "1st_036",
@@ -645,7 +680,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_36.jpg",
     "seasonNo": 1,
     "cardNo": 36,
-    "uid": "001036"
+    "uid": "001036",
+    "effectText": ""
   },
   {
     "id": "1st_037",
@@ -663,7 +699,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_37.jpg",
     "seasonNo": 1,
     "cardNo": 37,
-    "uid": "001037"
+    "uid": "001037",
+    "effectText": ""
   },
   {
     "id": "1st_038",
@@ -681,7 +718,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_38.jpg",
     "seasonNo": 1,
     "cardNo": 38,
-    "uid": "001038"
+    "uid": "001038",
+    "effectText": ""
   },
   {
     "id": "1st_039",
@@ -699,7 +737,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_39.jpg",
     "seasonNo": 1,
     "cardNo": 39,
-    "uid": "001039"
+    "uid": "001039",
+    "effectText": ""
   },
   {
     "id": "1st_040",
@@ -717,7 +756,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_40.jpg",
     "seasonNo": 1,
     "cardNo": 40,
-    "uid": "001040"
+    "uid": "001040",
+    "effectText": ""
   },
   {
     "id": "1st_041",
@@ -735,7 +775,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_41.jpg",
     "seasonNo": 1,
     "cardNo": 41,
-    "uid": "001041"
+    "uid": "001041",
+    "effectText": ""
   },
   {
     "id": "1st_042",
@@ -753,7 +794,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_42.jpg",
     "seasonNo": 1,
     "cardNo": 42,
-    "uid": "001042"
+    "uid": "001042",
+    "effectText": ""
   },
   {
     "id": "1st_043",
@@ -771,7 +813,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_43.jpg",
     "seasonNo": 1,
     "cardNo": 43,
-    "uid": "001043"
+    "uid": "001043",
+    "effectText": ""
   },
   {
     "id": "1st_044",
@@ -789,7 +832,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_44.jpg",
     "seasonNo": 1,
     "cardNo": 44,
-    "uid": "001044"
+    "uid": "001044",
+    "effectText": ""
   },
   {
     "id": "1st_045",
@@ -807,7 +851,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_45.jpg",
     "seasonNo": 1,
     "cardNo": 45,
-    "uid": "001045"
+    "uid": "001045",
+    "effectText": ""
   },
   {
     "id": "1st_046",
@@ -825,7 +870,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_46.jpg",
     "seasonNo": 1,
     "cardNo": 46,
-    "uid": "001046"
+    "uid": "001046",
+    "effectText": ""
   },
   {
     "id": "1st_047",
@@ -843,7 +889,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_47.jpg",
     "seasonNo": 1,
     "cardNo": 47,
-    "uid": "001047"
+    "uid": "001047",
+    "effectText": ""
   },
   {
     "id": "1st_048",
@@ -861,7 +908,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_48.jpg",
     "seasonNo": 1,
     "cardNo": 48,
-    "uid": "001048"
+    "uid": "001048",
+    "effectText": ""
   },
   {
     "id": "1st_049",
@@ -879,7 +927,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_49.jpg",
     "seasonNo": 1,
     "cardNo": 49,
-    "uid": "001049"
+    "uid": "001049",
+    "effectText": ""
   },
   {
     "id": "1st_050",
@@ -897,7 +946,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_50.jpg",
     "seasonNo": 1,
     "cardNo": 50,
-    "uid": "001050"
+    "uid": "001050",
+    "effectText": ""
   },
   {
     "id": "1st_051",
@@ -915,7 +965,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_51.jpg",
     "seasonNo": 1,
     "cardNo": 51,
-    "uid": "001051"
+    "uid": "001051",
+    "effectText": ""
   },
   {
     "id": "1st_052",
@@ -933,7 +984,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_52.jpg",
     "seasonNo": 1,
     "cardNo": 52,
-    "uid": "001052"
+    "uid": "001052",
+    "effectText": ""
   },
   {
     "id": "1st_053",
@@ -951,7 +1003,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_53.jpg",
     "seasonNo": 1,
     "cardNo": 53,
-    "uid": "001053"
+    "uid": "001053",
+    "effectText": "夜なら攻撃力 +30"
   },
   {
     "id": "1st_054",
@@ -969,7 +1022,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_54.jpg",
     "seasonNo": 1,
     "cardNo": 54,
-    "uid": "001054"
+    "uid": "001054",
+    "effectText": "相手のキャラクターカードの属性が風なら攻撃力 +30"
   },
   {
     "id": "1st_055",
@@ -987,7 +1041,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_55.jpg",
     "seasonNo": 1,
     "cardNo": 55,
-    "uid": "001055"
+    "uid": "001055",
+    "effectText": "自分のHPが50以下なら攻撃力 +20"
   },
   {
     "id": "1st_056",
@@ -1005,7 +1060,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_56.jpg",
     "seasonNo": 1,
     "cardNo": 56,
-    "uid": "001056"
+    "uid": "001056",
+    "effectText": "相手のキャラクターカードの属性が電気なら攻撃力 +30"
   },
   {
     "id": "1st_057",
@@ -1023,7 +1079,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_57.jpg",
     "seasonNo": 1,
     "cardNo": 57,
-    "uid": "001057"
+    "uid": "001057",
+    "effectText": "自分がダメージを受けたとき30ダメージを軽減する"
   },
   {
     "id": "1st_058",
@@ -1041,7 +1098,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_58.jpg",
     "seasonNo": 1,
     "cardNo": 58,
-    "uid": "001058"
+    "uid": "001058",
+    "effectText": "相手のキャラクターカードのパワーコストが✦2以上なら攻撃力 +20"
   },
   {
     "id": "1st_059",
@@ -1059,7 +1117,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_59.jpg",
     "seasonNo": 1,
     "cardNo": 59,
-    "uid": "001059"
+    "uid": "001059",
+    "effectText": "昼なら攻撃力 +30"
   },
   {
     "id": "1st_060",
@@ -1077,7 +1136,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_60.jpg",
     "seasonNo": 1,
     "cardNo": 60,
-    "uid": "001060"
+    "uid": "001060",
+    "effectText": "相手のキャラクターカードの属性が闇なら攻撃力 +30"
   },
   {
     "id": "1st_061",
@@ -1095,7 +1155,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_61.jpg",
     "seasonNo": 1,
     "cardNo": 61,
-    "uid": "001061"
+    "uid": "001061",
+    "effectText": "昼から夜に変わると攻撃力 +30"
   },
   {
     "id": "1st_062",
@@ -1113,7 +1174,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_62.jpg",
     "seasonNo": 1,
     "cardNo": 62,
-    "uid": "001062"
+    "uid": "001062",
+    "effectText": "相手のキャラクターカードの属性が炎なら攻撃力 +30"
   },
   {
     "id": "1st_063",
@@ -1131,7 +1193,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_63.jpg",
     "seasonNo": 1,
     "cardNo": 63,
-    "uid": "001063"
+    "uid": "001063",
+    "effectText": "自分の基礎攻撃力を昼夜逆転する"
   },
   {
     "id": "1st_064",
@@ -1149,7 +1212,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_64.jpg",
     "seasonNo": 1,
     "cardNo": 64,
-    "uid": "001064"
+    "uid": "001064",
+    "effectText": "相手のキャラクターカードのパワーコストが✦2以上なら攻撃力 +30"
   },
   {
     "id": "1st_065",
@@ -1167,7 +1231,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_65.jpg",
     "seasonNo": 1,
     "cardNo": 65,
-    "uid": "001065"
+    "uid": "001065",
+    "effectText": ""
   },
   {
     "id": "1st_066",
@@ -1185,7 +1250,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_66.jpg",
     "seasonNo": 1,
     "cardNo": 66,
-    "uid": "001066"
+    "uid": "001066",
+    "effectText": ""
   },
   {
     "id": "1st_067",
@@ -1203,7 +1269,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_67.jpg",
     "seasonNo": 1,
     "cardNo": 67,
-    "uid": "001067"
+    "uid": "001067",
+    "effectText": ""
   },
   {
     "id": "1st_068",
@@ -1221,7 +1288,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_68.jpg",
     "seasonNo": 1,
     "cardNo": 68,
-    "uid": "001068"
+    "uid": "001068",
+    "effectText": ""
   },
   {
     "id": "1st_069",
@@ -1239,7 +1307,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_69.jpg",
     "seasonNo": 1,
     "cardNo": 69,
-    "uid": "001069"
+    "uid": "001069",
+    "effectText": ""
   },
   {
     "id": "1st_070",
@@ -1257,7 +1326,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_70.jpg",
     "seasonNo": 1,
     "cardNo": 70,
-    "uid": "001070"
+    "uid": "001070",
+    "effectText": ""
   },
   {
     "id": "1st_071",
@@ -1275,7 +1345,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_71.jpg",
     "seasonNo": 1,
     "cardNo": 71,
-    "uid": "001071"
+    "uid": "001071",
+    "effectText": ""
   },
   {
     "id": "1st_072",
@@ -1293,7 +1364,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_72.jpg",
     "seasonNo": 1,
     "cardNo": 72,
-    "uid": "001072"
+    "uid": "001072",
+    "effectText": ""
   },
   {
     "id": "1st_073",
@@ -1311,7 +1383,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_73.jpg",
     "seasonNo": 1,
     "cardNo": 73,
-    "uid": "001073"
+    "uid": "001073",
+    "effectText": ""
   },
   {
     "id": "1st_074",
@@ -1329,7 +1402,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_74.jpg",
     "seasonNo": 1,
     "cardNo": 74,
-    "uid": "001074"
+    "uid": "001074",
+    "effectText": ""
   },
   {
     "id": "1st_075",
@@ -1347,7 +1421,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_75.jpg",
     "seasonNo": 1,
     "cardNo": 75,
-    "uid": "001075"
+    "uid": "001075",
+    "effectText": ""
   },
   {
     "id": "1st_076",
@@ -1365,7 +1440,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_76.jpg",
     "seasonNo": 1,
     "cardNo": 76,
-    "uid": "001076"
+    "uid": "001076",
+    "effectText": ""
   },
   {
     "id": "1st_077",
@@ -1383,7 +1459,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_77.jpg",
     "seasonNo": 1,
     "cardNo": 77,
-    "uid": "001077"
+    "uid": "001077",
+    "effectText": ""
   },
   {
     "id": "1st_078",
@@ -1401,7 +1478,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_78.jpg",
     "seasonNo": 1,
     "cardNo": 78,
-    "uid": "001078"
+    "uid": "001078",
+    "effectText": ""
   },
   {
     "id": "1st_079",
@@ -1419,7 +1497,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_79.jpg",
     "seasonNo": 1,
     "cardNo": 79,
-    "uid": "001079"
+    "uid": "001079",
+    "effectText": ""
   },
   {
     "id": "1st_080",
@@ -1437,7 +1516,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_80.jpg",
     "seasonNo": 1,
     "cardNo": 80,
-    "uid": "001080"
+    "uid": "001080",
+    "effectText": ""
   },
   {
     "id": "1st_081",
@@ -1455,7 +1535,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_81.jpg",
     "seasonNo": 1,
     "cardNo": 81,
-    "uid": "001081"
+    "uid": "001081",
+    "effectText": "自分のキャラクターカードの属性が闇ならHPを10回復"
   },
   {
     "id": "1st_082",
@@ -1473,7 +1554,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_82.jpg",
     "seasonNo": 1,
     "cardNo": 82,
-    "uid": "001082"
+    "uid": "001082",
+    "effectText": "自分のキャラクターカードの属性が闇なら攻撃力 +20"
   },
   {
     "id": "1st_083",
@@ -1491,7 +1573,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_83.jpg",
     "seasonNo": 1,
     "cardNo": 83,
-    "uid": "001083"
+    "uid": "001083",
+    "effectText": "夜なら攻撃力 +20"
   },
   {
     "id": "1st_084",
@@ -1509,7 +1592,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_84.jpg",
     "seasonNo": 1,
     "cardNo": 84,
-    "uid": "001084"
+    "uid": "001084",
+    "effectText": "夜から昼に変わると攻撃力 +30"
   },
   {
     "id": "1st_085",
@@ -1527,7 +1611,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_85.jpg",
     "seasonNo": 1,
     "cardNo": 85,
-    "uid": "001085"
+    "uid": "001085",
+    "effectText": "自分がダメージを受けたとき20ダメージを軽減する"
   },
   {
     "id": "1st_086",
@@ -1545,7 +1630,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_86.jpg",
     "seasonNo": 1,
     "cardNo": 86,
-    "uid": "001086"
+    "uid": "001086",
+    "effectText": "手札1枚とアビスの一番上のカード1枚を入れ替える"
   },
   {
     "id": "1st_087",
@@ -1563,7 +1649,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_87.jpg",
     "seasonNo": 1,
     "cardNo": 87,
-    "uid": "001087"
+    "uid": "001087",
+    "effectText": "自分のキャラクターカードの属性が炎ならHPを10回復"
   },
   {
     "id": "1st_088",
@@ -1581,7 +1668,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_88.jpg",
     "seasonNo": 1,
     "cardNo": 88,
-    "uid": "001088"
+    "uid": "001088",
+    "effectText": "自分のキャラクターカードの属性が炎なら攻撃力 +20"
   },
   {
     "id": "1st_089",
@@ -1599,7 +1687,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_89.jpg",
     "seasonNo": 1,
     "cardNo": 89,
-    "uid": "001089"
+    "uid": "001089",
+    "effectText": "自分の攻撃力 +10"
   },
   {
     "id": "1st_090",
@@ -1617,7 +1706,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_90.jpg",
     "seasonNo": 1,
     "cardNo": 90,
-    "uid": "001090"
+    "uid": "001090",
+    "effectText": "昼から夜に変わると攻撃力 +20"
   },
   {
     "id": "1st_091",
@@ -1635,7 +1725,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_91.jpg",
     "seasonNo": 1,
     "cardNo": 91,
-    "uid": "001091"
+    "uid": "001091",
+    "effectText": "相手のキャラクターカードの属性が炎・風なら攻撃力 +20"
   },
   {
     "id": "1st_092",
@@ -1653,7 +1744,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_92.jpg",
     "seasonNo": 1,
     "cardNo": 92,
-    "uid": "001092"
+    "uid": "001092",
+    "effectText": "デッキから1枚カードを引き、手札に加える ※このカードを使用後、手札の数はバトル終了まで1枚増える"
   },
   {
     "id": "1st_093",
@@ -1671,7 +1763,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_93.jpg",
     "seasonNo": 1,
     "cardNo": 93,
-    "uid": "001093"
+    "uid": "001093",
+    "effectText": "自分のキャラクターカードの属性が電気ならHPを10回復"
   },
   {
     "id": "1st_094",
@@ -1689,7 +1782,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_94.jpg",
     "seasonNo": 1,
     "cardNo": 94,
-    "uid": "001094"
+    "uid": "001094",
+    "effectText": "自分のキャラクターカードの属性が電気なら攻撃力 +20"
   },
   {
     "id": "1st_095",
@@ -1707,7 +1801,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_95.jpg",
     "seasonNo": 1,
     "cardNo": 95,
-    "uid": "001095"
+    "uid": "001095",
+    "effectText": "相手のキャラクターカードの属性が闇・電気なら攻撃力 +20"
   },
   {
     "id": "1st_096",
@@ -1725,7 +1820,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_96.jpg",
     "seasonNo": 1,
     "cardNo": 96,
-    "uid": "001096"
+    "uid": "001096",
+    "effectText": "昼から夜に変わると攻撃力 +10"
   },
   {
     "id": "1st_097",
@@ -1743,7 +1839,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_97.jpg",
     "seasonNo": 1,
     "cardNo": 97,
-    "uid": "001097"
+    "uid": "001097",
+    "effectText": "夜から昼に変わると攻撃力 +20"
   },
   {
     "id": "1st_098",
@@ -1761,7 +1858,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_98.jpg",
     "seasonNo": 1,
     "cardNo": 98,
-    "uid": "001098"
+    "uid": "001098",
+    "effectText": "相手のキャラクターカードのパワーコストが✦0か✦1なら攻撃力 +30"
   },
   {
     "id": "1st_099",
@@ -1779,7 +1877,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_99.jpg",
     "seasonNo": 1,
     "cardNo": 99,
-    "uid": "001099"
+    "uid": "001099",
+    "effectText": "自分のキャラクターカードの属性が風ならHPを10回復"
   },
   {
     "id": "1st_100",
@@ -1797,7 +1896,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_100.jpg",
     "seasonNo": 1,
     "cardNo": 100,
-    "uid": "001100"
+    "uid": "001100",
+    "effectText": "自分のキャラクターカードの属性が風なら攻撃力 +20"
   },
   {
     "id": "1st_101",
@@ -1815,7 +1915,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_101.jpg",
     "seasonNo": 1,
     "cardNo": 101,
-    "uid": "001101"
+    "uid": "001101",
+    "effectText": "相手のキャラクターカードのパワーコストが✦0か✦1なら攻撃力 +20"
   },
   {
     "id": "1st_102",
@@ -1833,7 +1934,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_102.jpg",
     "seasonNo": 1,
     "cardNo": 102,
-    "uid": "001102"
+    "uid": "001102",
+    "effectText": "昼なら攻撃力 +20"
   },
   {
     "id": "1st_103",
@@ -1851,7 +1953,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_103.jpg",
     "seasonNo": 1,
     "cardNo": 103,
-    "uid": "001103"
+    "uid": "001103",
+    "effectText": "相手のアビスのカードを1枚選んでデッキに戻させる"
   },
   {
     "id": "1st_104",
@@ -1869,7 +1972,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_104.jpg",
     "seasonNo": 1,
     "cardNo": 104,
-    "uid": "001104"
+    "uid": "001104",
+    "effectText": "相手のデッキの一番上のカードをパワーの有無に関わらずアビスに置く"
   },
   {
     "id": "1st_105",
@@ -1887,7 +1991,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_105.jpg",
     "seasonNo": 1,
     "cardNo": 105,
-    "uid": "001105"
+    "uid": "001105",
+    "effectText": ""
   },
   {
     "id": "1st_106",
@@ -1905,7 +2010,8 @@
     "imagePath": "/images/cards/Zutomayocard_1st/zutomayocard_1st_106.jpg",
     "seasonNo": 1,
     "cardNo": 106,
-    "uid": "001106"
+    "uid": "001106",
+    "effectText": ""
   },
   {
     "id": "2nd_001",
@@ -1923,7 +2029,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_1.jpg",
     "seasonNo": 2,
     "cardNo": 1,
-    "uid": "002001"
+    "uid": "002001",
+    "effectText": ""
   },
   {
     "id": "2nd_003",
@@ -1941,7 +2048,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_3.jpg",
     "seasonNo": 2,
     "cardNo": 3,
-    "uid": "002003"
+    "uid": "002003",
+    "effectText": ""
   },
   {
     "id": "2nd_004",
@@ -1959,7 +2067,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_4.jpg",
     "seasonNo": 2,
     "cardNo": 4,
-    "uid": "002004"
+    "uid": "002004",
+    "effectText": ""
   },
   {
     "id": "2nd_005",
@@ -1977,7 +2086,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_5.jpg",
     "seasonNo": 2,
     "cardNo": 5,
-    "uid": "002005"
+    "uid": "002005",
+    "effectText": "相手のキャラクターカードの時計を無効にする。※昼と夜が入れ替わったターンの終了時にアビスに置く"
   },
   {
     "id": "2nd_006",
@@ -1995,7 +2105,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_6.jpg",
     "seasonNo": 2,
     "cardNo": 6,
-    "uid": "002006"
+    "uid": "002006",
+    "effectText": "同時に出す自分のキャラクターカードのパワーコストが-2の状態で出せる"
   },
   {
     "id": "2nd_007",
@@ -2013,7 +2124,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_7.jpg",
     "seasonNo": 2,
     "cardNo": 7,
-    "uid": "002007"
+    "uid": "002007",
+    "effectText": "このカードを使用中、自分の攻撃力は常に昼の攻撃力となる。相手がエリアエンチャントを出したターンの終了時にアビスに置く"
   },
   {
     "id": "2nd_008",
@@ -2031,7 +2143,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_8.jpg",
     "seasonNo": 2,
     "cardNo": 8,
-    "uid": "002008"
+    "uid": "002008",
+    "effectText": "自分のキャラクターカードの属性が電気なら、相手のパワーチャージャーから合計SEND TO POWER ✦2までのカードを選び、相手のデッキの底に置く"
   },
   {
     "id": "2nd_009",
@@ -2049,7 +2162,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_9.jpg",
     "seasonNo": 2,
     "cardNo": 9,
-    "uid": "002009"
+    "uid": "002009",
+    "effectText": "相手のキャラクターカードの属性が風なら攻撃力 +20"
   },
   {
     "id": "2nd_027",
@@ -2067,7 +2181,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_27.jpg",
     "seasonNo": 2,
     "cardNo": 27,
-    "uid": "002027"
+    "uid": "002027",
+    "effectText": "手札を2枚選んでデッキの底に置き、カードを2枚引く"
   },
   {
     "id": "2nd_028",
@@ -2085,7 +2200,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_28.jpg",
     "seasonNo": 2,
     "cardNo": 28,
-    "uid": "002028"
+    "uid": "002028",
+    "effectText": "自分のキャラクターカードと相手のキャラクターカードが同じパワーコストなら、攻撃力 +40"
   },
   {
     "id": "2nd_029",
@@ -2103,7 +2219,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_29.jpg",
     "seasonNo": 2,
     "cardNo": 29,
-    "uid": "002029"
+    "uid": "002029",
+    "effectText": "相手のキャラクターカードがパワーコスト6以上なら、攻撃力 +50"
   },
   {
     "id": "2nd_030",
@@ -2121,7 +2238,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_30.jpg",
     "seasonNo": 2,
     "cardNo": 30,
-    "uid": "002030"
+    "uid": "002030",
+    "effectText": "昼なら攻撃力 +50"
   },
   {
     "id": "2nd_031",
@@ -2139,7 +2257,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_31.jpg",
     "seasonNo": 2,
     "cardNo": 31,
-    "uid": "002031"
+    "uid": "002031",
+    "effectText": "手札を2枚選んでデッキの底に置き、カードを2枚引く"
   },
   {
     "id": "2nd_032",
@@ -2157,7 +2276,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_32.jpg",
     "seasonNo": 2,
     "cardNo": 32,
-    "uid": "002032"
+    "uid": "002032",
+    "effectText": "自分の攻撃力 +30"
   },
   {
     "id": "2nd_033",
@@ -2175,7 +2295,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_33.jpg",
     "seasonNo": 2,
     "cardNo": 33,
-    "uid": "002033"
+    "uid": "002033",
+    "effectText": ""
   },
   {
     "id": "2nd_034",
@@ -2193,7 +2314,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_34.jpg",
     "seasonNo": 2,
     "cardNo": 34,
-    "uid": "002034"
+    "uid": "002034",
+    "effectText": ""
   },
   {
     "id": "2nd_035",
@@ -2211,7 +2333,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_35.jpg",
     "seasonNo": 2,
     "cardNo": 35,
-    "uid": "002035"
+    "uid": "002035",
+    "effectText": "パワーチャージャーに炎属性のカードがあるなら、攻撃力 +20"
   },
   {
     "id": "2nd_036",
@@ -2229,7 +2352,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_36.jpg",
     "seasonNo": 2,
     "cardNo": 36,
-    "uid": "002036"
+    "uid": "002036",
+    "effectText": "アビスに炎属性のカードが2枚以上あるなら、時計が真夜中になる"
   },
   {
     "id": "2nd_037",
@@ -2247,7 +2371,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_37.jpg",
     "seasonNo": 2,
     "cardNo": 37,
-    "uid": "002037"
+    "uid": "002037",
+    "effectText": ""
   },
   {
     "id": "2nd_038",
@@ -2265,7 +2390,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_38.jpg",
     "seasonNo": 2,
     "cardNo": 38,
-    "uid": "002038"
+    "uid": "002038",
+    "effectText": ""
   },
   {
     "id": "2nd_039",
@@ -2283,7 +2409,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_39.jpg",
     "seasonNo": 2,
     "cardNo": 39,
-    "uid": "002039"
+    "uid": "002039",
+    "effectText": ""
   },
   {
     "id": "2nd_040",
@@ -2301,7 +2428,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_40.jpg",
     "seasonNo": 2,
     "cardNo": 40,
-    "uid": "002040"
+    "uid": "002040",
+    "effectText": "パワーチャージャーに闇属性のカードがあるなら、攻撃力 +30"
   },
   {
     "id": "2nd_041",
@@ -2319,7 +2447,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_41.jpg",
     "seasonNo": 2,
     "cardNo": 41,
-    "uid": "002041"
+    "uid": "002041",
+    "effectText": "前のターンで使用したキャラクターカードの属性が闇なら、デッキの一番上のカードをパワーがあればパワーチャージャーに、なければアビスに置く"
   },
   {
     "id": "2nd_042",
@@ -2337,7 +2466,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_42.jpg",
     "seasonNo": 2,
     "cardNo": 42,
-    "uid": "002042"
+    "uid": "002042",
+    "effectText": "前のターンで使用したキャラクターカードの属性が闇なら攻撃力 +20"
   },
   {
     "id": "2nd_043",
@@ -2355,7 +2485,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_43.jpg",
     "seasonNo": 2,
     "cardNo": 43,
-    "uid": "002043"
+    "uid": "002043",
+    "effectText": ""
   },
   {
     "id": "2nd_044",
@@ -2373,7 +2504,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_44.jpg",
     "seasonNo": 2,
     "cardNo": 44,
-    "uid": "002044"
+    "uid": "002044",
+    "effectText": ""
   },
   {
     "id": "2nd_045",
@@ -2391,7 +2523,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_45.jpg",
     "seasonNo": 2,
     "cardNo": 45,
-    "uid": "002045"
+    "uid": "002045",
+    "effectText": "パワーチャージャーに風属性のカードがあるなら、攻撃力 +20"
   },
   {
     "id": "2nd_046",
@@ -2409,7 +2542,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_46.jpg",
     "seasonNo": 2,
     "cardNo": 46,
-    "uid": "002046"
+    "uid": "002046",
+    "effectText": ""
   },
   {
     "id": "2nd_047",
@@ -2427,7 +2561,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_47.jpg",
     "seasonNo": 2,
     "cardNo": 47,
-    "uid": "002047"
+    "uid": "002047",
+    "effectText": "前のターンで使用したキャラクターカードの属性が風で、今が昼ならカードを使用する初回のみ攻撃力 +40"
   },
   {
     "id": "2nd_048",
@@ -2445,7 +2580,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_48.jpg",
     "seasonNo": 2,
     "cardNo": 48,
-    "uid": "002048"
+    "uid": "002048",
+    "effectText": ""
   },
   {
     "id": "2nd_049",
@@ -2463,7 +2599,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_49.jpg",
     "seasonNo": 2,
     "cardNo": 49,
-    "uid": "002049"
+    "uid": "002049",
+    "effectText": "パワーチャージャーに電気属性のカードがあるなら、攻撃力 +20"
   },
   {
     "id": "2nd_050",
@@ -2481,7 +2618,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_50.jpg",
     "seasonNo": 2,
     "cardNo": 50,
-    "uid": "002050"
+    "uid": "002050",
+    "effectText": "アビスに電気属性のカードがあるなら、相手のHPを20減らす"
   },
   {
     "id": "2nd_051",
@@ -2499,7 +2637,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_51.jpg",
     "seasonNo": 2,
     "cardNo": 51,
-    "uid": "002051"
+    "uid": "002051",
+    "effectText": ""
   },
   {
     "id": "2nd_052",
@@ -2517,7 +2656,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_52.jpg",
     "seasonNo": 2,
     "cardNo": 52,
-    "uid": "002052"
+    "uid": "002052",
+    "effectText": ""
   },
   {
     "id": "2nd_053",
@@ -2535,7 +2675,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_53.jpg",
     "seasonNo": 2,
     "cardNo": 53,
-    "uid": "002053"
+    "uid": "002053",
+    "effectText": "パワーチャージャーのカードが闇属性だけだったなら攻撃力 +40"
   },
   {
     "id": "2nd_054",
@@ -2553,7 +2694,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_54.jpg",
     "seasonNo": 2,
     "cardNo": 54,
-    "uid": "002054"
+    "uid": "002054",
+    "effectText": "自分のキャラクターカードの属性が炎なら攻撃力 +30"
   },
   {
     "id": "2nd_055",
@@ -2571,7 +2713,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_55.jpg",
     "seasonNo": 2,
     "cardNo": 55,
-    "uid": "002055"
+    "uid": "002055",
+    "effectText": "自分のキャラクターカードの属性が炎なら、相手のエリアエンチャントカードを相手のデッキの上に置く"
   },
   {
     "id": "2nd_056",
@@ -2589,7 +2732,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_56.jpg",
     "seasonNo": 2,
     "cardNo": 56,
-    "uid": "002056"
+    "uid": "002056",
+    "effectText": "パワーチャージャーのカードが炎属性だけだったなら攻撃力 +30"
   },
   {
     "id": "2nd_057",
@@ -2607,7 +2751,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_57.jpg",
     "seasonNo": 2,
     "cardNo": 57,
-    "uid": "002057"
+    "uid": "002057",
+    "effectText": "自分のキャラクターカードの属性が闇なら攻撃力 +30"
   },
   {
     "id": "2nd_058",
@@ -2625,7 +2770,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_58.jpg",
     "seasonNo": 2,
     "cardNo": 58,
-    "uid": "002058"
+    "uid": "002058",
+    "effectText": "アビスの闇属性のカード1枚につき、✦+1。キャラクターカードを自分のパワーチャージャーに置いたターンの終了時にアビスに置く"
   },
   {
     "id": "2nd_059",
@@ -2643,7 +2789,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_59.jpg",
     "seasonNo": 2,
     "cardNo": 59,
-    "uid": "002059"
+    "uid": "002059",
+    "effectText": "昼なら、同時に出した自分のキャラクターカードの攻撃力 +30"
   },
   {
     "id": "2nd_060",
@@ -2661,7 +2808,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_60.jpg",
     "seasonNo": 2,
     "cardNo": 60,
-    "uid": "002060"
+    "uid": "002060",
+    "effectText": "自分のキャラクターカードの属性が風なら攻撃力 +30"
   },
   {
     "id": "2nd_061",
@@ -2679,7 +2827,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_61.jpg",
     "seasonNo": 2,
     "cardNo": 61,
-    "uid": "002061"
+    "uid": "002061",
+    "effectText": "パワーチャージャーのカードが電気属性だけだったなら攻撃力 +40"
   },
   {
     "id": "2nd_062",
@@ -2697,7 +2846,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_62.jpg",
     "seasonNo": 2,
     "cardNo": 62,
-    "uid": "002062"
+    "uid": "002062",
+    "effectText": "同時に出したキャラクターカードを、変えなくてもよい"
   },
   {
     "id": "2nd_063",
@@ -2715,7 +2865,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_63.jpg",
     "seasonNo": 2,
     "cardNo": 63,
-    "uid": "002063"
+    "uid": "002063",
+    "effectText": "自分のキャラクターカードの属性が電気なら攻撃力 +30"
   },
   {
     "id": "2nd_064",
@@ -2733,7 +2884,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_64.jpg",
     "seasonNo": 2,
     "cardNo": 64,
-    "uid": "002064"
+    "uid": "002064",
+    "effectText": "パワーチャージャーの電気属性のカード1枚につき、攻撃力 +20。相手のHPが30以下になったターンの終了時にアビスに置く"
   },
   {
     "id": "2nd_065",
@@ -2751,7 +2903,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_65.jpg",
     "seasonNo": 2,
     "cardNo": 65,
-    "uid": "002065"
+    "uid": "002065",
+    "effectText": ""
   },
   {
     "id": "2nd_066",
@@ -2769,7 +2922,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_66.jpg",
     "seasonNo": 2,
     "cardNo": 66,
-    "uid": "002066"
+    "uid": "002066",
+    "effectText": ""
   },
   {
     "id": "2nd_067",
@@ -2787,7 +2941,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_67.jpg",
     "seasonNo": 2,
     "cardNo": 67,
-    "uid": "002067"
+    "uid": "002067",
+    "effectText": ""
   },
   {
     "id": "2nd_068",
@@ -2805,7 +2960,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_68.jpg",
     "seasonNo": 2,
     "cardNo": 68,
-    "uid": "002068"
+    "uid": "002068",
+    "effectText": "前のターンで使用したキャラクターカードの属性が炎で、今が夜ならカードを使用する初回のみ攻撃力 +30"
   },
   {
     "id": "2nd_069",
@@ -2823,7 +2979,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_69.jpg",
     "seasonNo": 2,
     "cardNo": 69,
-    "uid": "002069"
+    "uid": "002069",
+    "effectText": "相手のキャラクターカードの属性が電気なら攻撃力 +20"
   },
   {
     "id": "2nd_070",
@@ -2841,7 +2998,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_70.jpg",
     "seasonNo": 2,
     "cardNo": 70,
-    "uid": "002070"
+    "uid": "002070",
+    "effectText": ""
   },
   {
     "id": "2nd_081",
@@ -2859,7 +3017,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_81.jpg",
     "seasonNo": 2,
     "cardNo": 81,
-    "uid": "002081"
+    "uid": "002081",
+    "effectText": "アビスのカードが闇属性だけだったなら攻撃力 +20"
   },
   {
     "id": "2nd_082",
@@ -2877,7 +3036,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_82.jpg",
     "seasonNo": 2,
     "cardNo": 82,
-    "uid": "002082"
+    "uid": "002082",
+    "effectText": "手札を1枚選んでデッキの底に置き、カードを1枚引く"
   },
   {
     "id": "2nd_083",
@@ -2895,7 +3055,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_83.jpg",
     "seasonNo": 2,
     "cardNo": 83,
-    "uid": "002083"
+    "uid": "002083",
+    "effectText": "夜なら攻撃力 +30"
   },
   {
     "id": "2nd_084",
@@ -2913,7 +3074,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_84.jpg",
     "seasonNo": 2,
     "cardNo": 84,
-    "uid": "002084"
+    "uid": "002084",
+    "effectText": "自分の攻撃力 +10。相手のキャラクターカードの属性をバトルフィールドにいる間電気にする"
   },
   {
     "id": "2nd_085",
@@ -2931,7 +3093,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_85.jpg",
     "seasonNo": 2,
     "cardNo": 85,
-    "uid": "002085"
+    "uid": "002085",
+    "effectText": "自分のキャラクターカードの属性が闇ならHPを10回復"
   },
   {
     "id": "2nd_086",
@@ -2949,7 +3112,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_86.png",
     "seasonNo": 2,
     "cardNo": 86,
-    "uid": "002086"
+    "uid": "002086",
+    "effectText": "夜なら攻撃力 +20。夜じゃなくなったらパワーチャージャーに置く"
   },
   {
     "id": "2nd_087",
@@ -2967,7 +3131,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_87.png",
     "seasonNo": 2,
     "cardNo": 87,
-    "uid": "002087"
+    "uid": "002087",
+    "effectText": "アビスのカードが炎属性だけだったなら攻撃力 +20"
   },
   {
     "id": "2nd_088",
@@ -2985,7 +3150,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_88.png",
     "seasonNo": 2,
     "cardNo": 88,
-    "uid": "002088"
+    "uid": "002088",
+    "effectText": "自分の攻撃力 +10。相手のキャラクターカードの属性をバトルフィールドにいる間闇にする"
   },
   {
     "id": "2nd_089",
@@ -3003,7 +3169,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_89.png",
     "seasonNo": 2,
     "cardNo": 89,
-    "uid": "002089"
+    "uid": "002089",
+    "effectText": "自分がダメージを受けたとき20ダメージを軽減する"
   },
   {
     "id": "2nd_090",
@@ -3021,7 +3188,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_90.png",
     "seasonNo": 2,
     "cardNo": 90,
-    "uid": "002090"
+    "uid": "002090",
+    "effectText": "自分がダメージを受けたとき30ダメージを軽減する"
   },
   {
     "id": "2nd_091",
@@ -3039,7 +3207,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_91.png",
     "seasonNo": 2,
     "cardNo": 91,
-    "uid": "002091"
+    "uid": "002091",
+    "effectText": "自分のキャラクターカードの属性が炎ならHPを10回復"
   },
   {
     "id": "2nd_092",
@@ -3057,7 +3226,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_92.png",
     "seasonNo": 2,
     "cardNo": 92,
-    "uid": "002092"
+    "uid": "002092",
+    "effectText": "キャラクターカードが2コスト以上なら、攻撃力 +20。相手のキャラクターカードが4コスト以上ならパワーチャージャーに置く"
   },
   {
     "id": "2nd_093",
@@ -3075,7 +3245,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_93.png",
     "seasonNo": 2,
     "cardNo": 93,
-    "uid": "002093"
+    "uid": "002093",
+    "effectText": "アビスのカードが電気属性だけだったなら攻撃力 +20"
   },
   {
     "id": "2nd_094",
@@ -3093,7 +3264,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_94.png",
     "seasonNo": 2,
     "cardNo": 94,
-    "uid": "002094"
+    "uid": "002094",
+    "effectText": "手札を1枚選んでデッキの底に置き、カードを1枚引く"
   },
   {
     "id": "2nd_095",
@@ -3111,7 +3283,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_95.png",
     "seasonNo": 2,
     "cardNo": 95,
-    "uid": "002095"
+    "uid": "002095",
+    "effectText": "昼なら攻撃力 +30"
   },
   {
     "id": "2nd_096",
@@ -3129,7 +3302,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_96.png",
     "seasonNo": 2,
     "cardNo": 96,
-    "uid": "002096"
+    "uid": "002096",
+    "effectText": "自分の攻撃力 +10。相手のキャラクターカードの属性をバトルフィールドにいる間風にする"
   },
   {
     "id": "2nd_097",
@@ -3147,7 +3321,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_97.png",
     "seasonNo": 2,
     "cardNo": 97,
-    "uid": "002097"
+    "uid": "002097",
+    "effectText": "自分のキャラクターカードの属性が電気ならHPを10回復"
   },
   {
     "id": "2nd_098",
@@ -3165,7 +3340,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_98.png",
     "seasonNo": 2,
     "cardNo": 98,
-    "uid": "002098"
+    "uid": "002098",
+    "effectText": "昼なら攻撃力 +20。昼じゃなくなったらパワーチャージャーに置く"
   },
   {
     "id": "2nd_099",
@@ -3183,7 +3359,8 @@
     "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_99.png",
     "seasonNo": 2,
     "cardNo": 99,
-    "uid": "002099"
+    "uid": "002099",
+    "effectText": "アビスのカードが風属性だけだったなら攻撃力 +30"
   },
   {
     "id": "3rd_001",
@@ -3201,7 +3378,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_1.jpg",
     "seasonNo": 3,
     "cardNo": 1,
-    "uid": "003001"
+    "uid": "003001",
+    "effectText": "真夜中なら攻撃力 +100"
   },
   {
     "id": "3rd_002",
@@ -3219,7 +3397,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_2.jpg",
     "seasonNo": 3,
     "cardNo": 2,
-    "uid": "003002"
+    "uid": "003002",
+    "effectText": ""
   },
   {
     "id": "3rd_003",
@@ -3237,7 +3416,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_3.jpg",
     "seasonNo": 3,
     "cardNo": 3,
-    "uid": "003003"
+    "uid": "003003",
+    "effectText": ""
   },
   {
     "id": "3rd_004",
@@ -3255,7 +3435,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_4.jpg",
     "seasonNo": 3,
     "cardNo": 4,
-    "uid": "003004"
+    "uid": "003004",
+    "effectText": ""
   },
   {
     "id": "3rd_005",
@@ -3273,7 +3454,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_5.jpg",
     "seasonNo": 3,
     "cardNo": 5,
-    "uid": "003005"
+    "uid": "003005",
+    "effectText": "HPが相手のHPより少ないなら、時計を真夜中にする"
   },
   {
     "id": "3rd_006",
@@ -3291,7 +3473,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_6.jpg",
     "seasonNo": 3,
     "cardNo": 6,
-    "uid": "003006"
+    "uid": "003006",
+    "effectText": "相手のHPが100なら攻撃力 +100"
   },
   {
     "id": "3rd_007",
@@ -3309,7 +3492,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_7.jpg",
     "seasonNo": 3,
     "cardNo": 7,
-    "uid": "003007"
+    "uid": "003007",
+    "effectText": "HPが相手のHPより少ないなら、時計を真昼にする"
   },
   {
     "id": "3rd_008",
@@ -3327,7 +3511,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_8.jpg",
     "seasonNo": 3,
     "cardNo": 8,
-    "uid": "003008"
+    "uid": "003008",
+    "effectText": "アビスに4属性すべてのカードがあるなら攻撃力 +100"
   },
   {
     "id": "3rd_009",
@@ -3345,7 +3530,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_9.jpg",
     "seasonNo": 3,
     "cardNo": 9,
-    "uid": "003009"
+    "uid": "003009",
+    "effectText": "真夜中なら攻撃力 +50"
   },
   {
     "id": "3rd_010",
@@ -3363,7 +3549,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_10.jpg",
     "seasonNo": 3,
     "cardNo": 10,
-    "uid": "003010"
+    "uid": "003010",
+    "effectText": ""
   },
   {
     "id": "3rd_011",
@@ -3381,7 +3568,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_11.jpg",
     "seasonNo": 3,
     "cardNo": 11,
-    "uid": "003011"
+    "uid": "003011",
+    "effectText": "相手のパワーチャージャーのカードが風属性だけだったなら攻撃力 +40"
   },
   {
     "id": "3rd_012",
@@ -3399,7 +3587,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_12.jpg",
     "seasonNo": 3,
     "cardNo": 12,
-    "uid": "003012"
+    "uid": "003012",
+    "effectText": ""
   },
   {
     "id": "3rd_013",
@@ -3417,7 +3606,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_13.jpg",
     "seasonNo": 3,
     "cardNo": 13,
-    "uid": "003013"
+    "uid": "003013",
+    "effectText": ""
   },
   {
     "id": "3rd_014",
@@ -3435,7 +3625,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_14.jpg",
     "seasonNo": 3,
     "cardNo": 14,
-    "uid": "003014"
+    "uid": "003014",
+    "effectText": "相手のエリアエンチャントを相手のデッキの底に置く"
   },
   {
     "id": "3rd_015",
@@ -3453,7 +3644,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_15.jpg",
     "seasonNo": 3,
     "cardNo": 15,
-    "uid": "003015"
+    "uid": "003015",
+    "effectText": ""
   },
   {
     "id": "3rd_016",
@@ -3471,7 +3663,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_16.jpg",
     "seasonNo": 3,
     "cardNo": 16,
-    "uid": "003016"
+    "uid": "003016",
+    "effectText": ""
   },
   {
     "id": "3rd_017",
@@ -3489,7 +3682,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_17.jpg",
     "seasonNo": 3,
     "cardNo": 17,
-    "uid": "003017"
+    "uid": "003017",
+    "effectText": "相手のパワーチャージャーのカードが闇属性だけだったなら攻撃力 +40"
   },
   {
     "id": "3rd_018",
@@ -3507,7 +3701,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_18.jpg",
     "seasonNo": 3,
     "cardNo": 18,
-    "uid": "003018"
+    "uid": "003018",
+    "effectText": ""
   },
   {
     "id": "3rd_019",
@@ -3525,7 +3720,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_19.jpg",
     "seasonNo": 3,
     "cardNo": 19,
-    "uid": "003019"
+    "uid": "003019",
+    "effectText": "パワーチャージャーのカードが電気属性だけだったなら攻撃力 +30"
   },
   {
     "id": "3rd_020",
@@ -3543,7 +3739,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_20.jpg",
     "seasonNo": 3,
     "cardNo": 20,
-    "uid": "003020"
+    "uid": "003020",
+    "effectText": ""
   },
   {
     "id": "3rd_021",
@@ -3561,7 +3758,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_21.jpg",
     "seasonNo": 3,
     "cardNo": 21,
-    "uid": "003021"
+    "uid": "003021",
+    "effectText": "相手のエリアエンチャントを相手のデッキの上に置く"
   },
   {
     "id": "3rd_022",
@@ -3579,7 +3777,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_22.jpg",
     "seasonNo": 3,
     "cardNo": 22,
-    "uid": "003022"
+    "uid": "003022",
+    "effectText": "アビスに4属性すべてのカードがあるなら攻撃力 +40"
   },
   {
     "id": "3rd_023",
@@ -3597,7 +3796,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_23.jpg",
     "seasonNo": 3,
     "cardNo": 23,
-    "uid": "003023"
+    "uid": "003023",
+    "effectText": "相手のパワーチャージャーのカードが炎属性だけだったなら攻撃力 +40"
   },
   {
     "id": "3rd_024",
@@ -3615,7 +3815,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_24.jpg",
     "seasonNo": 3,
     "cardNo": 24,
-    "uid": "003024"
+    "uid": "003024",
+    "effectText": ""
   },
   {
     "id": "3rd_025",
@@ -3633,7 +3834,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_25.jpg",
     "seasonNo": 3,
     "cardNo": 25,
-    "uid": "003025"
+    "uid": "003025",
+    "effectText": "真夜中なら攻撃力 +70"
   },
   {
     "id": "3rd_026",
@@ -3651,7 +3853,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_26.jpg",
     "seasonNo": 3,
     "cardNo": 26,
-    "uid": "003026"
+    "uid": "003026",
+    "effectText": "真夜中の前後2マスも真夜中として扱う"
   },
   {
     "id": "3rd_027",
@@ -3669,7 +3872,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_27.jpg",
     "seasonNo": 3,
     "cardNo": 27,
-    "uid": "003027"
+    "uid": "003027",
+    "effectText": "相手のHPを50回復させ、ターン終了時に50ダメージを与える"
   },
   {
     "id": "3rd_028",
@@ -3687,7 +3891,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_28.jpg",
     "seasonNo": 3,
     "cardNo": 28,
-    "uid": "003028"
+    "uid": "003028",
+    "effectText": "パワーチャージャーのカードが炎属性だけだったなら攻撃力 +80"
   },
   {
     "id": "3rd_029",
@@ -3705,7 +3910,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_29.jpg",
     "seasonNo": 3,
     "cardNo": 29,
-    "uid": "003029"
+    "uid": "003029",
+    "effectText": "昼なら攻撃力 +50"
   },
   {
     "id": "3rd_030",
@@ -3723,7 +3929,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_30.jpg",
     "seasonNo": 3,
     "cardNo": 30,
-    "uid": "003030"
+    "uid": "003030",
+    "effectText": "アビスに電気属性のカードが3枚以上あるなら攻撃力 +70"
   },
   {
     "id": "3rd_031",
@@ -3741,7 +3948,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_31.jpg",
     "seasonNo": 3,
     "cardNo": 31,
-    "uid": "003031"
+    "uid": "003031",
+    "effectText": "手札からパワーの有無に関わらずカード1枚を選び、アビスに置く。デッキからカードを1枚引く"
   },
   {
     "id": "3rd_032",
@@ -3759,7 +3967,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_32.jpg",
     "seasonNo": 3,
     "cardNo": 32,
-    "uid": "003032"
+    "uid": "003032",
+    "effectText": "アビスに風属性のカードが3枚以上あるなら攻撃力 +80"
   },
   {
     "id": "3rd_033",
@@ -3777,7 +3986,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_33.jpg",
     "seasonNo": 3,
     "cardNo": 33,
-    "uid": "003033"
+    "uid": "003033",
+    "effectText": "昼なら、時計を2つ進める"
   },
   {
     "id": "3rd_034",
@@ -3795,7 +4005,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_34.jpg",
     "seasonNo": 3,
     "cardNo": 34,
-    "uid": "003034"
+    "uid": "003034",
+    "effectText": ""
   },
   {
     "id": "3rd_035",
@@ -3813,7 +4024,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_35.jpg",
     "seasonNo": 3,
     "cardNo": 35,
-    "uid": "003035"
+    "uid": "003035",
+    "effectText": ""
   },
   {
     "id": "3rd_036",
@@ -3831,7 +4043,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_36.jpg",
     "seasonNo": 3,
     "cardNo": 36,
-    "uid": "003036"
+    "uid": "003036",
+    "effectText": "パワーチャージャーのカードが闇属性だけだったなら攻撃力 +30"
   },
   {
     "id": "3rd_037",
@@ -3849,7 +4062,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_37.jpg",
     "seasonNo": 3,
     "cardNo": 37,
-    "uid": "003037"
+    "uid": "003037",
+    "effectText": ""
   },
   {
     "id": "3rd_038",
@@ -3867,7 +4081,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_38.jpg",
     "seasonNo": 3,
     "cardNo": 38,
-    "uid": "003038"
+    "uid": "003038",
+    "effectText": ""
   },
   {
     "id": "3rd_039",
@@ -3885,7 +4100,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_39.jpg",
     "seasonNo": 3,
     "cardNo": 39,
-    "uid": "003039"
+    "uid": "003039",
+    "effectText": "相手のパワーチャージャーのカードが電気属性だけだったなら攻撃力 +50"
   },
   {
     "id": "3rd_040",
@@ -3903,7 +4119,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_40.jpg",
     "seasonNo": 3,
     "cardNo": 40,
-    "uid": "003040"
+    "uid": "003040",
+    "effectText": "パワーチャージャーのカードが炎属性だけだったなら攻撃力 +20"
   },
   {
     "id": "3rd_041",
@@ -3921,7 +4138,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_41.jpg",
     "seasonNo": 3,
     "cardNo": 41,
-    "uid": "003041"
+    "uid": "003041",
+    "effectText": ""
   },
   {
     "id": "3rd_042",
@@ -3939,7 +4157,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_42.jpg",
     "seasonNo": 3,
     "cardNo": 42,
-    "uid": "003042"
+    "uid": "003042",
+    "effectText": "相手のHPが100なら攻撃力 +50"
   },
   {
     "id": "3rd_043",
@@ -3957,7 +4176,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_43.jpg",
     "seasonNo": 3,
     "cardNo": 43,
-    "uid": "003043"
+    "uid": "003043",
+    "effectText": ""
   },
   {
     "id": "3rd_044",
@@ -3975,7 +4195,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_44.jpg",
     "seasonNo": 3,
     "cardNo": 44,
-    "uid": "003044"
+    "uid": "003044",
+    "effectText": ""
   },
   {
     "id": "3rd_045",
@@ -3993,7 +4214,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_45.jpg",
     "seasonNo": 3,
     "cardNo": 45,
-    "uid": "003045"
+    "uid": "003045",
+    "effectText": "相手の手札を公開する"
   },
   {
     "id": "3rd_046",
@@ -4011,7 +4233,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_46.jpg",
     "seasonNo": 3,
     "cardNo": 46,
-    "uid": "003046"
+    "uid": "003046",
+    "effectText": ""
   },
   {
     "id": "3rd_047",
@@ -4029,7 +4252,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_47.jpg",
     "seasonNo": 3,
     "cardNo": 47,
-    "uid": "003047"
+    "uid": "003047",
+    "effectText": "カード名を1つ指定する。相手の手札から1枚を選んで公開し、そのカード名のカードなら攻撃力 +50"
   },
   {
     "id": "3rd_048",
@@ -4047,7 +4271,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_48.jpg",
     "seasonNo": 3,
     "cardNo": 48,
-    "uid": "003048"
+    "uid": "003048",
+    "effectText": ""
   },
   {
     "id": "3rd_049",
@@ -4065,7 +4290,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_49.jpg",
     "seasonNo": 3,
     "cardNo": 49,
-    "uid": "003049"
+    "uid": "003049",
+    "effectText": ""
   },
   {
     "id": "3rd_050",
@@ -4083,7 +4309,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_50.jpg",
     "seasonNo": 3,
     "cardNo": 50,
-    "uid": "003050"
+    "uid": "003050",
+    "effectText": ""
   },
   {
     "id": "3rd_051",
@@ -4101,7 +4328,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_51.jpg",
     "seasonNo": 3,
     "cardNo": 51,
-    "uid": "003051"
+    "uid": "003051",
+    "effectText": "アビスに3属性のカードがあるなら攻撃力 +40"
   },
   {
     "id": "3rd_052",
@@ -4119,7 +4347,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_52.jpg",
     "seasonNo": 3,
     "cardNo": 52,
-    "uid": "003052"
+    "uid": "003052",
+    "effectText": "パワーチャージャーのカードが風属性だけだったなら攻撃力 +40"
   },
   {
     "id": "3rd_053",
@@ -4137,7 +4366,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_53.jpg",
     "seasonNo": 3,
     "cardNo": 53,
-    "uid": "003053"
+    "uid": "003053",
+    "effectText": "夜なら攻撃力 +40"
   },
   {
     "id": "3rd_054",
@@ -4155,7 +4385,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_54.jpg",
     "seasonNo": 3,
     "cardNo": 54,
-    "uid": "003054"
+    "uid": "003054",
+    "effectText": "自分のキャラクターカードの属性が闇なら攻撃力 +60"
   },
   {
     "id": "3rd_055",
@@ -4173,7 +4404,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_55.jpg",
     "seasonNo": 3,
     "cardNo": 55,
-    "uid": "003055"
+    "uid": "003055",
+    "effectText": "相手のエリアエンチャントをデッキの底に戻し、以後相手はエリアエンチャントをセットできない。相手がアビスにカードを置いたターンの終了時にパワーチャージャーに置く"
   },
   {
     "id": "3rd_056",
@@ -4191,7 +4423,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_56.jpg",
     "seasonNo": 3,
     "cardNo": 56,
-    "uid": "003056"
+    "uid": "003056",
+    "effectText": "パワーチャージャーのカードが3枚以下なら攻撃力 +50"
   },
   {
     "id": "3rd_057",
@@ -4209,7 +4442,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_57.jpg",
     "seasonNo": 3,
     "cardNo": 57,
-    "uid": "003057"
+    "uid": "003057",
+    "effectText": "アビスに炎属性のカードが4枚以上あるなら攻撃力 +70"
   },
   {
     "id": "3rd_058",
@@ -4227,7 +4461,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_58.jpg",
     "seasonNo": 3,
     "cardNo": 58,
-    "uid": "003058"
+    "uid": "003058",
+    "effectText": "ターンの終了時に、お互いのHPを10回復。30ダメージ以上を受けたなら、すぐにアビスに置く"
   },
   {
     "id": "3rd_059",
@@ -4245,7 +4480,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_59.jpg",
     "seasonNo": 3,
     "cardNo": 59,
-    "uid": "003059"
+    "uid": "003059",
+    "effectText": "カード名を1つ指定する。相手の手札から1枚を選んで公開し、そのカード名のカードなら攻撃力 +100"
   },
   {
     "id": "3rd_060",
@@ -4263,7 +4499,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_60.jpg",
     "seasonNo": 3,
     "cardNo": 60,
-    "uid": "003060"
+    "uid": "003060",
+    "effectText": "アビスのカードが風属性だけだったなら攻撃力 +70"
   },
   {
     "id": "3rd_061",
@@ -4281,7 +4518,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_61.jpg",
     "seasonNo": 3,
     "cardNo": 61,
-    "uid": "003061"
+    "uid": "003061",
+    "effectText": "すべてのカードの時計を1にする。ターンの終了時に、相手のフィールドにエリアエンチャントがあるならパワーチャージャーに置く"
   },
   {
     "id": "3rd_062",
@@ -4299,7 +4537,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_62.jpg",
     "seasonNo": 3,
     "cardNo": 62,
-    "uid": "003062"
+    "uid": "003062",
+    "effectText": "アビスに3属性のカードがあるなら攻撃力 +50"
   },
   {
     "id": "3rd_063",
@@ -4317,7 +4556,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_63.jpg",
     "seasonNo": 3,
     "cardNo": 63,
-    "uid": "003063"
+    "uid": "003063",
+    "effectText": "アビスのカードが電気属性だけだったなら攻撃力 +60"
   },
   {
     "id": "3rd_064",
@@ -4335,7 +4575,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_64.jpg",
     "seasonNo": 3,
     "cardNo": 64,
-    "uid": "003064"
+    "uid": "003064",
+    "effectText": "お互いの自分のHPの分だけ攻撃力+。相手のHPが40以下になったターンの終了時にアビスに置く"
   },
   {
     "id": "3rd_065",
@@ -4353,7 +4594,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_65.jpg",
     "seasonNo": 3,
     "cardNo": 65,
-    "uid": "003065"
+    "uid": "003065",
+    "effectText": ""
   },
   {
     "id": "3rd_066",
@@ -4371,7 +4613,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_66.jpg",
     "seasonNo": 3,
     "cardNo": 66,
-    "uid": "003066"
+    "uid": "003066",
+    "effectText": ""
   },
   {
     "id": "3rd_067",
@@ -4389,7 +4632,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_67.jpg",
     "seasonNo": 3,
     "cardNo": 67,
-    "uid": "003067"
+    "uid": "003067",
+    "effectText": ""
   },
   {
     "id": "3rd_068",
@@ -4407,7 +4651,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_68.jpg",
     "seasonNo": 3,
     "cardNo": 68,
-    "uid": "003068"
+    "uid": "003068",
+    "effectText": ""
   },
   {
     "id": "3rd_069",
@@ -4425,7 +4670,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_69.jpg",
     "seasonNo": 3,
     "cardNo": 69,
-    "uid": "003069"
+    "uid": "003069",
+    "effectText": ""
   },
   {
     "id": "3rd_070",
@@ -4443,7 +4689,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_70.jpg",
     "seasonNo": 3,
     "cardNo": 70,
-    "uid": "003070"
+    "uid": "003070",
+    "effectText": ""
   },
   {
     "id": "3rd_071",
@@ -4461,7 +4708,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_71.jpg",
     "seasonNo": 3,
     "cardNo": 71,
-    "uid": "003071"
+    "uid": "003071",
+    "effectText": ""
   },
   {
     "id": "3rd_072",
@@ -4479,7 +4727,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_72.jpg",
     "seasonNo": 3,
     "cardNo": 72,
-    "uid": "003072"
+    "uid": "003072",
+    "effectText": ""
   },
   {
     "id": "3rd_073",
@@ -4497,7 +4746,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_73.jpg",
     "seasonNo": 3,
     "cardNo": 73,
-    "uid": "003073"
+    "uid": "003073",
+    "effectText": ""
   },
   {
     "id": "3rd_074",
@@ -4515,7 +4765,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_74.jpg",
     "seasonNo": 3,
     "cardNo": 74,
-    "uid": "003074"
+    "uid": "003074",
+    "effectText": ""
   },
   {
     "id": "3rd_075",
@@ -4533,7 +4784,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_75.jpg",
     "seasonNo": 3,
     "cardNo": 75,
-    "uid": "003075"
+    "uid": "003075",
+    "effectText": ""
   },
   {
     "id": "3rd_076",
@@ -4551,7 +4803,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_76.jpg",
     "seasonNo": 3,
     "cardNo": 76,
-    "uid": "003076"
+    "uid": "003076",
+    "effectText": ""
   },
   {
     "id": "3rd_077",
@@ -4569,7 +4822,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_77.jpg",
     "seasonNo": 3,
     "cardNo": 77,
-    "uid": "003077"
+    "uid": "003077",
+    "effectText": ""
   },
   {
     "id": "3rd_078",
@@ -4587,7 +4841,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_78.jpg",
     "seasonNo": 3,
     "cardNo": 78,
-    "uid": "003078"
+    "uid": "003078",
+    "effectText": ""
   },
   {
     "id": "3rd_079",
@@ -4605,7 +4860,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_79.jpg",
     "seasonNo": 3,
     "cardNo": 79,
-    "uid": "003079"
+    "uid": "003079",
+    "effectText": ""
   },
   {
     "id": "3rd_080",
@@ -4623,7 +4879,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_80.jpg",
     "seasonNo": 3,
     "cardNo": 80,
-    "uid": "003080"
+    "uid": "003080",
+    "effectText": ""
   },
   {
     "id": "3rd_081",
@@ -4641,7 +4898,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_81.jpg",
     "seasonNo": 3,
     "cardNo": 81,
-    "uid": "003081"
+    "uid": "003081",
+    "effectText": "自分のキャラクターカードの属性が炎なら攻撃力 +20"
   },
   {
     "id": "3rd_082",
@@ -4659,7 +4917,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_82.jpg",
     "seasonNo": 3,
     "cardNo": 82,
-    "uid": "003082"
+    "uid": "003082",
+    "effectText": "パワーチャージャーのカードが闇属性だけだったなら攻撃力 +40"
   },
   {
     "id": "3rd_083",
@@ -4677,7 +4936,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_83.jpg",
     "seasonNo": 3,
     "cardNo": 83,
-    "uid": "003083"
+    "uid": "003083",
+    "effectText": "アビスに闇属性のカードが4枚以上あるなら攻撃力 +60"
   },
   {
     "id": "3rd_084",
@@ -4695,7 +4955,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_84.jpg",
     "seasonNo": 3,
     "cardNo": 84,
-    "uid": "003084"
+    "uid": "003084",
+    "effectText": "アビスのカードが炎属性だけだったなら攻撃力 +70"
   },
   {
     "id": "3rd_085",
@@ -4713,7 +4974,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_85.jpg",
     "seasonNo": 3,
     "cardNo": 85,
-    "uid": "003085"
+    "uid": "003085",
+    "effectText": "ターンの終了時に、昼なら時計を2つ進める。30ダメージ以上を受けたなら、すぐにアビスに置く"
   },
   {
     "id": "3rd_086",
@@ -4731,7 +4993,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_86.jpg",
     "seasonNo": 3,
     "cardNo": 86,
-    "uid": "003086"
+    "uid": "003086",
+    "effectText": "アビスの闇属性のカード1枚につき、攻撃力+10。アビスのカードが4枚以上になったターンの終了時にアビスに置く"
   },
   {
     "id": "3rd_087",
@@ -4749,7 +5012,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_87.jpg",
     "seasonNo": 3,
     "cardNo": 87,
-    "uid": "003087"
+    "uid": "003087",
+    "effectText": "相手のHPが100なら攻撃力 +40"
   },
   {
     "id": "3rd_088",
@@ -4767,7 +5031,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_88.jpg",
     "seasonNo": 3,
     "cardNo": 88,
-    "uid": "003088"
+    "uid": "003088",
+    "effectText": "アビスのカードが闇属性だけだったなら攻撃力 +30"
   },
   {
     "id": "3rd_089",
@@ -4785,7 +5050,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_89.jpg",
     "seasonNo": 3,
     "cardNo": 89,
-    "uid": "003089"
+    "uid": "003089",
+    "effectText": "自分のキャラクターカードの属性が闇なら攻撃力 +50"
   },
   {
     "id": "3rd_090",
@@ -4803,7 +5069,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_90.jpg",
     "seasonNo": 3,
     "cardNo": 90,
-    "uid": "003090"
+    "uid": "003090",
+    "effectText": "自分のキャラクターカードの属性が炎なら攻撃力 +30"
   },
   {
     "id": "3rd_091",
@@ -4821,7 +5088,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_91.jpg",
     "seasonNo": 3,
     "cardNo": 91,
-    "uid": "003091"
+    "uid": "003091",
+    "effectText": "自分のキャラクターカードのパワーコストが3以上なら攻撃力+20。相手がアビスにカードを置いたターンの終了時にパワーチャージャーに置く"
   },
   {
     "id": "3rd_092",
@@ -4839,7 +5107,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_92.jpg",
     "seasonNo": 3,
     "cardNo": 92,
-    "uid": "003092"
+    "uid": "003092",
+    "effectText": "アビスの炎属性のカード1枚につき、攻撃力+10。アビスのカードが4枚以上になったターンの終了時にアビスに置く"
   },
   {
     "id": "3rd_093",
@@ -4857,7 +5126,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_93.jpg",
     "seasonNo": 3,
     "cardNo": 93,
-    "uid": "003093"
+    "uid": "003093",
+    "effectText": "自分のキャラクターカードの属性が風なら攻撃力 +30"
   },
   {
     "id": "3rd_094",
@@ -4875,7 +5145,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_94.jpg",
     "seasonNo": 3,
     "cardNo": 94,
-    "uid": "003094"
+    "uid": "003094",
+    "effectText": "カード名を1つ指定する。相手の手札から1枚を選んで公開し、そのカード名のカードなら攻撃力 +40"
   },
   {
     "id": "3rd_095",
@@ -4893,7 +5164,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_95.jpg",
     "seasonNo": 3,
     "cardNo": 95,
-    "uid": "003095"
+    "uid": "003095",
+    "effectText": "パワーチャージャーのカードが電気属性だけだったなら攻撃力 +50"
   },
   {
     "id": "3rd_096",
@@ -4911,7 +5183,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_96.jpg",
     "seasonNo": 3,
     "cardNo": 96,
-    "uid": "003096"
+    "uid": "003096",
+    "effectText": "自分のキャラクターカードの属性が電気なら攻撃力 +50"
   },
   {
     "id": "3rd_097",
@@ -4929,7 +5202,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_97.jpg",
     "seasonNo": 3,
     "cardNo": 97,
-    "uid": "003097"
+    "uid": "003097",
+    "effectText": "相手はターンの開始時にデッキの一番上を公開する。パワーコストが6以上のカードが山札から公開されたらパワーチャージャーに置く"
   },
   {
     "id": "3rd_098",
@@ -4947,7 +5221,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_98.jpg",
     "seasonNo": 3,
     "cardNo": 98,
-    "uid": "003098"
+    "uid": "003098",
+    "effectText": "アビスの電気属性のカード1枚につき、攻撃力+10。アビスのカードが4枚以上になったターンの終了時にアビスに置く"
   },
   {
     "id": "3rd_099",
@@ -4965,7 +5240,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_99.jpg",
     "seasonNo": 3,
     "cardNo": 99,
-    "uid": "003099"
+    "uid": "003099",
+    "effectText": "自分のキャラクターカードの属性が風なら攻撃力 +30"
   },
   {
     "id": "3rd_100",
@@ -4983,7 +5259,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_100.jpg",
     "seasonNo": 3,
     "cardNo": 100,
-    "uid": "003100"
+    "uid": "003100",
+    "effectText": "自分のキャラクターカードの属性が電気なら攻撃力 +40"
   },
   {
     "id": "3rd_101",
@@ -5001,7 +5278,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_101.jpg",
     "seasonNo": 3,
     "cardNo": 101,
-    "uid": "003101"
+    "uid": "003101",
+    "effectText": "アビスのカードが2枚以上なら攻撃力 +40"
   },
   {
     "id": "3rd_102",
@@ -5019,7 +5297,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_102.jpg",
     "seasonNo": 3,
     "cardNo": 102,
-    "uid": "003102"
+    "uid": "003102",
+    "effectText": "パワーチャージャーのカードが風属性だけだったなら攻撃力 +40"
   },
   {
     "id": "3rd_103",
@@ -5037,7 +5316,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_103.jpg",
     "seasonNo": 3,
     "cardNo": 103,
-    "uid": "003103"
+    "uid": "003103",
+    "effectText": "ターンの開始時に相手のデッキの一番上を公開する。相手のカードに SEND TO POWER が無ければ自分の攻撃力 +30。SEND TO POWER があったなら、すぐにこのカードをパワーチャージャーに置く"
   },
   {
     "id": "3rd_104",
@@ -5055,7 +5335,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_104.jpg",
     "seasonNo": 3,
     "cardNo": 104,
-    "uid": "003104"
+    "uid": "003104",
+    "effectText": "アビスの風属性のカード1枚につき、攻撃力+10。アビスのカードが4枚以上になったターンの終了時にアビスに置く"
   },
   {
     "id": "3rd_105",
@@ -5073,7 +5354,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_105.jpg",
     "seasonNo": 3,
     "cardNo": 105,
-    "uid": "003105"
+    "uid": "003105",
+    "effectText": "カード名を1つ指定する。相手の手札から1枚を選んで公開し、そのカード名のカードなら攻撃力 +100"
   },
   {
     "id": "3rd_106",
@@ -5091,7 +5373,8 @@
     "imagePath": "/images/cards/Zutomayocard_3rd/zutomayocard_3rd_106.jpg",
     "seasonNo": 3,
     "cardNo": 106,
-    "uid": "003106"
+    "uid": "003106",
+    "effectText": "相手のHPが100なら攻撃力 +100"
   },
   {
     "id": "4th_001",
@@ -5109,7 +5392,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_001.jpg",
     "seasonNo": 4,
     "cardNo": 1,
-    "uid": "004001"
+    "uid": "004001",
+    "effectText": "手札から (TAIDADA) のキャラクターを好きな枚数公開し、その数だけ攻撃力 +30"
   },
   {
     "id": "4th_002",
@@ -5127,7 +5411,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_002.jpg",
     "seasonNo": 4,
     "cardNo": 2,
-    "uid": "004002"
+    "uid": "004002",
+    "effectText": "パワーチャージャーから (シェードの埃は延長) のキャラクターを2枚まで選び、このカードの効果として使用する"
   },
   {
     "id": "4th_003",
@@ -5145,7 +5430,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_003.jpg",
     "seasonNo": 4,
     "cardNo": 3,
-    "uid": "004003"
+    "uid": "004003",
+    "effectText": ""
   },
   {
     "id": "4th_004",
@@ -5163,7 +5449,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_004.jpg",
     "seasonNo": 4,
     "cardNo": 4,
-    "uid": "004004"
+    "uid": "004004",
+    "effectText": ""
   },
   {
     "id": "4th_005",
@@ -5181,7 +5468,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_005.jpg",
     "seasonNo": 4,
     "cardNo": 5,
-    "uid": "004005"
+    "uid": "004005",
+    "effectText": "アビスにある風属性のカードの数だけ、攻撃力 +20"
   },
   {
     "id": "4th_006",
@@ -5199,7 +5487,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_006.jpg",
     "seasonNo": 4,
     "cardNo": 6,
-    "uid": "004006"
+    "uid": "004006",
+    "effectText": "アビスのカードを4枚選び、裏向きにして混ぜ、デッキの底に置く。そうしない場合、ゲームに敗北する。相手のパワーチャージャーのキャラクターを1枚選び、バトルゾーンのキャラクターと入れ替える。この効果で出したキャラクターの効果は発動しない"
   },
   {
     "id": "4th_007",
@@ -5217,7 +5506,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_007.jpg",
     "seasonNo": 4,
     "cardNo": 7,
-    "uid": "004007"
+    "uid": "004007",
+    "effectText": "手札から (TAIDADA) のキャラクターを好きな枚数公開し、その数だけ攻撃力 +20"
   },
   {
     "id": "4th_008",
@@ -5235,7 +5525,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_008.jpg",
     "seasonNo": 4,
     "cardNo": 8,
-    "uid": "004008"
+    "uid": "004008",
+    "effectText": "手札を公開し、4属性以上あるなら、攻撃力 +80"
   },
   {
     "id": "4th_009",
@@ -5253,7 +5544,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_009.jpg",
     "seasonNo": 4,
     "cardNo": 9,
-    "uid": "004009"
+    "uid": "004009",
+    "effectText": "アビスに3枚以上カードがあるなら、相手のキャラクターの攻撃力 -30"
   },
   {
     "id": "4th_010",
@@ -5271,7 +5563,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_010.jpg",
     "seasonNo": 4,
     "cardNo": 10,
-    "uid": "004010"
+    "uid": "004010",
+    "effectText": "手札から (TAIDADA) のキャラクターを好きな枚数公開し、その数だけ攻撃力 +20"
   },
   {
     "id": "4th_011",
@@ -5289,7 +5582,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_011.jpg",
     "seasonNo": 4,
     "cardNo": 11,
-    "uid": "004011"
+    "uid": "004011",
+    "effectText": "相手のアビスにカードがないなら、攻撃力 +50"
   },
   {
     "id": "4th_013",
@@ -5307,7 +5601,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_013.jpg",
     "seasonNo": 4,
     "cardNo": 13,
-    "uid": "004013"
+    "uid": "004013",
+    "effectText": ""
   },
   {
     "id": "4th_014",
@@ -5325,7 +5620,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_014.jpg",
     "seasonNo": 4,
     "cardNo": 14,
-    "uid": "004014"
+    "uid": "004014",
+    "effectText": "パワーチャージャーが闇属性だけなら、攻撃力 +60"
   },
   {
     "id": "4th_015",
@@ -5343,7 +5639,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_015.jpg",
     "seasonNo": 4,
     "cardNo": 15,
-    "uid": "004015"
+    "uid": "004015",
+    "effectText": ""
   },
   {
     "id": "4th_016",
@@ -5361,7 +5658,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_016.jpg",
     "seasonNo": 4,
     "cardNo": 16,
-    "uid": "004016"
+    "uid": "004016",
+    "effectText": ""
   },
   {
     "id": "4th_017",
@@ -5379,7 +5677,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_017.jpg",
     "seasonNo": 4,
     "cardNo": 17,
-    "uid": "004017"
+    "uid": "004017",
+    "effectText": "パワーチャージャーが炎属性だけなら、攻撃力 +50"
   },
   {
     "id": "4th_018",
@@ -5397,7 +5696,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_018.jpg",
     "seasonNo": 4,
     "cardNo": 18,
-    "uid": "004018"
+    "uid": "004018",
+    "effectText": ""
   },
   {
     "id": "4th_019",
@@ -5415,7 +5715,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_019.jpg",
     "seasonNo": 4,
     "cardNo": 19,
-    "uid": "004019"
+    "uid": "004019",
+    "effectText": ""
   },
   {
     "id": "4th_020",
@@ -5433,7 +5734,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_020.jpg",
     "seasonNo": 4,
     "cardNo": 20,
-    "uid": "004020"
+    "uid": "004020",
+    "effectText": "アビスにある電気属性のカードの数だけ、攻撃力 +20"
   },
   {
     "id": "4th_021",
@@ -5451,7 +5753,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_021.jpg",
     "seasonNo": 4,
     "cardNo": 21,
-    "uid": "004021"
+    "uid": "004021",
+    "effectText": ""
   },
   {
     "id": "4th_022",
@@ -5469,7 +5772,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_022.jpg",
     "seasonNo": 4,
     "cardNo": 22,
-    "uid": "004022"
+    "uid": "004022",
+    "effectText": ""
   },
   {
     "id": "4th_023",
@@ -5487,7 +5791,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_023.jpg",
     "seasonNo": 4,
     "cardNo": 23,
-    "uid": "004023"
+    "uid": "004023",
+    "effectText": "このターンに (お勉強しといてよ) のキャラクターと入れ替えていたなら、攻撃力 +100"
   },
   {
     "id": "4th_024",
@@ -5505,7 +5810,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_024.jpg",
     "seasonNo": 4,
     "cardNo": 24,
-    "uid": "004024"
+    "uid": "004024",
+    "effectText": "このターンに (お勉強しといてよ) のキャラクターと入れ替えていたなら、攻撃力 +110。このキャラクターが与えるダメージは軽減されない"
   },
   {
     "id": "4th_025",
@@ -5523,7 +5829,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_025.jpg",
     "seasonNo": 4,
     "cardNo": 25,
-    "uid": "004025"
+    "uid": "004025",
+    "effectText": ""
   },
   {
     "id": "4th_026",
@@ -5541,7 +5848,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_026.jpg",
     "seasonNo": 4,
     "cardNo": 26,
-    "uid": "004026"
+    "uid": "004026",
+    "effectText": ""
   },
   {
     "id": "4th_027",
@@ -5559,7 +5867,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_027.jpg",
     "seasonNo": 4,
     "cardNo": 27,
-    "uid": "004027"
+    "uid": "004027",
+    "effectText": "アビスのカードを1枚以上選び、裏向きにして混ぜ、デッキの底に置く。そうしない場合、ゲームに敗北する。相手のデッキの上から、それと同じ枚数をアビスに置く"
   },
   {
     "id": "4th_028",
@@ -5577,7 +5886,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_028.jpg",
     "seasonNo": 4,
     "cardNo": 28,
-    "uid": "004028"
+    "uid": "004028",
+    "effectText": "アビスのカードを6枚選び、裏向きにして混ぜ、デッキの底に置く。そうしない場合、ゲームに敗北する。クロノスを好きな時間にする"
   },
   {
     "id": "4th_029",
@@ -5595,7 +5905,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_029.jpg",
     "seasonNo": 4,
     "cardNo": 29,
-    "uid": "004029"
+    "uid": "004029",
+    "effectText": "相手のアビスにカードがないなら、攻撃力 +100"
   },
   {
     "id": "4th_030",
@@ -5613,7 +5924,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_030.jpg",
     "seasonNo": 4,
     "cardNo": 30,
-    "uid": "004030"
+    "uid": "004030",
+    "effectText": "相手のアビスにカードがないなら、攻撃力 +40。相手のアビスにカードが置かれたとき、すぐにこのカードをアビスに置く"
   },
   {
     "id": "4th_031",
@@ -5631,7 +5943,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_031.jpg",
     "seasonNo": 4,
     "cardNo": 31,
-    "uid": "004031"
+    "uid": "004031",
+    "effectText": "パワーチャージャーに4属性以上あるなら、攻撃力 +100"
   },
   {
     "id": "4th_032",
@@ -5649,7 +5962,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_032.jpg",
     "seasonNo": 4,
     "cardNo": 32,
-    "uid": "004032"
+    "uid": "004032",
+    "effectText": "手札を公開し、4属性以上あるなら、攻撃力 +50。相手のエリアエンチャントが置かれているなら、すぐにアビスに置く"
   },
   {
     "id": "4th_033",
@@ -5667,7 +5981,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_033.jpg",
     "seasonNo": 4,
     "cardNo": 33,
-    "uid": "004033"
+    "uid": "004033",
+    "effectText": "アビスにあるカードが風属性だけなら、攻撃力 +20。パワーチャージャーにカードを置いたとき、すぐにこのカードをアビスに置く"
   },
   {
     "id": "4th_034",
@@ -5685,7 +6000,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_034.jpg",
     "seasonNo": 4,
     "cardNo": 34,
-    "uid": "004034"
+    "uid": "004034",
+    "effectText": "相手のキャラクターの攻撃力が0なら、攻撃力 +30"
   },
   {
     "id": "4th_035",
@@ -5703,7 +6019,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_035.jpg",
     "seasonNo": 4,
     "cardNo": 35,
-    "uid": "004035"
+    "uid": "004035",
+    "effectText": "手札から (TAIDADA) のキャラクターを好きな枚数公開し、その数だけ攻撃力 +10"
   },
   {
     "id": "4th_036",
@@ -5721,7 +6038,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_036.jpg",
     "seasonNo": 4,
     "cardNo": 36,
-    "uid": "004036"
+    "uid": "004036",
+    "effectText": ""
   },
   {
     "id": "4th_037",
@@ -5739,7 +6057,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_037.jpg",
     "seasonNo": 4,
     "cardNo": 37,
-    "uid": "004037"
+    "uid": "004037",
+    "effectText": "パワーチャージャーが闇属性だけなら、攻撃力 +20"
   },
   {
     "id": "4th_038",
@@ -5757,7 +6076,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_038.jpg",
     "seasonNo": 4,
     "cardNo": 38,
-    "uid": "004038"
+    "uid": "004038",
+    "effectText": ""
   },
   {
     "id": "4th_039",
@@ -5775,7 +6095,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_039.jpg",
     "seasonNo": 4,
     "cardNo": 39,
-    "uid": "004039"
+    "uid": "004039",
+    "effectText": "相手のキャラクターの攻撃力が0なら、攻撃力 +40"
   },
   {
     "id": "4th_040",
@@ -5793,7 +6114,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_040.jpg",
     "seasonNo": 4,
     "cardNo": 40,
-    "uid": "004040"
+    "uid": "004040",
+    "effectText": ""
   },
   {
     "id": "4th_041",
@@ -5811,7 +6133,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_041.jpg",
     "seasonNo": 4,
     "cardNo": 41,
-    "uid": "004041"
+    "uid": "004041",
+    "effectText": "このターンに (シェードの埃は延長) のキャラクターと入れ替えていたなら、相手のエンチャントの効果をすべて無効にする (すでに処理された効果は無効にできない)"
   },
   {
     "id": "4th_042",
@@ -5829,7 +6152,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_042.jpg",
     "seasonNo": 4,
     "cardNo": 42,
-    "uid": "004042"
+    "uid": "004042",
+    "effectText": ""
   },
   {
     "id": "4th_043",
@@ -5847,7 +6171,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_043.jpg",
     "seasonNo": 4,
     "cardNo": 43,
-    "uid": "004043"
+    "uid": "004043",
+    "effectText": ""
   },
   {
     "id": "4th_044",
@@ -5865,7 +6190,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_044.jpg",
     "seasonNo": 4,
     "cardNo": 44,
-    "uid": "004044"
+    "uid": "004044",
+    "effectText": ""
   },
   {
     "id": "4th_045",
@@ -5883,7 +6209,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_045.jpg",
     "seasonNo": 4,
     "cardNo": 45,
-    "uid": "004045"
+    "uid": "004045",
+    "effectText": ""
   },
   {
     "id": "4th_046",
@@ -5901,7 +6228,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_046.jpg",
     "seasonNo": 4,
     "cardNo": 46,
-    "uid": "004046"
+    "uid": "004046",
+    "effectText": ""
   },
   {
     "id": "4th_047",
@@ -5919,7 +6247,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_047.jpg",
     "seasonNo": 4,
     "cardNo": 47,
-    "uid": "004047"
+    "uid": "004047",
+    "effectText": ""
   },
   {
     "id": "4th_048",
@@ -5937,7 +6266,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_048.jpg",
     "seasonNo": 4,
     "cardNo": 48,
-    "uid": "004048"
+    "uid": "004048",
+    "effectText": ""
   },
   {
     "id": "4th_049",
@@ -5955,7 +6285,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_049.jpg",
     "seasonNo": 4,
     "cardNo": 49,
-    "uid": "004049"
+    "uid": "004049",
+    "effectText": ""
   },
   {
     "id": "4th_050",
@@ -5973,7 +6304,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_050.jpg",
     "seasonNo": 4,
     "cardNo": 50,
-    "uid": "004050"
+    "uid": "004050",
+    "effectText": ""
   },
   {
     "id": "4th_051",
@@ -5991,7 +6323,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_051.jpg",
     "seasonNo": 4,
     "cardNo": 51,
-    "uid": "004051"
+    "uid": "004051",
+    "effectText": ""
   },
   {
     "id": "4th_052",
@@ -6009,7 +6342,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_052.jpg",
     "seasonNo": 4,
     "cardNo": 52,
-    "uid": "004052"
+    "uid": "004052",
+    "effectText": ""
   },
   {
     "id": "4th_053",
@@ -6027,7 +6361,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_053.jpg",
     "seasonNo": 4,
     "cardNo": 53,
-    "uid": "004053"
+    "uid": "004053",
+    "effectText": "手札にある (お勉強しといてよ) のキャラクターを1枚選び、パワーチャージャーに置いてもよい。そうしたなら、カードを1枚引く"
   },
   {
     "id": "4th_054",
@@ -6045,7 +6380,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_054.jpg",
     "seasonNo": 4,
     "cardNo": 54,
-    "uid": "004054"
+    "uid": "004054",
+    "effectText": "手札から電気属性のカードを1枚選び、アビスに置く。そうしたならカードを1枚引く"
   },
   {
     "id": "4th_055",
@@ -6063,7 +6399,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_055.jpg",
     "seasonNo": 4,
     "cardNo": 55,
-    "uid": "004055"
+    "uid": "004055",
+    "effectText": "バトルゾーンのカードが (TAIDADA) のキャラクターなら、HP+20"
   },
   {
     "id": "4th_056",
@@ -6081,7 +6418,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_056.jpg",
     "seasonNo": 4,
     "cardNo": 56,
-    "uid": "004056"
+    "uid": "004056",
+    "effectText": "相手のアビスにカードがないなら、攻撃力 +50"
   },
   {
     "id": "4th_057",
@@ -6099,7 +6437,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_057.jpg",
     "seasonNo": 4,
     "cardNo": 57,
-    "uid": "004057"
+    "uid": "004057",
+    "effectText": "アビスに3枚以上のカードがあるなら、相手のデッキの上から2枚を相手のアビスに置く"
   },
   {
     "id": "4th_058",
@@ -6117,7 +6456,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_058.jpg",
     "seasonNo": 4,
     "cardNo": 58,
-    "uid": "004058"
+    "uid": "004058",
+    "effectText": "手札から風属性のカードを1枚選び、アビスに置く。そうしたならカードを1枚引く"
   },
   {
     "id": "4th_059",
@@ -6135,7 +6475,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_059.jpg",
     "seasonNo": 4,
     "cardNo": 59,
-    "uid": "004059"
+    "uid": "004059",
+    "effectText": "パワーチャージャーに3属性以上あるなら、HP+50"
   },
   {
     "id": "4th_060",
@@ -6153,7 +6494,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_060.jpg",
     "seasonNo": 4,
     "cardNo": 60,
-    "uid": "004060"
+    "uid": "004060",
+    "effectText": "相手のキャラクターの SEND TO POWER が✦✦なら、攻撃力 +20"
   },
   {
     "id": "4th_061",
@@ -6171,7 +6513,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_061.jpg",
     "seasonNo": 4,
     "cardNo": 61,
-    "uid": "004061"
+    "uid": "004061",
+    "effectText": "手札からカードを好きな枚数選び、デッキの底に置く。そうしたなら、同じ数だけデッキからカードを引く"
   },
   {
     "id": "4th_062",
@@ -6189,7 +6532,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_062.jpg",
     "seasonNo": 4,
     "cardNo": 62,
-    "uid": "004062"
+    "uid": "004062",
+    "effectText": "手札から闇属性のカードを好きな枚数選び、アビスに置く。そうしたなら、同じ数だけカードを引く"
   },
   {
     "id": "4th_063",
@@ -6207,7 +6551,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_063.jpg",
     "seasonNo": 4,
     "cardNo": 63,
-    "uid": "004063"
+    "uid": "004063",
+    "effectText": "手札から炎属性のカードを好きな枚数選び、アビスに置く。そうしたなら、同じ数だけカードを引く"
   },
   {
     "id": "4th_064",
@@ -6225,7 +6570,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_064.jpg",
     "seasonNo": 4,
     "cardNo": 64,
-    "uid": "004064"
+    "uid": "004064",
+    "effectText": "アビスにあるカードが風属性だけなら、攻撃力 +60"
   },
   {
     "id": "4th_065",
@@ -6243,7 +6589,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_065.jpg",
     "seasonNo": 4,
     "cardNo": 65,
-    "uid": "004065"
+    "uid": "004065",
+    "effectText": "バトルゾーンのカードが (お勉強しといてよ) なら、そのキャラクターのパワーコストを✦✦減らす。バトルゾーンのキャラクターを (お勉強しといてよ) 以外のキャラクターに入れ替えたら、すぐにアビスに置く"
   },
   {
     "id": "4th_066",
@@ -6261,7 +6608,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_066.jpg",
     "seasonNo": 4,
     "cardNo": 66,
-    "uid": "004066"
+    "uid": "004066",
+    "effectText": "相手のキャラクターの SEND TO POWER が✦✦なら、攻撃力 +30"
   },
   {
     "id": "4th_067",
@@ -6279,7 +6627,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_067.jpg",
     "seasonNo": 4,
     "cardNo": 67,
-    "uid": "004067"
+    "uid": "004067",
+    "effectText": ""
   },
   {
     "id": "4th_068",
@@ -6297,7 +6646,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_068.jpg",
     "seasonNo": 4,
     "cardNo": 68,
-    "uid": "004068"
+    "uid": "004068",
+    "effectText": ""
   },
   {
     "id": "4th_069",
@@ -6315,7 +6665,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_069.jpg",
     "seasonNo": 4,
     "cardNo": 69,
-    "uid": "004069"
+    "uid": "004069",
+    "effectText": ""
   },
   {
     "id": "4th_070",
@@ -6333,7 +6684,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_070.jpg",
     "seasonNo": 4,
     "cardNo": 70,
-    "uid": "004070"
+    "uid": "004070",
+    "effectText": ""
   },
   {
     "id": "4th_071",
@@ -6351,7 +6703,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_071.jpg",
     "seasonNo": 4,
     "cardNo": 71,
-    "uid": "004071"
+    "uid": "004071",
+    "effectText": ""
   },
   {
     "id": "4th_072",
@@ -6369,7 +6722,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_072.jpg",
     "seasonNo": 4,
     "cardNo": 72,
-    "uid": "004072"
+    "uid": "004072",
+    "effectText": ""
   },
   {
     "id": "4th_073",
@@ -6387,7 +6741,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_073.jpg",
     "seasonNo": 4,
     "cardNo": 73,
-    "uid": "004073"
+    "uid": "004073",
+    "effectText": "このターンに (シェードの埃は延長) のキャラクターと入れ替えていたなら、HP+20"
   },
   {
     "id": "4th_074",
@@ -6405,7 +6760,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_074.jpg",
     "seasonNo": 4,
     "cardNo": 74,
-    "uid": "004074"
+    "uid": "004074",
+    "effectText": "このターンに (シェードの埃は延長) のキャラクターと入れ替えていたなら、相手の攻撃力 -30"
   },
   {
     "id": "4th_075",
@@ -6423,7 +6779,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_075.jpg",
     "seasonNo": 4,
     "cardNo": 75,
-    "uid": "004075"
+    "uid": "004075",
+    "effectText": "このターンに (シェードの埃は延長) のキャラクターと入れ替えていたなら、相手のHP -20"
   },
   {
     "id": "4th_076",
@@ -6441,7 +6798,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_076.jpg",
     "seasonNo": 4,
     "cardNo": 76,
-    "uid": "004076"
+    "uid": "004076",
+    "effectText": ""
   },
   {
     "id": "4th_077",
@@ -6459,7 +6817,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_077.jpg",
     "seasonNo": 4,
     "cardNo": 77,
-    "uid": "004077"
+    "uid": "004077",
+    "effectText": ""
   },
   {
     "id": "4th_078",
@@ -6477,7 +6836,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_078.jpg",
     "seasonNo": 4,
     "cardNo": 78,
-    "uid": "004078"
+    "uid": "004078",
+    "effectText": ""
   },
   {
     "id": "4th_079",
@@ -6495,7 +6855,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_079.jpg",
     "seasonNo": 4,
     "cardNo": 79,
-    "uid": "004079"
+    "uid": "004079",
+    "effectText": ""
   },
   {
     "id": "4th_080",
@@ -6513,7 +6874,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_080.jpg",
     "seasonNo": 4,
     "cardNo": 80,
-    "uid": "004080"
+    "uid": "004080",
+    "effectText": ""
   },
   {
     "id": "4th_081",
@@ -6531,7 +6893,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_081.jpg",
     "seasonNo": 4,
     "cardNo": 81,
-    "uid": "004081"
+    "uid": "004081",
+    "effectText": ""
   },
   {
     "id": "4th_082",
@@ -6549,7 +6912,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_082.jpg",
     "seasonNo": 4,
     "cardNo": 82,
-    "uid": "004082"
+    "uid": "004082",
+    "effectText": ""
   },
   {
     "id": "4th_083",
@@ -6567,7 +6931,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_083.jpg",
     "seasonNo": 4,
     "cardNo": 83,
-    "uid": "004083"
+    "uid": "004083",
+    "effectText": ""
   },
   {
     "id": "4th_084",
@@ -6585,7 +6950,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_084.jpg",
     "seasonNo": 4,
     "cardNo": 84,
-    "uid": "004084"
+    "uid": "004084",
+    "effectText": "相手のキャラクターの攻撃力が 0 なら、攻撃力 +50"
   },
   {
     "id": "4th_085",
@@ -6603,7 +6969,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_085.jpg",
     "seasonNo": 4,
     "cardNo": 85,
-    "uid": "004085"
+    "uid": "004085",
+    "effectText": ""
   },
   {
     "id": "4th_086",
@@ -6621,7 +6988,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_086.jpg",
     "seasonNo": 4,
     "cardNo": 86,
-    "uid": "004086"
+    "uid": "004086",
+    "effectText": ""
   },
   {
     "id": "4th_087",
@@ -6639,7 +7007,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_087.jpg",
     "seasonNo": 4,
     "cardNo": 87,
-    "uid": "004087"
+    "uid": "004087",
+    "effectText": "このターンに (お勉強しといてよ) のキャラクターと入れ替えていたなら、攻撃力 +50"
   },
   {
     "id": "4th_088",
@@ -6657,7 +7026,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_088.jpg",
     "seasonNo": 4,
     "cardNo": 88,
-    "uid": "004088"
+    "uid": "004088",
+    "effectText": "アビスのカードを 1 枚選び、裏向きにして混ぜ、デッキの底に置く。そうしない場合、ゲームに敗北する。相手のデッキの上から 3 枚を見て、好きな順番に入れ替えて戻す"
   },
   {
     "id": "4th_089",
@@ -6675,7 +7045,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_089.jpg",
     "seasonNo": 4,
     "cardNo": 89,
-    "uid": "004089"
+    "uid": "004089",
+    "effectText": "バトルゾーンのカードが (TAIDADA) のキャラクターなら、カードを 1 枚引く。このカードの効果でカードを引いたなら、手札の数はゲーム終了まで 1 枚増える"
   },
   {
     "id": "4th_090",
@@ -6693,7 +7064,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_090.jpg",
     "seasonNo": 4,
     "cardNo": 90,
-    "uid": "004090"
+    "uid": "004090",
+    "effectText": "相手のアビスにあるカード 1 枚を、相手のデッキの底に戻す"
   },
   {
     "id": "4th_091",
@@ -6711,7 +7083,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_091.jpg",
     "seasonNo": 4,
     "cardNo": 91,
-    "uid": "004091"
+    "uid": "004091",
+    "effectText": "手札から (TAIDADA) のキャラクターを好きな枚数公開し、その数だけ攻撃力 +10。HP が 50 以下になったなら、パワーチャージャーに置く"
   },
   {
     "id": "4th_092",
@@ -6729,7 +7102,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_092.jpg",
     "seasonNo": 4,
     "cardNo": 92,
-    "uid": "004092"
+    "uid": "004092",
+    "effectText": "バトルゾーンのキャラクターが (シェードの埃は延長) なら、相手の攻撃力 -40"
   },
   {
     "id": "4th_093",
@@ -6747,7 +7121,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_093.jpg",
     "seasonNo": 4,
     "cardNo": 93,
-    "uid": "004093"
+    "uid": "004093",
+    "effectText": "パワーチャージャーに 2 属性以上あるなら、HP+30"
   },
   {
     "id": "4th_094",
@@ -6765,7 +7140,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_094.jpg",
     "seasonNo": 4,
     "cardNo": 94,
-    "uid": "004094"
+    "uid": "004094",
+    "effectText": "パワーチャージャーにある (シェードの埃は延長) のキャラクターを 1 枚選び、このカードの効果として使用する。パワーチャージャーにカードが 5 枚以上置かれているなら、すぐにアビスに置く"
   },
   {
     "id": "4th_095",
@@ -6783,7 +7159,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_095.jpg",
     "seasonNo": 4,
     "cardNo": 95,
-    "uid": "004095"
+    "uid": "004095",
+    "effectText": "パワーチャージャーに 4 属性以上あるなら、攻撃力 +50。バトルに負けたとき、すぐにアビスに置く"
   },
   {
     "id": "4th_096",
@@ -6801,7 +7178,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_096.jpg",
     "seasonNo": 4,
     "cardNo": 96,
-    "uid": "004096"
+    "uid": "004096",
+    "effectText": "バトルゾーンのカードが (猫リセット) のキャラクターなら、自分がダメージを受けたとき、50 ダメージを軽減する"
   },
   {
     "id": "4th_097",
@@ -6819,7 +7197,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_097.jpg",
     "seasonNo": 4,
     "cardNo": 97,
-    "uid": "004097"
+    "uid": "004097",
+    "effectText": "手札を公開し、3 属性以上あるなら、攻撃力 +50"
   },
   {
     "id": "4th_098",
@@ -6837,7 +7216,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_098.jpg",
     "seasonNo": 4,
     "cardNo": 98,
-    "uid": "004098"
+    "uid": "004098",
+    "effectText": "バトルゾーンのカードが (猫リセット) のキャラクターなら、自分がダメージを受けたとき、100 ダメージを軽減する"
   },
   {
     "id": "4th_099",
@@ -6855,7 +7235,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_099.jpg",
     "seasonNo": 4,
     "cardNo": 99,
-    "uid": "004099"
+    "uid": "004099",
+    "effectText": "バトルゾーンのカードが (猫リセット) のキャラクターなら、相手の攻撃力を 100 にする"
   },
   {
     "id": "4th_100",
@@ -6873,7 +7254,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_100.jpg",
     "seasonNo": 4,
     "cardNo": 100,
-    "uid": "004100"
+    "uid": "004100",
+    "effectText": "バトルゾーンのカードが (猫リセット) のキャラクターなら、ターン終了時に、このターンに軽減した数値分のダメージを相手に与える"
   },
   {
     "id": "4th_101",
@@ -6891,7 +7273,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_101.jpg",
     "seasonNo": 4,
     "cardNo": 101,
-    "uid": "004101"
+    "uid": "004101",
+    "effectText": "相手のキャラクターの攻撃力が 0 なら、攻撃力 +20"
   },
   {
     "id": "4th_102",
@@ -6909,7 +7292,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_102.jpg",
     "seasonNo": 4,
     "cardNo": 102,
-    "uid": "004102"
+    "uid": "004102",
+    "effectText": "パワーチャージャーにある (お勉強しといてよ) のカードの数だけ、攻撃力 +10"
   },
   {
     "id": "4th_103",
@@ -6927,7 +7311,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_103.jpg",
     "seasonNo": 4,
     "cardNo": 103,
-    "uid": "004103"
+    "uid": "004103",
+    "effectText": "アビスにあるカードが風属性だけなら、攻撃力 +40"
   },
   {
     "id": "4th_104",
@@ -6945,7 +7330,8 @@
     "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_104.jpg",
     "seasonNo": 4,
     "cardNo": 104,
-    "uid": "004104"
+    "uid": "004104",
+    "effectText": "パワーチャージャーにある (お勉強しといてよ) のカードの数だけ、攻撃力 +20"
   },
   {
     "id": "2nd_010",
@@ -6963,7 +7349,8 @@
     "day": 20,
     "timeCount": 6,
     "season": "ALL ALONG THE WATCHTOWER",
-    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_10.jpg"
+    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_10.jpg",
+    "effectText": "前のターンで使用したキャラクターカードの属性が炎なら攻撃力 +20"
   },
   {
     "id": "2nd_100",
@@ -6981,7 +7368,8 @@
     "day": 0,
     "timeCount": 1,
     "season": "ALL ALONG THE WATCHTOWER",
-    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_100.png"
+    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_100.png",
+    "effectText": "自分の攻撃力 +10。相手のキャラクターカードの属性をバトルフィールドにいる間炎にする"
   },
   {
     "id": "2nd_101",
@@ -6999,7 +7387,8 @@
     "day": 0,
     "timeCount": 2,
     "season": "ALL ALONG THE WATCHTOWER",
-    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_101.jpg"
+    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_101.jpg",
+    "effectText": "自分の攻撃力 +20"
   },
   {
     "id": "2nd_102",
@@ -7017,7 +7406,8 @@
     "day": 0,
     "timeCount": 4,
     "season": "ALL ALONG THE WATCHTOWER",
-    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_102.jpg"
+    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_102.jpg",
+    "effectText": "パワーチャージャーのカードが風属性だけだったなら攻撃力 +50"
   },
   {
     "id": "2nd_103",
@@ -7035,7 +7425,8 @@
     "day": 0,
     "timeCount": 2,
     "season": "ALL ALONG THE WATCHTOWER",
-    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_103.jpg"
+    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_103.jpg",
+    "effectText": "自分のキャラクターカードの属性が風ならHPを10回復"
   },
   {
     "id": "2nd_104",
@@ -7053,7 +7444,8 @@
     "day": 0,
     "timeCount": 2,
     "season": "ALL ALONG THE WATCHTOWER",
-    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_104.jpg"
+    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_104.jpg",
+    "effectText": "キャラクターカードが 2 コスト以下なら、攻撃力 +20。キャラクターカードが 4 コスト以上ならパワーチャージャーに置く"
   },
   {
     "id": "2nd_105",
@@ -7071,7 +7463,8 @@
     "day": 80,
     "timeCount": 0,
     "season": "ALL ALONG THE WATCHTOWER",
-    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_105.jpg"
+    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_105.jpg",
+    "effectText": ""
   },
   {
     "id": "2nd_106",
@@ -7089,7 +7482,8 @@
     "day": 80,
     "timeCount": 2,
     "season": "ALL ALONG THE WATCHTOWER",
-    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_106.jpg"
+    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_106.jpg",
+    "effectText": "アビスに風属性のカードが 2 枚以上あるなら、時計が正午になる"
   },
   {
     "id": "2nd_011",
@@ -7107,7 +7501,8 @@
     "day": 20,
     "timeCount": 3,
     "season": "ALL ALONG THE WATCHTOWER",
-    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_11.jpg"
+    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_11.jpg",
+    "effectText": "前のターンで使用したキャラクターカードの属性が炎なら、さらに追加で時計を 0 ~ 5 つまで進めてもよい"
   },
   {
     "id": "2nd_012",
@@ -7125,7 +7520,8 @@
     "day": 50,
     "timeCount": 1,
     "season": "ALL ALONG THE WATCHTOWER",
-    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_12.jpg"
+    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_12.jpg",
+    "effectText": ""
   },
   {
     "id": "2nd_013",
@@ -7143,7 +7539,8 @@
     "day": 100,
     "timeCount": 1,
     "season": "ALL ALONG THE WATCHTOWER",
-    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_13.jpg"
+    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_13.jpg",
+    "effectText": ""
   },
   {
     "id": "2nd_014",
@@ -7161,7 +7558,8 @@
     "day": 100,
     "timeCount": 4,
     "season": "ALL ALONG THE WATCHTOWER",
-    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_14.jpg"
+    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_14.jpg",
+    "effectText": "アビスに闇属性のカードが 2 枚以上あるなら、HP を 20 回復"
   },
   {
     "id": "2nd_015",
@@ -7179,7 +7577,8 @@
     "day": 70,
     "timeCount": 4,
     "season": "ALL ALONG THE WATCHTOWER",
-    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_15.jpg"
+    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_15.jpg",
+    "effectText": "前のターンで使用したキャラクターカードの属性が闇で、今が昼ならカードを使用する初回のみ手札からエンチャントを追加で 1 枚使っても良い。その後、カードを 1 枚引く"
   },
   {
     "id": "2nd_016",
@@ -7197,7 +7596,8 @@
     "day": 150,
     "timeCount": 2,
     "season": "ALL ALONG THE WATCHTOWER",
-    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_16.jpg"
+    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_16.jpg",
+    "effectText": ""
   },
   {
     "id": "2nd_017",
@@ -7215,7 +7615,8 @@
     "day": 80,
     "timeCount": 2,
     "season": "ALL ALONG THE WATCHTOWER",
-    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_17.jpg"
+    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_17.jpg",
+    "effectText": ""
   },
   {
     "id": "2nd_018",
@@ -7233,7 +7634,8 @@
     "day": 30,
     "timeCount": 0,
     "season": "ALL ALONG THE WATCHTOWER",
-    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_18.jpg"
+    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_18.jpg",
+    "effectText": "前のターンで使用したキャラクターカードの属性が風なら攻撃力+20"
   },
   {
     "id": "2nd_019",
@@ -7251,7 +7653,8 @@
     "day": 40,
     "timeCount": 1,
     "season": "ALL ALONG THE WATCHTOWER",
-    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_19.jpg"
+    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_19.jpg",
+    "effectText": "前のターンで使用したキャラクターカードの属性が風なら相手のパワーチャージャーから SEND TO POWER +1 のカードを 1 枚選び、相手のデッキの底に置く。"
   },
   {
     "id": "2nd_002",
@@ -7269,7 +7672,8 @@
     "day": 140,
     "timeCount": 0,
     "season": "ALL ALONG THE WATCHTOWER",
-    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_2.jpg"
+    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_2.jpg",
+    "effectText": ""
   },
   {
     "id": "2nd_020",
@@ -7287,7 +7691,8 @@
     "day": 130,
     "timeCount": 0,
     "season": "ALL ALONG THE WATCHTOWER",
-    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_20.jpg"
+    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_20.jpg",
+    "effectText": ""
   },
   {
     "id": "2nd_021",
@@ -7305,7 +7710,8 @@
     "day": 20,
     "timeCount": 2,
     "season": "ALL ALONG THE WATCHTOWER",
-    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_21.jpg"
+    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_21.jpg",
+    "effectText": "相手のキャラクターカードの属性が闇なら攻撃力+20"
   },
   {
     "id": "2nd_022",
@@ -7323,7 +7729,8 @@
     "day": 10,
     "timeCount": 1,
     "season": "ALL ALONG THE WATCHTOWER",
-    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_22.jpg"
+    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_22.jpg",
+    "effectText": "前のターンで使用したキャラクターカードの属性が電気なら攻撃力+20"
   },
   {
     "id": "2nd_023",
@@ -7341,7 +7748,8 @@
     "day": 40,
     "timeCount": 3,
     "season": "ALL ALONG THE WATCHTOWER",
-    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_23.jpg"
+    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_23.jpg",
+    "effectText": "前のターンで使用したキャラクターカードの属性が電気かつ、相手のキャラクターカードが炎か闇なら攻撃力+40"
   },
   {
     "id": "2nd_024",
@@ -7359,7 +7767,8 @@
     "day": 20,
     "timeCount": 1,
     "season": "ALL ALONG THE WATCHTOWER",
-    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_24.jpg"
+    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_24.jpg",
+    "effectText": "前のターンで使用したキャラクターカードの属性が電気で、今が夜なら相手のパワーチャージャーからSEND TO POWER +1のカードを1枚選び、相手のデッキの底に置く"
   },
   {
     "id": "2nd_025",
@@ -7377,7 +7786,8 @@
     "day": 0,
     "timeCount": 3,
     "season": "ALL ALONG THE WATCHTOWER",
-    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_25.jpg"
+    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_25.jpg",
+    "effectText": "夜なら攻撃力+50"
   },
   {
     "id": "2nd_026",
@@ -7395,7 +7805,8 @@
     "day": 0,
     "timeCount": 2,
     "season": "ALL ALONG THE WATCHTOWER",
-    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_26.jpg"
+    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_26.jpg",
+    "effectText": "夜なら、同時に出した自分のキャラクターカードの攻撃力を+30する"
   },
   {
     "id": "4th_012",
@@ -7413,7 +7824,8 @@
     "day": 40,
     "timeCount": 1,
     "season": "Fantasy Is Reality",
-    "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_012.jpg"
+    "imagePath": "/images/cards/Zutomayocard_4st/zutomayocard_4th_012.jpg",
+    "effectText": ""
   },
   {
     "id": "2nd_071",
@@ -7431,7 +7843,8 @@
     "day": 70,
     "timeCount": 2,
     "season": "ALL ALONG THE WATCHTOWER",
-    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_71.jpg"
+    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_71.jpg",
+    "effectText": ""
   },
   {
     "id": "2nd_072",
@@ -7449,7 +7862,8 @@
     "day": 40,
     "timeCount": 1,
     "season": "ALL ALONG THE WATCHTOWER",
-    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_72.jpg"
+    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_72.jpg",
+    "effectText": ""
   },
   {
     "id": "2nd_073",
@@ -7467,7 +7881,8 @@
     "day": 30,
     "timeCount": 0,
     "season": "ALL ALONG THE WATCHTOWER",
-    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_73.jpg"
+    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_73.jpg",
+    "effectText": ""
   },
   {
     "id": "2nd_074",
@@ -7485,7 +7900,8 @@
     "day": 60,
     "timeCount": 1,
     "season": "ALL ALONG THE WATCHTOWER",
-    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_74.jpg"
+    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_74.jpg",
+    "effectText": ""
   },
   {
     "id": "2nd_075",
@@ -7503,7 +7919,8 @@
     "day": 50,
     "timeCount": 3,
     "season": "ALL ALONG THE WATCHTOWER",
-    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_75.jpg"
+    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_75.jpg",
+    "effectText": ""
   },
   {
     "id": "2nd_076",
@@ -7521,7 +7938,8 @@
     "day": 30,
     "timeCount": 2,
     "season": "ALL ALONG THE WATCHTOWER",
-    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_76.jpg"
+    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_76.jpg",
+    "effectText": "相手のキャラクターカードの属性が炎なら攻撃力+20"
   },
   {
     "id": "2nd_077",
@@ -7539,7 +7957,8 @@
     "day": 20,
     "timeCount": 3,
     "season": "ALL ALONG THE WATCHTOWER",
-    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_77.jpg"
+    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_77.jpg",
+    "effectText": ""
   },
   {
     "id": "2nd_078",
@@ -7557,7 +7976,8 @@
     "day": 20,
     "timeCount": 3,
     "season": "ALL ALONG THE WATCHTOWER",
-    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_78.jpg"
+    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_78.jpg",
+    "effectText": ""
   },
   {
     "id": "2nd_079",
@@ -7575,7 +7995,8 @@
     "day": 50,
     "timeCount": 4,
     "season": "ALL ALONG THE WATCHTOWER",
-    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_79.jpg"
+    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_79.jpg",
+    "effectText": ""
   },
   {
     "id": "2nd_080",
@@ -7593,6 +8014,7 @@
     "day": 30,
     "timeCount": 3,
     "season": "ALL ALONG THE WATCHTOWER",
-    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_80.jpg"
+    "imagePath": "/images/cards/Zutomayocard_2st/zutomayocard_2nd_80.jpg",
+    "effectText": ""
   }
 ]

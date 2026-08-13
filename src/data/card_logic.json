@@ -1,0 +1,4259 @@
+{
+  "1st_005": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "相手の攻撃力を昼夜逆転する\\n※相手のエンチャント発動のち有効"
+          }
+        ]
+      }
+    ]
+  },
+  "1st_006": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "アビスのカードの中から自由に1枚選び、そのターンで使う"
+          }
+        ]
+      }
+    ]
+  },
+  "1st_007": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 50
+          }
+        ]
+      }
+    ]
+  },
+  "1st_008": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "時計を無効\\nこのターンのはじまりの時間に戻る"
+          }
+        ]
+      }
+    ]
+  },
+  "1st_025": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "TARGET_STATUS",
+            "target": "OPPONENT_ATTR",
+            "value": "風"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 50
+          }
+        ]
+      }
+    ]
+  },
+  "1st_026": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "このターンのはじまりの時間から相手の時計分、時間が戻る"
+          }
+        ]
+      }
+    ]
+  },
+  "1st_027": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "TARGET_STATUS",
+            "target": "OPPONENT_ATTR",
+            "value": "電気"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 50
+          }
+        ]
+      }
+    ]
+  },
+  "1st_028": {
+    "effects": [
+      {
+        "timing": "ON_DAMAGE_TAKEN",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "REDUCE_DAMAGE",
+            "value": 40
+          }
+        ]
+      }
+    ]
+  },
+  "1st_029": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "TARGET_STATUS",
+            "target": "OPPONENT_ATTR",
+            "value": "闇"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 50
+          }
+        ]
+      }
+    ]
+  },
+  "1st_030": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "1st_031": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "TARGET_STATUS",
+            "target": "OPPONENT_ATTR",
+            "value": "炎"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 50
+          }
+        ]
+      }
+    ]
+  },
+  "1st_032": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 50
+          }
+        ]
+      }
+    ]
+  },
+  "1st_053": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "TIME_IS",
+            "value": "NIGHT"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "1st_054": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "TARGET_STATUS",
+            "target": "OPPONENT_ATTR",
+            "value": "風"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "1st_055": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "1st_056": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "TARGET_STATUS",
+            "target": "OPPONENT_ATTR",
+            "value": "電気"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "1st_057": {
+    "effects": [
+      {
+        "timing": "ON_DAMAGE_TAKEN",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "REDUCE_DAMAGE",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "1st_058": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "1st_059": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "TIME_IS",
+            "value": "DAY"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "1st_060": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "TARGET_STATUS",
+            "target": "OPPONENT_ATTR",
+            "value": "闇"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "1st_061": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "1st_062": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "TARGET_STATUS",
+            "target": "OPPONENT_ATTR",
+            "value": "炎"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "1st_063": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "自分の基礎攻撃力を昼夜逆転する"
+          }
+        ]
+      }
+    ]
+  },
+  "1st_064": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "1st_081": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_HP",
+            "target": "SELF",
+            "operation": "HEAL",
+            "value": 10
+          }
+        ]
+      }
+    ]
+  },
+  "1st_082": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "1st_083": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "TIME_IS",
+            "value": "NIGHT"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "1st_084": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "1st_085": {
+    "effects": [
+      {
+        "timing": "ON_DAMAGE_TAKEN",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "REDUCE_DAMAGE",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "1st_086": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "手札1枚とアビスの一番上のカード1枚を入れ替える"
+          }
+        ]
+      }
+    ]
+  },
+  "1st_087": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_HP",
+            "target": "SELF",
+            "operation": "HEAL",
+            "value": 10
+          }
+        ]
+      }
+    ]
+  },
+  "1st_088": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "1st_089": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 10
+          }
+        ]
+      }
+    ]
+  },
+  "1st_090": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "1st_091": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "1st_092": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "デッキから1枚カードを引き、手札に加える ※このカードを使用後、手札の数はバトル終了まで1枚増える"
+          }
+        ]
+      }
+    ]
+  },
+  "1st_093": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_HP",
+            "target": "SELF",
+            "operation": "HEAL",
+            "value": 10
+          }
+        ]
+      }
+    ]
+  },
+  "1st_094": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "1st_095": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "1st_096": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 10
+          }
+        ]
+      }
+    ]
+  },
+  "1st_097": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "1st_098": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "1st_099": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_HP",
+            "target": "SELF",
+            "operation": "HEAL",
+            "value": 10
+          }
+        ]
+      }
+    ]
+  },
+  "1st_100": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "1st_101": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "1st_102": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "TIME_IS",
+            "value": "DAY"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "1st_103": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "相手のアビスのカードを1枚選んでデッキに戻させる"
+          }
+        ]
+      }
+    ]
+  },
+  "1st_104": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "相手のデッキの一番上のカードをパワーの有無に関わらずアビスに置く"
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_005": {
+    "effects": [
+      {
+        "timing": "ON_TURN_END",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MOVE_CARD",
+            "target": "SELF",
+            "to": "ABYSS"
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_006": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "同時に出す自分のキャラクターカードのパワーコストが-2の状態で出せる"
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_007": {
+    "effects": [
+      {
+        "timing": "ON_TURN_END",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MOVE_CARD",
+            "target": "SELF",
+            "to": "ABYSS"
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_008": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "自分のキャラクターカードの属性が電気なら、相手のパワーチャージャーから合計SEND TO POWER ✦2までのカードを選び、相手のデッキの底に置く"
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_009": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "TARGET_STATUS",
+            "target": "OPPONENT_ATTR",
+            "value": "風"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_027": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "DRAW_CARD",
+            "amount": 2
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_028": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 40
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_029": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 50
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_030": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "TIME_IS",
+            "value": "DAY"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 50
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_031": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "DRAW_CARD",
+            "amount": 2
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_032": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_035": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_036": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "アビスに炎属性のカードが2枚以上あるなら、時計が真夜中になる"
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_040": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_041": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "HISTORY_PLAYED",
+            "target": "PREV_TURN_ATTR",
+            "value": "闇"
+          }
+        ],
+        "actions": []
+      }
+    ]
+  },
+  "2nd_042": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "HISTORY_PLAYED",
+            "target": "PREV_TURN_ATTR",
+            "value": "闇"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_045": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_047": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "TIME_IS",
+            "value": "DAY"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 40
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_049": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_050": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "アビスに電気属性のカードがあるなら、相手のHPを20減らす"
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_053": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 40
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_054": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_055": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "自分のキャラクターカードの属性が炎なら、相手のエリアエンチャントカードを相手のデッキの上に置く"
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_056": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_057": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_058": {
+    "effects": [
+      {
+        "timing": "ON_TURN_END",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MOVE_CARD",
+            "target": "SELF",
+            "to": "ABYSS"
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_059": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "TIME_IS",
+            "value": "DAY"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_060": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_061": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 40
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_062": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "同時に出したキャラクターカードを、変えなくてもよい"
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_063": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_064": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      },
+      {
+        "timing": "ON_TURN_END",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MOVE_CARD",
+            "target": "SELF",
+            "to": "ABYSS"
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_068": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "TIME_IS",
+            "value": "NIGHT"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_069": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "TARGET_STATUS",
+            "target": "OPPONENT_ATTR",
+            "value": "電気"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_081": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_082": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "DRAW_CARD",
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_083": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "TIME_IS",
+            "value": "NIGHT"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_084": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 10
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_085": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_HP",
+            "target": "SELF",
+            "operation": "HEAL",
+            "value": 10
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_086": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "TIME_IS",
+            "value": "NIGHT"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_087": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_088": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 10
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_089": {
+    "effects": [
+      {
+        "timing": "ON_DAMAGE_TAKEN",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "REDUCE_DAMAGE",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_090": {
+    "effects": [
+      {
+        "timing": "ON_DAMAGE_TAKEN",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "REDUCE_DAMAGE",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_091": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_HP",
+            "target": "SELF",
+            "operation": "HEAL",
+            "value": 10
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_092": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_093": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_094": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "DRAW_CARD",
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_095": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "TIME_IS",
+            "value": "DAY"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_096": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 10
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_097": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_HP",
+            "target": "SELF",
+            "operation": "HEAL",
+            "value": 10
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_098": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "TIME_IS",
+            "value": "DAY"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_099": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_001": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 100
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_005": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "HPが相手のHPより少ないなら、時計を真夜中にする"
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_006": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 100
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_007": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "HPが相手のHPより少ないなら、時計を真昼にする"
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_008": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 100
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_009": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 50
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_011": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 40
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_014": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "相手のエリアエンチャントを相手のデッキの底に置く"
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_017": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 40
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_019": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_021": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "相手のエリアエンチャントを相手のデッキの上に置く"
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_022": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 40
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_023": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 40
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_025": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 70
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_026": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "真夜中の前後2マスも真夜中として扱う"
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_027": {
+    "effects": [
+      {
+        "timing": "ON_TURN_END",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_HP",
+            "target": "SELF",
+            "operation": "HEAL",
+            "value": 50
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_028": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 80
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_029": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "TIME_IS",
+            "value": "DAY"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 50
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_030": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 70
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_031": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "DRAW_CARD",
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_032": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 80
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_033": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "TIME_IS",
+            "value": "DAY"
+          }
+        ],
+        "actions": []
+      }
+    ]
+  },
+  "3rd_036": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_039": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 50
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_040": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_042": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 50
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_045": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "相手の手札を公開する"
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_047": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 50
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_051": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 40
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_052": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 40
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_053": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "TIME_IS",
+            "value": "NIGHT"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 40
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_054": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 60
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_055": {
+    "effects": [
+      {
+        "timing": "ON_TURN_END",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "相手のエリアエンチャントをデッキの底に戻し、以後相手はエリアエンチャントをセットできない。相手がアビスにカードを置いたターンの終了時にパワーチャージャーに置く"
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_056": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 50
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_057": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 70
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_058": {
+    "effects": [
+      {
+        "timing": "ON_TURN_END",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_HP",
+            "target": "SELF",
+            "operation": "HEAL",
+            "value": 10
+          }
+        ]
+      },
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MOVE_CARD",
+            "target": "SELF",
+            "to": "ABYSS"
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_059": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 100
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_060": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 70
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_061": {
+    "effects": [
+      {
+        "timing": "ON_TURN_END",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "すべてのカードの時計を1にする。ターンの終了時に、相手のフィールドにエリアエンチャントがあるならパワーチャージャーに置く"
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_062": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 50
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_063": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 60
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_064": {
+    "effects": [
+      {
+        "timing": "ON_TURN_END",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MOVE_CARD",
+            "target": "SELF",
+            "to": "ABYSS"
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_081": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_082": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 40
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_083": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 60
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_084": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 70
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_085": {
+    "effects": [
+      {
+        "timing": "ON_TURN_END",
+        "conditions": [
+          {
+            "type": "TIME_IS",
+            "value": "DAY"
+          }
+        ],
+        "actions": []
+      },
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MOVE_CARD",
+            "target": "SELF",
+            "to": "ABYSS"
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_086": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 10
+          }
+        ]
+      },
+      {
+        "timing": "ON_TURN_END",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MOVE_CARD",
+            "target": "SELF",
+            "to": "ABYSS"
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_087": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 40
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_088": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_089": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 50
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_090": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_091": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_092": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 10
+          }
+        ]
+      },
+      {
+        "timing": "ON_TURN_END",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MOVE_CARD",
+            "target": "SELF",
+            "to": "ABYSS"
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_093": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_094": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 40
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_095": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 50
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_096": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 50
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_097": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "相手はターンの開始時にデッキの一番上を公開する。パワーコストが6以上のカードが山札から公開されたらパワーチャージャーに置く"
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_098": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 10
+          }
+        ]
+      },
+      {
+        "timing": "ON_TURN_END",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MOVE_CARD",
+            "target": "SELF",
+            "to": "ABYSS"
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_099": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_100": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 40
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_101": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 40
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_102": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 40
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_103": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_104": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 10
+          }
+        ]
+      },
+      {
+        "timing": "ON_TURN_END",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MOVE_CARD",
+            "target": "SELF",
+            "to": "ABYSS"
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_105": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 100
+          }
+        ]
+      }
+    ]
+  },
+  "3rd_106": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 100
+          }
+        ]
+      }
+    ]
+  },
+  "4th_001": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "4th_002": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "パワーチャージャーから (シェードの埃は延長) のキャラクターを2枚まで選び、このカードの効果として使用する"
+          }
+        ]
+      }
+    ]
+  },
+  "4th_005": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "4th_006": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "アビスのカードを4枚選び、裏向きにして混ぜ、デッキの底に置く。そうしない場合、ゲームに敗北する。相手のパワーチャージャーのキャラクターを1枚選び、バトルゾーンのキャラクターと入れ替える。この効果で出したキャラクターの効果は発動しない"
+          }
+        ]
+      }
+    ]
+  },
+  "4th_007": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "4th_008": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 80
+          }
+        ]
+      }
+    ]
+  },
+  "4th_009": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "アビスに3枚以上カードがあるなら、相手のキャラクターの攻撃力 -30"
+          }
+        ]
+      }
+    ]
+  },
+  "4th_010": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "4th_011": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "ZONE_HAS",
+            "zone": "OPPONENT_ABYSS",
+            "count": 0
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 50
+          }
+        ]
+      }
+    ]
+  },
+  "4th_014": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 60
+          }
+        ]
+      }
+    ]
+  },
+  "4th_017": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 50
+          }
+        ]
+      }
+    ]
+  },
+  "4th_020": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "4th_023": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 100
+          }
+        ]
+      }
+    ]
+  },
+  "4th_024": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 110
+          }
+        ]
+      }
+    ]
+  },
+  "4th_027": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "アビスのカードを1枚以上選び、裏向きにして混ぜ、デッキの底に置く。そうしない場合、ゲームに敗北する。相手のデッキの上から、それと同じ枚数をアビスに置く"
+          }
+        ]
+      }
+    ]
+  },
+  "4th_028": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "アビスのカードを6枚選び、裏向きにして混ぜ、デッキの底に置く。そうしない場合、ゲームに敗北する。クロノスを好きな時間にする"
+          }
+        ]
+      }
+    ]
+  },
+  "4th_029": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "ZONE_HAS",
+            "zone": "OPPONENT_ABYSS",
+            "count": 0
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 100
+          }
+        ]
+      }
+    ]
+  },
+  "4th_030": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "ZONE_HAS",
+            "zone": "OPPONENT_ABYSS",
+            "count": 0
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 40
+          }
+        ]
+      },
+      {
+        "timing": "ON_ZONE_CHANGE_ABYSS",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MOVE_CARD",
+            "target": "SELF",
+            "to": "ABYSS"
+          }
+        ]
+      }
+    ]
+  },
+  "4th_031": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 100
+          }
+        ]
+      }
+    ]
+  },
+  "4th_032": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 50
+          }
+        ]
+      },
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MOVE_CARD",
+            "target": "SELF",
+            "to": "ABYSS"
+          }
+        ]
+      }
+    ]
+  },
+  "4th_033": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "ZONE_HAS",
+            "zone": "ABYSS",
+            "attribute": "風",
+            "modifier": "ONLY"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      },
+      {
+        "timing": "ON_ZONE_CHANGE_POWER",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MOVE_CARD",
+            "target": "SELF",
+            "to": "ABYSS"
+          }
+        ]
+      }
+    ]
+  },
+  "4th_034": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "4th_035": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 10
+          }
+        ]
+      }
+    ]
+  },
+  "4th_037": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "4th_039": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 40
+          }
+        ]
+      }
+    ]
+  },
+  "4th_041": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "このターンに (シェードの埃は延長) のキャラクターと入れ替えていたなら、相手のエンチャントの効果をすべて無効にする (すでに処理された効果は無効にできない)"
+          }
+        ]
+      }
+    ]
+  },
+  "4th_053": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "DRAW_CARD",
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  },
+  "4th_054": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "DRAW_CARD",
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  },
+  "4th_055": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "ZONE_HAS",
+            "zone": "BATTLE",
+            "name": "TAIDADA"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_HP",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "4th_056": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "ZONE_HAS",
+            "zone": "OPPONENT_ABYSS",
+            "count": 0
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 50
+          }
+        ]
+      }
+    ]
+  },
+  "4th_057": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "アビスに3枚以上のカードがあるなら、相手のデッキの上から2枚を相手のアビスに置く"
+          }
+        ]
+      }
+    ]
+  },
+  "4th_058": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "DRAW_CARD",
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  },
+  "4th_059": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_HP",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 50
+          }
+        ]
+      }
+    ]
+  },
+  "4th_060": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "4th_061": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "手札からカードを好きな枚数選び、デッキの底に置く。そうしたなら、同じ数だけデッキからカードを引く"
+          }
+        ]
+      }
+    ]
+  },
+  "4th_062": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "手札から闇属性のカードを好きな枚数選び、アビスに置く。そうしたなら、同じ数だけカードを引く"
+          }
+        ]
+      }
+    ]
+  },
+  "4th_063": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "手札から炎属性のカードを好きな枚数選び、アビスに置く。そうしたなら、同じ数だけカードを引く"
+          }
+        ]
+      }
+    ]
+  },
+  "4th_064": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "ZONE_HAS",
+            "zone": "ABYSS",
+            "attribute": "風",
+            "modifier": "ONLY"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 60
+          }
+        ]
+      }
+    ]
+  },
+  "4th_065": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "ZONE_HAS",
+            "zone": "BATTLE",
+            "name": "お勉強しといてよ"
+          }
+        ],
+        "actions": []
+      },
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MOVE_CARD",
+            "target": "SELF",
+            "to": "ABYSS"
+          }
+        ]
+      }
+    ]
+  },
+  "4th_066": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "4th_073": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_HP",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "4th_074": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "OPPONENT",
+            "operation": "SUBTRACT",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "4th_075": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "このターンに (シェードの埃は延長) のキャラクターと入れ替えていたなら、相手のHP -20"
+          }
+        ]
+      }
+    ]
+  },
+  "4th_084": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 50
+          }
+        ]
+      }
+    ]
+  },
+  "4th_087": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 50
+          }
+        ]
+      }
+    ]
+  },
+  "4th_088": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "アビスのカードを 1 枚選び、裏向きにして混ぜ、デッキの底に置く。そうしない場合、ゲームに敗北する。相手のデッキの上から 3 枚を見て、好きな順番に入れ替えて戻す"
+          }
+        ]
+      }
+    ]
+  },
+  "4th_089": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "ZONE_HAS",
+            "zone": "BATTLE",
+            "name": "TAIDADA"
+          }
+        ],
+        "actions": [
+          {
+            "type": "DRAW_CARD",
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  },
+  "4th_090": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "相手のアビスにあるカード 1 枚を、相手のデッキの底に戻す"
+          }
+        ]
+      }
+    ]
+  },
+  "4th_091": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 10
+          }
+        ]
+      }
+    ]
+  },
+  "4th_092": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "ZONE_HAS",
+            "zone": "BATTLE",
+            "name": "シェードの埃は延長"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "OPPONENT",
+            "operation": "SUBTRACT",
+            "value": 40
+          }
+        ]
+      }
+    ]
+  },
+  "4th_093": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_HP",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 30
+          }
+        ]
+      }
+    ]
+  },
+  "4th_094": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MOVE_CARD",
+            "target": "SELF",
+            "to": "ABYSS"
+          }
+        ]
+      }
+    ]
+  },
+  "4th_095": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 50
+          }
+        ]
+      },
+      {
+        "timing": "ON_BATTLE_LOSE",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MOVE_CARD",
+            "target": "SELF",
+            "to": "ABYSS"
+          }
+        ]
+      }
+    ]
+  },
+  "4th_096": {
+    "effects": [
+      {
+        "timing": "ON_DAMAGE_TAKEN",
+        "conditions": [
+          {
+            "type": "ZONE_HAS",
+            "zone": "BATTLE",
+            "name": "猫リセット"
+          }
+        ],
+        "actions": [
+          {
+            "type": "REDUCE_DAMAGE",
+            "value": 50
+          }
+        ]
+      }
+    ]
+  },
+  "4th_097": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 50
+          }
+        ]
+      }
+    ]
+  },
+  "4th_098": {
+    "effects": [
+      {
+        "timing": "ON_DAMAGE_TAKEN",
+        "conditions": [
+          {
+            "type": "ZONE_HAS",
+            "zone": "BATTLE",
+            "name": "猫リセット"
+          }
+        ],
+        "actions": [
+          {
+            "type": "REDUCE_DAMAGE",
+            "value": 100
+          }
+        ]
+      }
+    ]
+  },
+  "4th_099": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "ZONE_HAS",
+            "zone": "BATTLE",
+            "name": "猫リセット"
+          }
+        ],
+        "actions": []
+      }
+    ]
+  },
+  "4th_100": {
+    "effects": [
+      {
+        "timing": "ON_TURN_END",
+        "conditions": [
+          {
+            "type": "ZONE_HAS",
+            "zone": "BATTLE",
+            "name": "猫リセット"
+          }
+        ],
+        "actions": []
+      }
+    ]
+  },
+  "4th_101": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "4th_102": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 10
+          }
+        ]
+      }
+    ]
+  },
+  "4th_103": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "ZONE_HAS",
+            "zone": "ABYSS",
+            "attribute": "風",
+            "modifier": "ONLY"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 40
+          }
+        ]
+      }
+    ]
+  },
+  "4th_104": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_010": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "HISTORY_PLAYED",
+            "target": "PREV_TURN_ATTR",
+            "value": "炎"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_100": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 10
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_101": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_102": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 50
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_103": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_HP",
+            "target": "SELF",
+            "operation": "HEAL",
+            "value": 10
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_104": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_106": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "アビスに風属性のカードが 2 枚以上あるなら、時計が正午になる"
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_011": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "HISTORY_PLAYED",
+            "target": "PREV_TURN_ATTR",
+            "value": "炎"
+          }
+        ],
+        "actions": []
+      }
+    ]
+  },
+  "2nd_014": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "UNPARSED",
+            "originalText": "アビスに闇属性のカードが 2 枚以上あるなら、HP を 20 回復"
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_015": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "TIME_IS",
+            "value": "DAY"
+          }
+        ],
+        "actions": []
+      },
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "DRAW_CARD",
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_018": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "HISTORY_PLAYED",
+            "target": "PREV_TURN_ATTR",
+            "value": "風"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_019": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "HISTORY_PLAYED",
+            "target": "PREV_TURN_ATTR",
+            "value": "風"
+          }
+        ],
+        "actions": []
+      }
+    ]
+  },
+  "2nd_021": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "TARGET_STATUS",
+            "target": "OPPONENT_ATTR",
+            "value": "闇"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_022": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "HISTORY_PLAYED",
+            "target": "PREV_TURN_ATTR",
+            "value": "電気"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_023": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 40
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_024": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "TIME_IS",
+            "value": "NIGHT"
+          }
+        ],
+        "actions": []
+      }
+    ]
+  },
+  "2nd_025": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "TIME_IS",
+            "value": "NIGHT"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 50
+          }
+        ]
+      }
+    ]
+  },
+  "2nd_026": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "TIME_IS",
+            "value": "NIGHT"
+          }
+        ],
+        "actions": []
+      }
+    ]
+  },
+  "2nd_076": {
+    "effects": [
+      {
+        "timing": "PHASE_ATTACK_CALC",
+        "conditions": [
+          {
+            "type": "TARGET_STATUS",
+            "target": "OPPONENT_ATTR",
+            "value": "炎"
+          }
+        ],
+        "actions": [
+          {
+            "type": "MODIFY_ATTACK",
+            "target": "SELF",
+            "operation": "ADD",
+            "value": 20
+          }
+        ]
+      }
+    ]
+  }
+}
